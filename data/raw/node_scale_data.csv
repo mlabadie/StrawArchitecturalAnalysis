@@ -1,0 +1,1661 @@
+,node_id,rank,branching_type,complete,no_modules_branching,no_branch_crown_branching,no_extension_crown_branching,branching_length,Genotype,order,date,plant
+0,4120,1,branch crown,complete,8,5,3,24,Ciflorette,0,05-04-2022,1.0
+1,4195,2,branch crown,complete,3,2,1,10,Ciflorette,0,05-04-2022,1.0
+2,4228,3,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,1.0
+3,4231,4,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,1.0
+4,4234,5,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,1.0
+5,4237,6,branch crown,complete,0,0,0,0,Ciflorette,0,05-04-2022,1.0
+6,4239,7,vegetative bud,other,0,0,0,0,Ciflorette,1,05-04-2022,1.0
+7,4242,8,branch crown,incomplete,1,1,0,2,Ciflorette,1,05-04-2022,1.0
+8,4257,9,vegetative bud,other,0,0,0,0,Ciflorette,1,05-04-2022,1.0
+9,4264,1,branch crown,complete,0,0,0,0,Ciflorette,0,05-04-2022,2.0
+10,4266,2,vegetative bud,other,0,0,0,0,Ciflorette,1,05-04-2022,2.0
+11,4269,3,vegetative bud,other,0,0,0,0,Ciflorette,1,05-04-2022,2.0
+12,4272,4,vegetative bud,other,0,0,0,0,Ciflorette,1,05-04-2022,2.0
+13,4275,5,branch crown,complete,6,2,4,15,Ciflorette,1,05-04-2022,2.0
+14,4335,6,-1,other,0,0,0,0,Ciflorette,1,05-04-2022,2.0
+15,4350,7,branch crown,complete,2,1,1,5,Ciflorette,1,05-04-2022,2.0
+16,4374,8,branch crown,complete,0,0,0,0,Ciflorette,1,05-04-2022,2.0
+17,4376,9,,other,0,0,0,0,Ciflorette,2,05-04-2022,2.0
+18,4377,10,,other,0,0,0,0,Ciflorette,2,05-04-2022,2.0
+19,4378,11,branch crown,complete,0,0,0,0,Ciflorette,2,05-04-2022,2.0
+20,4380,12,,other,0,0,0,0,Ciflorette,3,05-04-2022,2.0
+21,4381,13,,other,0,0,0,0,Ciflorette,3,05-04-2022,2.0
+22,4382,14,vegetative bud,other,0,0,0,0,Ciflorette,3,05-04-2022,2.0
+23,4397,1,branch crown,complete,4,2,2,15,Ciflorette,0,05-04-2022,3.0
+24,4451,2,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,3.0
+25,4454,3,branch crown,complete,2,1,1,6,Ciflorette,0,05-04-2022,3.0
+26,4481,4,branch crown,complete,0,0,0,0,Ciflorette,0,05-04-2022,3.0
+27,4483,5,vegetative bud,other,0,0,0,0,Ciflorette,1,05-04-2022,3.0
+28,4486,6,branch crown,incomplete,0,0,0,0,Ciflorette,1,05-04-2022,3.0
+29,4488,7,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,3.0
+30,4491,8,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,3.0
+31,4494,9,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,3.0
+32,4497,10,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,3.0
+33,4500,11,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,3.0
+34,4508,1,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,4.0
+35,4511,2,branch crown,complete,3,1,2,8,Ciflorette,0,05-04-2022,4.0
+36,4541,3,branch crown,complete,2,1,1,4,Ciflorette,0,05-04-2022,4.0
+37,4562,4,branch crown,complete,1,1,0,1,Ciflorette,0,05-04-2022,4.0
+38,4568,5,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,4.0
+39,4571,6,branch crown,complete,0,0,0,0,Ciflorette,0,05-04-2022,4.0
+40,4573,7,branch crown,complete,0,0,0,0,Ciflorette,1,05-04-2022,4.0
+41,4575,8,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,4.0
+42,4578,9,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,4.0
+43,4581,10,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,4.0
+44,4584,11,-1,other,0,0,0,0,Ciflorette,2,05-04-2022,4.0
+45,4595,1,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,5.0
+46,4598,2,branch crown,complete,3,1,2,10,Ciflorette,0,05-04-2022,5.0
+47,4634,3,branch crown,complete,4,1,3,8,Ciflorette,0,05-04-2022,5.0
+48,4664,4,branch crown,complete,3,1,2,7,Ciflorette,0,05-04-2022,5.0
+49,4691,5,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,5.0
+50,4697,1,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,6.0
+51,4700,2,branch crown,complete,2,1,1,10,Ciflorette,0,05-04-2022,6.0
+52,4739,3,branch crown,complete,5,2,3,12,Ciflorette,0,05-04-2022,6.0
+53,4782,4,vegetative bud,other,0,0,0,0,Ciflorette,0,05-04-2022,6.0
+54,4785,5,branch crown,complete,2,1,1,8,Ciflorette,0,05-04-2022,6.0
+55,4818,6,branch crown,complete,0,0,0,0,Ciflorette,0,05-04-2022,6.0
+56,4820,7,vegetative bud,other,0,0,0,0,Ciflorette,1,05-04-2022,6.0
+57,4823,8,vegetative bud,other,0,0,0,0,Ciflorette,1,05-04-2022,6.0
+58,4826,9,branch crown,complete,0,0,0,0,Ciflorette,1,05-04-2022,6.0
+59,4828,10,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,6.0
+60,4831,11,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,6.0
+61,4834,12,vegetative bud,other,0,0,0,0,Ciflorette,2,05-04-2022,6.0
+62,1665,1,branch crown,complete,2,1,1,6,CF10277,0,19-04-2022,1.0
+63,1689,2,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,1.0
+64,1710,3,branch crown,complete,3,1,2,8,CF10277,0,19-04-2022,1.0
+65,1740,4,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,1.0
+66,1743,5,branch crown,complete,0,0,0,0,CF10277,0,19-04-2022,1.0
+67,1745,6,branch crown,complete,2,1,1,4,CF10277,1,19-04-2022,1.0
+68,1763,7,branch crown,incomplete,0,0,0,0,CF10277,1,19-04-2022,1.0
+69,1765,8,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,1.0
+70,1768,9,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,1.0
+71,1771,10,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,1.0
+72,1779,1,branch crown,complete,3,1,2,9,CF10277,0,19-04-2022,2.0
+73,1812,2,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,2.0
+74,1815,3,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,2.0
+75,1818,4,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,2.0
+76,1836,5,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,2.0
+77,1839,6,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,2.0
+78,1842,7,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,2.0
+79,1860,8,branch crown,complete,0,0,0,0,CF10277,0,19-04-2022,2.0
+80,1862,9,vegetative bud,other,0,0,0,0,CF10277,1,19-04-2022,2.0
+81,1865,10,branch crown,complete,0,0,0,0,CF10277,1,19-04-2022,2.0
+82,1867,11,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,2.0
+83,1870,12,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,2.0
+84,1873,13,branch crown,incomplete,0,0,0,0,CF10277,2,19-04-2022,2.0
+85,1875,14,vegetative bud,other,0,0,0,0,CF10277,3,19-04-2022,2.0
+86,1878,15,vegetative bud,other,0,0,0,0,CF10277,3,19-04-2022,2.0
+87,1881,16,-1,other,0,0,0,0,CF10277,3,19-04-2022,2.0
+88,1896,1,branch crown,complete,3,1,2,8,CF10277,0,19-04-2022,3.0
+89,1923,2,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,3.0
+90,1947,3,branch crown,complete,2,1,1,6,CF10277,0,19-04-2022,3.0
+91,1971,4,branch crown,complete,3,1,2,9,CF10277,0,19-04-2022,3.0
+92,2004,5,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,3.0
+93,2007,6,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,3.0
+94,2028,7,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,3.0
+95,2031,8,branch crown,complete,0,0,0,0,CF10277,0,19-04-2022,3.0
+96,2033,9,vegetative bud,other,0,0,0,0,CF10277,1,19-04-2022,3.0
+97,2036,10,branch crown,incomplete,0,0,0,0,CF10277,1,19-04-2022,3.0
+98,2038,11,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,3.0
+99,2041,12,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,3.0
+100,2044,13,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,3.0
+101,2047,14,-1,other,0,0,0,0,CF10277,2,19-04-2022,3.0
+102,2061,1,branch crown,complete,3,1,2,5,CF10277,0,19-04-2022,4.0
+103,2082,2,branch crown,complete,3,1,2,6,CF10277,0,19-04-2022,4.0
+104,2106,3,branch crown,incomplete,1,1,0,1,CF10277,0,19-04-2022,4.0
+105,2112,4,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,4.0
+106,2130,5,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,4.0
+107,2151,6,branch crown,complete,0,0,0,0,CF10277,0,19-04-2022,4.0
+108,2153,7,vegetative bud,other,0,0,0,0,CF10277,1,19-04-2022,4.0
+109,2156,8,branch crown,incomplete,0,0,0,0,CF10277,1,19-04-2022,4.0
+110,2158,9,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,4.0
+111,2161,10,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,4.0
+112,2164,11,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,4.0
+113,2172,1,branch crown,complete,1,1,0,2,CF10277,0,19-04-2022,5.0
+114,2181,2,branch crown,complete,3,1,2,4,CF10277,0,19-04-2022,5.0
+115,2196,3,branch crown,complete,4,2,2,8,CF10277,0,19-04-2022,5.0
+116,2223,4,branch crown,complete,2,1,1,3,CF10277,0,19-04-2022,5.0
+117,2238,5,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,5.0
+118,2241,6,branch crown,complete,4,2,2,8,CF10277,0,19-04-2022,5.0
+119,2274,7,branch crown,incomplete,1,1,0,2,CF10277,0,19-04-2022,5.0
+120,2286,8,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,5.0
+121,2307,9,branch crown,complete,0,0,0,0,CF10277,0,19-04-2022,5.0
+122,2309,10,vegetative bud,other,0,0,0,0,CF10277,1,19-04-2022,5.0
+123,2312,11,branch crown,incomplete,0,0,0,0,CF10277,1,19-04-2022,5.0
+124,2314,12,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,5.0
+125,2317,13,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,5.0
+126,2320,14,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,5.0
+127,2328,1,branch crown,complete,3,1,2,5,CF10277,0,19-04-2022,6.0
+128,2349,2,vegetative bud,other,0,0,0,0,CF10277,0,19-04-2022,6.0
+129,2352,3,branch crown,complete,2,1,1,5,CF10277,0,19-04-2022,6.0
+130,2379,4,branch crown,complete,0,0,0,0,CF10277,0,19-04-2022,6.0
+131,2381,5,vegetative bud,other,0,0,0,0,CF10277,1,19-04-2022,6.0
+132,2384,6,branch crown,complete,2,1,1,6,CF10277,1,19-04-2022,6.0
+133,2414,7,branch crown,complete,0,0,0,0,CF10277,1,19-04-2022,6.0
+134,2416,8,vegetative bud,other,0,0,0,0,CF10277,2,19-04-2022,6.0
+135,2419,9,branch crown,incomplete,0,0,0,0,CF10277,2,19-04-2022,6.0
+136,2421,10,vegetative bud,other,0,0,0,0,CF10277,3,19-04-2022,6.0
+137,2424,11,-1,other,0,0,0,0,CF10277,3,19-04-2022,6.0
+138,5862,1,branch crown,complete,3,1,2,9,CIR107,0,05-04-2022,1.0
+139,5895,2,branch crown,complete,2,1,1,4,CIR107,0,05-04-2022,1.0
+140,5916,3,branch crown,complete,3,1,2,8,CIR107,0,05-04-2022,1.0
+141,5952,4,branch crown,complete,0,0,0,0,CIR107,0,05-04-2022,1.0
+142,5954,5,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,1.0
+143,5957,6,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,1.0
+144,5960,7,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,1.0
+145,5963,8,branch crown,complete,0,0,0,0,CIR107,1,05-04-2022,1.0
+146,5965,9,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,1.0
+147,5968,10,branch crown,complete,0,0,0,0,CIR107,2,05-04-2022,1.0
+148,5970,11,branch crown,incomplete,0,0,0,0,CIR107,3,05-04-2022,1.0
+149,5972,12,vegetative bud,other,0,0,0,0,CIR107,4,05-04-2022,1.0
+150,5975,13,vegetative bud,other,0,0,0,0,CIR107,4,05-04-2022,1.0
+151,5978,14,vegetative bud,other,0,0,0,0,CIR107,4,05-04-2022,1.0
+152,5988,1,branch crown,complete,3,1,2,9,CIR107,0,05-04-2022,2.0
+153,6021,2,vegetative bud,other,0,0,0,0,CIR107,0,05-04-2022,2.0
+154,6024,3,branch crown,complete,4,2,2,17,CIR107,0,05-04-2022,2.0
+155,6087,4,branch crown,complete,0,0,0,0,CIR107,0,05-04-2022,2.0
+156,6089,5,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,2.0
+157,6092,6,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,2.0
+158,6095,7,branch crown,incomplete,1,1,0,3,CIR107,1,05-04-2022,2.0
+159,6107,8,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,2.0
+160,6110,9,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,2.0
+161,6113,10,branch crown,complete,0,0,0,0,CIR107,1,05-04-2022,2.0
+162,6115,11,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,2.0
+163,6118,12,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,2.0
+164,6121,13,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,2.0
+165,6124,14,branch crown,complete,0,0,0,0,CIR107,2,05-04-2022,2.0
+166,6126,15,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,2.0
+167,6129,16,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,2.0
+168,6132,17,-1,other,0,0,0,0,CIR107,3,05-04-2022,2.0
+169,6144,1,branch crown,complete,2,1,1,6,CIR107,0,05-04-2022,3.0
+170,6168,2,branch crown,complete,0,0,0,0,CIR107,0,05-04-2022,3.0
+171,6170,3,branch crown,complete,2,1,1,3,CIR107,1,05-04-2022,3.0
+172,6182,4,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,3.0
+173,6185,5,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,3.0
+174,6188,6,branch crown,complete,0,0,0,0,CIR107,1,05-04-2022,3.0
+175,6190,7,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,3.0
+176,6193,8,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,3.0
+177,6196,9,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,3.0
+178,6199,10,branch crown,incomplete,0,0,0,0,CIR107,2,05-04-2022,3.0
+179,6201,11,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,3.0
+180,6204,12,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,3.0
+181,6207,13,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,3.0
+182,6216,1,vegetative bud,other,0,0,0,0,CIR107,0,05-04-2022,4.0
+183,6219,2,branch crown,complete,2,1,1,3,CIR107,0,05-04-2022,4.0
+184,6231,3,branch crown,complete,2,1,1,5,CIR107,0,05-04-2022,4.0
+185,6249,4,branch crown,complete,3,1,2,5,CIR107,0,05-04-2022,4.0
+186,6270,5,branch crown,complete,0,0,0,0,CIR107,0,05-04-2022,4.0
+187,6272,6,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,4.0
+188,6275,7,branch crown,complete,0,0,0,0,CIR107,1,05-04-2022,4.0
+189,6277,8,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,4.0
+190,6280,9,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,4.0
+191,6283,10,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,4.0
+192,6286,11,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,4.0
+193,6294,1,vegetative bud,other,0,0,0,0,CIR107,0,05-04-2022,5.0
+194,6297,2,branch crown,complete,4,1,3,8,CIR107,0,05-04-2022,5.0
+195,6324,3,vegetative bud,other,0,0,0,0,CIR107,0,05-04-2022,5.0
+196,6327,4,branch crown,complete,4,1,3,8,CIR107,0,05-04-2022,5.0
+197,6354,5,branch crown,incomplete,1,1,0,1,CIR107,0,05-04-2022,5.0
+198,6360,6,vegetative bud,other,0,0,0,0,CIR107,0,05-04-2022,5.0
+199,6363,7,branch crown,complete,3,1,2,5,CIR107,0,05-04-2022,5.0
+200,6384,8,branch crown,complete,0,0,0,0,CIR107,0,05-04-2022,5.0
+201,6386,9,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,5.0
+202,6389,10,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,5.0
+203,6392,11,branch crown,complete,0,0,0,0,CIR107,1,05-04-2022,5.0
+204,6394,12,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,5.0
+205,6397,13,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,5.0
+206,6400,14,branch crown,incomplete,0,0,0,0,CIR107,2,05-04-2022,5.0
+207,6402,15,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,5.0
+208,6411,1,branch crown,complete,2,1,1,7,CIR107,0,05-04-2022,6.0
+209,6441,2,branch crown,complete,1,1,0,1,CIR107,0,05-04-2022,6.0
+210,6450,3,branch crown,complete,3,1,2,8,CIR107,0,05-04-2022,6.0
+211,6483,4,branch crown,complete,2,1,1,7,CIR107,0,05-04-2022,6.0
+212,6507,5,branch crown,complete,0,0,0,0,CIR107,0,05-04-2022,6.0
+213,6509,6,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,6.0
+214,6512,7,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,6.0
+215,6515,8,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,6.0
+216,6518,9,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,6.0
+217,6521,10,vegetative bud,other,0,0,0,0,CIR107,1,05-04-2022,6.0
+218,6524,11,branch crown,incomplete,1,1,0,2,CIR107,1,05-04-2022,6.0
+219,6533,12,branch crown,complete,0,0,0,0,CIR107,1,05-04-2022,6.0
+220,6535,13,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,6.0
+221,6538,14,vegetative bud,other,0,0,0,0,CIR107,2,05-04-2022,6.0
+222,6541,15,branch crown,incomplete,1,1,0,3,CIR107,2,05-04-2022,6.0
+223,6556,16,branch crown,complete,0,0,0,0,CIR107,2,05-04-2022,6.0
+224,6558,17,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,6.0
+225,6561,18,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,6.0
+226,6564,19,vegetative bud,other,0,0,0,0,CIR107,3,05-04-2022,6.0
+227,11873,1,branch crown,complete,6,2,4,12,Sanié,0,19-04-2022,1.0
+228,11912,2,branch crown,complete,4,1,3,8,Sanié,0,19-04-2022,1.0
+229,11942,3,vegetative bud,other,0,0,0,0,Sanié,0,19-04-2022,1.0
+230,11945,4,branch crown,complete,0,0,0,0,Sanié,0,19-04-2022,1.0
+231,11947,5,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,1.0
+232,11950,6,-1,other,0,0,0,0,Sanié,1,19-04-2022,1.0
+233,11956,7,branch crown,complete,0,0,0,0,Sanié,1,19-04-2022,1.0
+234,11958,8,vegetative bud,other,0,0,0,0,Sanié,2,19-04-2022,1.0
+235,11961,9,-1,other,0,0,0,0,Sanié,2,19-04-2022,1.0
+236,11967,10,branch crown,complete,0,0,0,0,Sanié,2,19-04-2022,1.0
+237,11969,11,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,1.0
+238,11972,12,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,1.0
+239,11975,13,-1,other,0,0,0,0,Sanié,3,19-04-2022,1.0
+240,11987,1,branch crown,complete,4,1,3,9,Sanié,0,19-04-2022,2.0
+241,12023,2,branch crown,complete,3,1,2,9,Sanié,0,19-04-2022,2.0
+242,12056,3,branch crown,complete,0,0,0,0,Sanié,0,19-04-2022,2.0
+243,12058,4,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,2.0
+244,12061,5,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,2.0
+245,12064,6,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,2.0
+246,12067,7,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,2.0
+247,12070,8,branch crown,complete,0,0,0,0,Sanié,1,19-04-2022,2.0
+248,12072,9,vegetative bud,other,0,0,0,0,Sanié,2,19-04-2022,2.0
+249,12075,10,vegetative bud,other,0,0,0,0,Sanié,2,19-04-2022,2.0
+250,12078,11,branch crown,incomplete,0,0,0,0,Sanié,2,19-04-2022,2.0
+251,12080,12,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,2.0
+252,12083,13,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,2.0
+253,12086,14,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,2.0
+254,12095,1,vegetative bud,other,0,0,0,0,Sanié,0,19-04-2022,3.0
+255,12098,2,branch crown,complete,4,1,3,7,Sanié,0,19-04-2022,3.0
+256,12125,3,branch crown,complete,3,1,2,7,Sanié,0,19-04-2022,3.0
+257,12149,4,vegetative bud,other,0,0,0,0,Sanié,0,19-04-2022,3.0
+258,12152,5,branch crown,complete,3,1,2,9,Sanié,0,19-04-2022,3.0
+259,12182,6,branch crown,complete,2,1,1,3,Sanié,0,19-04-2022,3.0
+260,12194,7,vegetative bud,other,0,0,0,0,Sanié,0,19-04-2022,3.0
+261,12197,8,branch crown,complete,0,0,0,0,Sanié,0,19-04-2022,3.0
+262,12199,9,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,3.0
+263,12202,10,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,3.0
+264,12205,11,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,3.0
+265,12208,12,branch crown,complete,0,0,0,0,Sanié,1,19-04-2022,3.0
+266,12210,13,vegetative bud,other,0,0,0,0,Sanié,2,19-04-2022,3.0
+267,12213,14,vegetative bud,other,0,0,0,0,Sanié,2,19-04-2022,3.0
+268,12221,1,branch crown,complete,0,0,0,0,Sanié,0,19-04-2022,4.0
+269,12223,2,branch crown,complete,0,0,0,0,Sanié,1,19-04-2022,4.0
+270,12225,3,branch crown,complete,0,0,0,0,Sanié,2,19-04-2022,4.0
+271,12227,4,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,4.0
+272,12230,5,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,4.0
+273,12233,6,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,4.0
+274,12236,7,branch crown,complete,2,1,1,4,Sanié,3,19-04-2022,4.0
+275,12257,8,branch crown,complete,0,0,0,0,Sanié,3,19-04-2022,4.0
+276,12259,9,vegetative bud,other,0,0,0,0,Sanié,4,19-04-2022,4.0
+277,12262,10,vegetative bud,other,0,0,0,0,Sanié,4,19-04-2022,4.0
+278,12265,11,branch crown,complete,0,0,0,0,Sanié,4,19-04-2022,4.0
+279,12267,12,vegetative bud,other,0,0,0,0,Sanié,5,19-04-2022,4.0
+280,12270,13,vegetative bud,other,0,0,0,0,Sanié,5,19-04-2022,4.0
+281,12273,14,branch crown,incomplete,0,0,0,0,Sanié,5,19-04-2022,4.0
+282,12275,15,vegetative bud,other,0,0,0,0,Sanié,6,19-04-2022,4.0
+283,12278,16,vegetative bud,other,0,0,0,0,Sanié,6,19-04-2022,4.0
+284,12281,17,vegetative bud,other,0,0,0,0,Sanié,6,19-04-2022,4.0
+285,12293,1,branch crown,complete,0,0,0,0,Sanié,0,19-04-2022,5.0
+286,12295,2,branch crown,complete,0,0,0,0,Sanié,1,19-04-2022,5.0
+287,12297,3,branch crown,complete,3,1,2,6,Sanié,2,19-04-2022,5.0
+288,12324,4,branch crown,complete,2,1,1,5,Sanié,2,19-04-2022,5.0
+289,12342,5,branch crown,complete,0,0,0,0,Sanié,2,19-04-2022,5.0
+290,12344,6,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,5.0
+291,12347,7,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,5.0
+292,12350,8,vegetative bud,other,0,0,0,0,Sanié,3,19-04-2022,5.0
+293,12353,9,branch crown,complete,0,0,0,0,Sanié,3,19-04-2022,5.0
+294,12355,10,vegetative bud,other,0,0,0,0,Sanié,4,19-04-2022,5.0
+295,12358,11,vegetative bud,other,0,0,0,0,Sanié,4,19-04-2022,5.0
+296,12361,12,branch crown,incomplete,0,0,0,0,Sanié,4,19-04-2022,5.0
+297,12363,13,vegetative bud,other,0,0,0,0,Sanié,5,19-04-2022,5.0
+298,12366,14,vegetative bud,other,0,0,0,0,Sanié,5,19-04-2022,5.0
+299,12369,15,vegetative bud,other,0,0,0,0,Sanié,5,19-04-2022,5.0
+300,12380,1,vegetative bud,other,0,0,0,0,Sanié,0,19-04-2022,6.0
+301,12383,2,branch crown,complete,0,0,0,0,Sanié,0,19-04-2022,6.0
+302,12385,3,vegetative bud,other,0,0,0,0,Sanié,1,19-04-2022,6.0
+303,12388,4,branch crown,complete,0,0,0,0,Sanié,1,19-04-2022,6.0
+304,12390,5,vegetative bud,other,0,0,0,0,Sanié,2,19-04-2022,6.0
+305,12393,6,vegetative bud,other,0,0,0,0,Sanié,2,19-04-2022,6.0
+306,12396,7,vegetative bud,other,0,0,0,0,Sanié,2,19-04-2022,6.0
+307,8624,1,branch crown,complete,0,0,0,0,Leroy Ladurie,0,19-04-2022,1.0
+308,8626,2,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,1.0
+309,8629,3,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,1.0
+310,8632,4,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,1.0
+311,8635,5,branch crown,complete,2,1,1,6,Leroy Ladurie,1,19-04-2022,1.0
+312,8671,6,branch crown,complete,0,0,0,0,Leroy Ladurie,1,19-04-2022,1.0
+313,8673,7,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,1.0
+314,8676,8,stolon,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,1.0
+315,8679,9,stolon,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,1.0
+316,8682,10,branch crown,incomplete,0,0,0,0,Leroy Ladurie,2,19-04-2022,1.0
+317,8684,11,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+318,8687,12,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+319,8690,13,stolon,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+320,8693,14,stolon,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+321,8696,15,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+322,8699,16,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+323,8702,17,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+324,8705,18,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+325,8708,19,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+326,8711,20,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,1.0
+327,8720,1,branch crown,complete,0,0,0,0,Leroy Ladurie,0,19-04-2022,2.0
+328,8722,2,branch crown,complete,0,0,0,0,Leroy Ladurie,1,19-04-2022,2.0
+329,8724,3,branch crown,complete,0,0,0,0,Leroy Ladurie,2,19-04-2022,2.0
+330,8726,4,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,2.0
+331,8729,5,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,2.0
+332,8732,6,vegetative bud,other,0,0,0,0,Leroy Ladurie,3,19-04-2022,2.0
+333,8735,7,branch crown,incomplete,1,1,0,7,Leroy Ladurie,3,19-04-2022,2.0
+334,8771,8,branch crown,complete,0,0,0,0,Leroy Ladurie,3,19-04-2022,2.0
+335,8773,9,vegetative bud,other,0,0,0,0,Leroy Ladurie,4,19-04-2022,2.0
+336,8776,10,vegetative bud,other,0,0,0,0,Leroy Ladurie,4,19-04-2022,2.0
+337,8779,11,branch crown,incomplete,0,0,0,0,Leroy Ladurie,4,19-04-2022,2.0
+338,8781,12,stolon,other,0,0,0,0,Leroy Ladurie,5,19-04-2022,2.0
+339,8784,13,stolon,other,0,0,0,0,Leroy Ladurie,5,19-04-2022,2.0
+340,8787,14,stolon,other,0,0,0,0,Leroy Ladurie,5,19-04-2022,2.0
+341,8790,15,vegetative bud,other,0,0,0,0,Leroy Ladurie,5,19-04-2022,2.0
+342,8793,16,vegetative bud,other,0,0,0,0,Leroy Ladurie,5,19-04-2022,2.0
+343,8796,17,vegetative bud,other,0,0,0,0,Leroy Ladurie,5,19-04-2022,2.0
+344,8799,18,vegetative bud,other,0,0,0,0,Leroy Ladurie,5,19-04-2022,2.0
+345,8810,1,branch crown,incomplete,1,1,0,8,Leroy Ladurie,0,19-04-2022,3.0
+346,8849,2,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,3.0
+347,8852,3,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,3.0
+348,8855,4,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,3.0
+349,8858,5,branch crown,complete,2,1,1,8,Leroy Ladurie,0,19-04-2022,3.0
+350,8897,6,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,3.0
+351,8900,7,branch crown,complete,0,0,0,0,Leroy Ladurie,0,19-04-2022,3.0
+352,8902,8,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,3.0
+353,8905,9,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,3.0
+354,8908,10,stolon,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,3.0
+355,8911,11,branch crown,incomplete,0,0,0,0,Leroy Ladurie,1,19-04-2022,3.0
+356,8913,12,stolon,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,3.0
+357,8916,13,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,3.0
+358,8919,14,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,3.0
+359,8922,15,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,3.0
+360,8925,16,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,3.0
+361,8928,17,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,3.0
+362,8931,18,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,3.0
+363,8934,19,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,3.0
+364,8942,1,branch crown,complete,2,1,1,9,Leroy Ladurie,0,19-04-2022,4.0
+365,8984,2,branch crown,incomplete,1,1,0,5,Leroy Ladurie,0,19-04-2022,4.0
+366,9017,3,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+367,9020,4,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+368,9023,5,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+369,9026,6,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+370,9029,7,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+371,9032,8,branch crown,complete,2,1,1,8,Leroy Ladurie,0,19-04-2022,4.0
+372,9071,9,branch crown,incomplete,1,1,0,9,Leroy Ladurie,0,19-04-2022,4.0
+373,9113,10,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+374,9116,11,branch crown,complete,2,1,1,6,Leroy Ladurie,0,19-04-2022,4.0
+375,9146,12,branch crown,complete,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+376,9148,13,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,4.0
+377,9151,14,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,4.0
+378,9154,15,stolon,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,4.0
+379,9157,16,branch crown,incomplete,0,0,0,0,Leroy Ladurie,1,19-04-2022,4.0
+380,9159,17,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+381,9162,18,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+382,9165,19,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+383,9168,20,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+384,9171,21,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+385,9174,22,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+386,9177,23,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+387,9185,1,branch crown,incomplete,1,1,0,9,Leroy Ladurie,0,19-04-2022,4.0
+388,9215,2,branch crown,complete,2,1,1,8,Leroy Ladurie,0,19-04-2022,4.0
+389,9248,3,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+390,9251,4,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+391,9254,5,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+392,9257,6,branch crown,complete,2,1,1,8,Leroy Ladurie,0,19-04-2022,4.0
+393,9290,7,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+394,9293,8,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+395,9296,9,branch crown,complete,0,0,0,0,Leroy Ladurie,0,19-04-2022,4.0
+396,9298,10,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,4.0
+397,9301,11,stolon,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,4.0
+398,9304,12,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,4.0
+399,9307,13,branch crown,incomplete,0,0,0,0,Leroy Ladurie,1,19-04-2022,4.0
+400,9309,14,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+401,9312,15,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+402,9315,16,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+403,9318,17,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,4.0
+404,9326,1,branch crown,complete,2,1,1,9,Leroy Ladurie,0,19-04-2022,6.0
+405,9371,2,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+406,9374,3,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+407,9377,4,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+408,9380,5,stolon,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+409,9383,6,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+410,9386,7,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+411,9389,8,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+412,9392,9,vegetative bud,other,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+413,9395,10,branch crown,complete,2,1,1,7,Leroy Ladurie,0,19-04-2022,6.0
+414,9428,11,branch crown,complete,0,0,0,0,Leroy Ladurie,0,19-04-2022,6.0
+415,9430,12,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,6.0
+416,9433,13,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,6.0
+417,9436,14,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,6.0
+418,9439,15,vegetative bud,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,6.0
+419,9442,16,-1,other,0,0,0,0,Leroy Ladurie,1,19-04-2022,6.0
+420,9451,17,branch crown,incomplete,0,0,0,0,Leroy Ladurie,1,19-04-2022,6.0
+421,9453,18,stolon,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,6.0
+422,9456,19,stolon,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,6.0
+423,9459,20,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,6.0
+424,9462,21,stolon,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,6.0
+425,9465,22,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,6.0
+426,9468,23,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,6.0
+427,9471,24,vegetative bud,other,0,0,0,0,Leroy Ladurie,2,19-04-2022,6.0
+428,11609,1,branch crown,complete,0,0,0,0,Rubis,0,19-04-2022,1.0
+429,11611,2,branch crown,complete,0,0,0,0,Rubis,1,19-04-2022,1.0
+430,11613,3,branch crown,complete,0,0,0,0,Rubis,2,19-04-2022,1.0
+431,11615,4,vegetative bud,other,0,0,0,0,Rubis,3,19-04-2022,1.0
+432,11618,5,branch crown,complete,0,0,0,0,Rubis,3,19-04-2022,1.0
+433,11620,6,vegetative bud,other,0,0,0,0,Rubis,4,19-04-2022,1.0
+434,11623,7,vegetative bud,other,0,0,0,0,Rubis,4,19-04-2022,1.0
+435,11626,8,vegetative bud,other,0,0,0,0,Rubis,4,19-04-2022,1.0
+436,11629,9,vegetative bud,other,0,0,0,0,Rubis,4,19-04-2022,1.0
+437,11632,10,branch crown,complete,2,1,1,9,Rubis,4,19-04-2022,1.0
+438,11668,11,branch crown,complete,0,0,0,0,Rubis,4,19-04-2022,1.0
+439,11670,12,vegetative bud,other,0,0,0,0,Rubis,5,19-04-2022,1.0
+440,11673,13,vegetative bud,other,0,0,0,0,Rubis,5,19-04-2022,1.0
+441,11676,14,vegetative bud,other,0,0,0,0,Rubis,5,19-04-2022,1.0
+442,11679,15,branch crown,incomplete,0,0,0,0,Rubis,5,19-04-2022,1.0
+443,11681,16,vegetative bud,other,0,0,0,0,Rubis,6,19-04-2022,1.0
+444,11684,17,vegetative bud,other,0,0,0,0,Rubis,6,19-04-2022,1.0
+445,11687,18,vegetative bud,other,0,0,0,0,Rubis,6,19-04-2022,1.0
+446,11690,19,vegetative bud,other,0,0,0,0,Rubis,6,19-04-2022,1.0
+447,11693,20,vegetative bud,other,0,0,0,0,Rubis,6,19-04-2022,1.0
+448,11696,21,vegetative bud,other,0,0,0,0,Rubis,6,19-04-2022,1.0
+449,11699,22,vegetative bud,other,0,0,0,0,Rubis,6,19-04-2022,1.0
+450,11711,1,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,2.0
+451,11714,2,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,2.0
+452,11717,3,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,2.0
+453,11720,4,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,2.0
+454,11723,5,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,2.0
+455,11726,6,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,2.0
+456,11729,7,branch crown,complete,0,0,0,0,Rubis,0,19-04-2022,2.0
+457,11731,8,branch crown,complete,0,0,0,0,Rubis,1,19-04-2022,2.0
+458,11733,9,branch crown,incomplete,1,1,0,2,Rubis,2,19-04-2022,2.0
+459,11742,10,branch crown,complete,0,0,0,0,Rubis,2,19-04-2022,2.0
+460,11744,11,branch crown,incomplete,0,0,0,0,Rubis,3,19-04-2022,2.0
+461,11746,12,vegetative bud,other,0,0,0,0,Rubis,4,19-04-2022,2.0
+462,11749,13,vegetative bud,other,0,0,0,0,Rubis,4,19-04-2022,2.0
+463,11752,14,-1,other,0,0,0,0,Rubis,4,19-04-2022,2.0
+464,11758,15,stolon,other,0,0,0,0,Rubis,4,19-04-2022,2.0
+465,11761,16,vegetative bud,other,0,0,0,0,Rubis,4,19-04-2022,2.0
+466,11764,17,vegetative bud,other,0,0,0,0,Rubis,4,19-04-2022,2.0
+467,11774,1,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,3.0
+468,11777,2,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,3.0
+469,11780,3,branch crown,complete,0,0,0,0,Rubis,0,19-04-2022,3.0
+470,11782,4,vegetative bud,other,0,0,0,0,Rubis,1,19-04-2022,3.0
+471,11785,5,vegetative bud,other,0,0,0,0,Rubis,1,19-04-2022,3.0
+472,11788,6,stolon,other,0,0,0,0,Rubis,1,19-04-2022,3.0
+473,11791,7,branch crown,incomplete,0,0,0,0,Rubis,1,19-04-2022,3.0
+474,11793,8,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+475,11796,9,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+476,11799,10,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+477,11802,11,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+478,11805,12,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+479,11808,13,stolon,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+480,11811,14,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+481,11814,15,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+482,11817,16,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+483,11820,17,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+484,11823,18,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+485,11826,19,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+486,11829,20,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,3.0
+487,11837,1,vegetative bud,other,0,0,0,0,Rubis,0,19-04-2022,4.0
+488,11840,2,branch crown,complete,0,0,0,0,Rubis,0,19-04-2022,4.0
+489,11842,3,vegetative bud,other,0,0,0,0,Rubis,1,19-04-2022,4.0
+490,11845,4,vegetative bud,other,0,0,0,0,Rubis,1,19-04-2022,4.0
+491,11848,5,branch crown,complete,0,0,0,0,Rubis,1,19-04-2022,4.0
+492,11850,6,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,4.0
+493,11853,7,vegetative bud,other,0,0,0,0,Rubis,2,19-04-2022,4.0
+494,11856,8,branch crown,incomplete,0,0,0,0,Rubis,2,19-04-2022,4.0
+495,11858,9,vegetative bud,other,0,0,0,0,Rubis,3,19-04-2022,4.0
+496,11861,10,vegetative bud,other,0,0,0,0,Rubis,3,19-04-2022,4.0
+497,11864,11,vegetative bud,other,0,0,0,0,Rubis,3,19-04-2022,4.0
+498,3390,1,branch crown,incomplete,1,1,0,5,CF9416,0,25-04-2022,1.0
+499,3414,2,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,1.0
+500,3417,3,branch crown,complete,1,1,0,3,CF9416,0,25-04-2022,1.0
+501,3435,4,stolon,other,0,0,0,0,CF9416,0,25-04-2022,1.0
+502,3438,5,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,1.0
+503,3441,6,branch crown,complete,3,1,2,10,CF9416,0,25-04-2022,1.0
+504,3480,7,branch crown,complete,0,0,0,0,CF9416,0,25-04-2022,1.0
+505,3482,8,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,1.0
+506,3485,9,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,1.0
+507,3488,10,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,1.0
+508,3491,11,branch crown,incomplete,1,1,0,1,CF9416,1,25-04-2022,1.0
+509,3500,12,branch crown,complete,0,0,0,0,CF9416,1,25-04-2022,1.0
+510,3502,13,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,1.0
+511,3505,14,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,1.0
+512,3508,15,branch crown,incomplete,1,1,0,2,CF9416,2,25-04-2022,1.0
+513,3520,16,branch crown,incomplete,0,0,0,0,CF9416,2,25-04-2022,1.0
+514,3522,17,vegetative bud,other,0,0,0,0,CF9416,3,25-04-2022,1.0
+515,3525,18,vegetative bud,other,0,0,0,0,CF9416,3,25-04-2022,1.0
+516,3528,19,vegetative bud,other,0,0,0,0,CF9416,3,25-04-2022,1.0
+517,3537,1,branch crown,complete,4,1,3,12,CF9416,0,25-04-2022,2.0
+518,3579,2,branch crown,complete,3,1,2,5,CF9416,0,25-04-2022,2.0
+519,3603,3,branch crown,complete,3,2,1,9,CF9416,0,25-04-2022,2.0
+520,3634,4,branch crown,complete,2,1,1,4,CF9416,0,25-04-2022,2.0
+521,3652,5,branch crown,incomplete,1,1,0,4,CF9416,0,25-04-2022,2.0
+522,3667,6,branch crown,complete,0,0,0,0,CF9416,0,25-04-2022,2.0
+523,3669,7,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,2.0
+524,3672,8,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,2.0
+525,3675,9,branch crown,complete,0,0,0,0,CF9416,1,25-04-2022,2.0
+526,3677,10,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,2.0
+527,3680,11,branch crown,complete,0,0,0,0,CF9416,2,25-04-2022,2.0
+528,3682,12,vegetative bud,other,0,0,0,0,CF9416,3,25-04-2022,2.0
+529,3685,13,vegetative bud,other,0,0,0,0,CF9416,3,25-04-2022,2.0
+530,3697,1,branch crown,complete,4,1,3,8,CF9416,0,25-04-2022,3.0
+531,3730,2,branch crown,complete,5,2,3,14,CF9416,0,25-04-2022,3.0
+532,3781,3,branch crown,complete,3,2,1,6,CF9416,0,25-04-2022,3.0
+533,3808,4,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,3.0
+534,3811,5,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,3.0
+535,3814,6,branch crown,complete,2,1,1,6,CF9416,0,25-04-2022,3.0
+536,3838,7,branch crown,complete,0,0,0,0,CF9416,0,25-04-2022,3.0
+537,3840,8,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,3.0
+538,3843,9,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,3.0
+539,3846,10,branch crown,complete,0,0,0,0,CF9416,1,25-04-2022,3.0
+540,3848,11,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,3.0
+541,3851,12,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,3.0
+542,3854,13,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,3.0
+543,3857,14,-1,other,0,0,0,0,CF9416,2,25-04-2022,3.0
+544,3871,1,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,4.0
+545,3874,2,stolon,other,0,0,0,0,CF9416,0,25-04-2022,4.0
+546,3877,3,stolon,other,0,0,0,0,CF9416,0,25-04-2022,4.0
+547,3880,4,branch crown,complete,5,2,3,18,CF9416,0,25-04-2022,4.0
+548,3943,5,branch crown,complete,2,1,1,6,CF9416,0,25-04-2022,4.0
+549,3970,6,branch crown,complete,2,1,1,5,CF9416,0,25-04-2022,4.0
+550,3994,7,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,4.0
+551,3997,8,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,4.0
+552,4000,9,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,4.0
+553,4003,10,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,4.0
+554,4006,11,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,4.0
+555,4009,12,branch crown,complete,0,0,0,0,CF9416,0,25-04-2022,4.0
+556,4011,13,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,4.0
+557,4014,14,branch crown,complete,0,0,0,0,CF9416,1,25-04-2022,4.0
+558,4016,15,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,4.0
+559,4019,16,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,4.0
+560,4022,17,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,4.0
+561,4025,18,-1,other,0,0,0,0,CF9416,2,25-04-2022,4.0
+562,4042,1,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,5.0
+563,4045,2,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,5.0
+564,4048,3,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,5.0
+565,4051,4,vegetative bud,other,0,0,0,0,CF9416,0,25-04-2022,5.0
+566,4054,5,branch crown,complete,3,1,2,8,CF9416,0,25-04-2022,5.0
+567,4084,6,branch crown,complete,0,0,0,0,CF9416,0,25-04-2022,5.0
+568,4086,7,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,5.0
+569,4089,8,vegetative bud,other,0,0,0,0,CF9416,1,25-04-2022,5.0
+570,4092,9,branch crown,complete,0,0,0,0,CF9416,1,25-04-2022,5.0
+571,4094,10,vegetative bud,other,0,0,0,0,CF9416,2,25-04-2022,5.0
+572,4097,11,branch crown,complete,0,0,0,0,CF9416,2,25-04-2022,5.0
+573,4099,12,vegetative bud,other,0,0,0,0,CF9416,3,25-04-2022,5.0
+574,4102,13,branch crown,incomplete,0,0,0,0,CF9416,3,25-04-2022,5.0
+575,4104,14,vegetative bud,other,0,0,0,0,CF9416,4,25-04-2022,5.0
+576,4107,15,vegetative bud,other,0,0,0,0,CF9416,4,25-04-2022,5.0
+577,4110,16,vegetative bud,other,0,0,0,0,CF9416,4,25-04-2022,5.0
+578,12404,1,branch crown,complete,4,1,3,9,Sans rivale,0,05-04-2022,1.0
+579,12443,2,branch crown,complete,4,1,3,9,Sans rivale,0,05-04-2022,1.0
+580,12479,3,branch crown,complete,2,1,1,7,Sans rivale,0,05-04-2022,1.0
+581,12509,4,branch crown,complete,12,5,7,36,Sans rivale,0,05-04-2022,1.0
+582,12635,5,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,1.0
+583,12638,6,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,1.0
+584,12641,7,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,1.0
+585,12644,8,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,1.0
+586,12647,9,branch crown,complete,2,1,1,6,Sans rivale,0,05-04-2022,1.0
+587,12674,10,branch crown,complete,0,0,0,0,Sans rivale,0,05-04-2022,1.0
+588,12676,11,vegetative bud,other,0,0,0,0,Sans rivale,1,05-04-2022,1.0
+589,12679,12,branch crown,complete,0,0,0,0,Sans rivale,1,05-04-2022,1.0
+590,12681,13,vegetative bud,other,0,0,0,0,Sans rivale,2,05-04-2022,1.0
+591,12684,14,vegetative bud,other,0,0,0,0,Sans rivale,2,05-04-2022,1.0
+592,12687,15,branch crown,incomplete,0,0,0,0,Sans rivale,2,05-04-2022,1.0
+593,12689,16,vegetative bud,other,0,0,0,0,Sans rivale,3,05-04-2022,1.0
+594,12692,17,-1,other,0,0,0,0,Sans rivale,3,05-04-2022,1.0
+595,12707,1,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,2.0
+596,12710,2,branch crown,complete,2,1,1,3,Sans rivale,0,05-04-2022,2.0
+597,12722,3,branch crown,complete,3,1,2,5,Sans rivale,0,05-04-2022,2.0
+598,12740,4,branch crown,complete,2,1,1,4,Sans rivale,0,05-04-2022,2.0
+599,12755,5,branch crown,complete,1,1,0,4,Sans rivale,0,05-04-2022,2.0
+600,12773,6,branch crown,complete,0,0,0,0,Sans rivale,0,05-04-2022,2.0
+601,12775,7,vegetative bud,other,0,0,0,0,Sans rivale,1,05-04-2022,2.0
+602,12778,8,vegetative bud,other,0,0,0,0,Sans rivale,1,05-04-2022,2.0
+603,12781,9,-1,other,0,0,0,0,Sans rivale,1,05-04-2022,2.0
+604,12791,1,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,3.0
+605,12794,2,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,3.0
+606,12797,3,branch crown,complete,3,1,2,8,Sans rivale,0,05-04-2022,3.0
+607,12827,4,branch crown,complete,3,1,2,7,Sans rivale,0,05-04-2022,3.0
+608,12854,5,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,3.0
+609,12857,6,branch crown,complete,3,1,2,4,Sans rivale,0,05-04-2022,3.0
+610,12878,7,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,3.0
+611,12881,8,vegetative bud,other,0,0,0,0,Sans rivale,0,05-04-2022,3.0
+612,12884,9,branch crown,incomplete,1,1,0,1,Sans rivale,0,05-04-2022,3.0
+613,12890,10,branch crown,complete,0,0,0,0,Sans rivale,0,05-04-2022,3.0
+614,12892,11,vegetative bud,other,0,0,0,0,Sans rivale,1,05-04-2022,3.0
+615,12895,12,vegetative bud,other,0,0,0,0,Sans rivale,1,05-04-2022,3.0
+616,12898,13,branch crown,incomplete,0,0,0,0,Sans rivale,1,05-04-2022,3.0
+617,12900,14,vegetative bud,other,0,0,0,0,Sans rivale,2,05-04-2022,3.0
+618,12903,15,vegetative bud,other,0,0,0,0,Sans rivale,2,05-04-2022,3.0
+619,7124,1,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,1.0
+620,7127,2,branch crown,complete,4,1,3,8,Darselect,0,05-04-2022,1.0
+621,7154,3,branch crown,complete,4,1,3,10,Darselect,0,05-04-2022,1.0
+622,7190,4,branch crown,complete,0,0,0,0,Darselect,0,05-04-2022,1.0
+623,7192,5,vegetative bud,other,0,0,0,0,Darselect,1,05-04-2022,1.0
+624,7195,6,branch crown,complete,0,0,0,0,Darselect,1,05-04-2022,1.0
+625,7197,7,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,1.0
+626,7200,8,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,1.0
+627,7203,9,-1,other,0,0,0,0,Darselect,2,05-04-2022,1.0
+628,7217,1,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,2.0
+629,7220,2,branch crown,complete,2,1,1,3,Darselect,0,05-04-2022,2.0
+630,7235,3,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,2.0
+631,7238,4,branch crown,complete,0,0,0,0,Darselect,0,05-04-2022,2.0
+632,7240,5,branch crown,complete,0,0,0,0,Darselect,1,05-04-2022,2.0
+633,7242,6,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,2.0
+634,7245,7,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,2.0
+635,7248,8,branch crown,incomplete,0,0,0,0,Darselect,2,05-04-2022,2.0
+636,7250,9,vegetative bud,other,0,0,0,0,Darselect,3,05-04-2022,2.0
+637,7253,10,-1,other,0,0,0,0,Darselect,3,05-04-2022,2.0
+638,7265,1,branch crown,complete,4,1,3,7,Darselect,0,05-04-2022,3.0
+639,7292,2,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,3.0
+640,7295,3,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,3.0
+641,7298,4,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,3.0
+642,7301,5,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,3.0
+643,7304,6,branch crown,complete,1,1,0,2,Darselect,0,05-04-2022,3.0
+644,7316,7,branch crown,complete,0,0,0,0,Darselect,0,05-04-2022,3.0
+645,7318,8,vegetative bud,other,0,0,0,0,Darselect,1,05-04-2022,3.0
+646,7321,9,branch crown,incomplete,1,1,0,2,Darselect,1,05-04-2022,3.0
+647,7330,10,branch crown,incomplete,0,0,0,0,Darselect,1,05-04-2022,3.0
+648,7332,11,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,3.0
+649,7335,12,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,3.0
+650,7343,1,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,4.0
+651,7346,2,branch crown,complete,4,2,2,10,Darselect,0,05-04-2022,4.0
+652,7382,3,branch crown,complete,0,0,0,0,Darselect,0,05-04-2022,4.0
+653,7384,4,branch crown,incomplete,1,1,0,1,Darselect,1,05-04-2022,4.0
+654,7396,5,branch crown,complete,0,0,0,0,Darselect,1,05-04-2022,4.0
+655,7398,6,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,4.0
+656,7401,7,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,4.0
+657,7404,8,branch crown,complete,0,0,0,0,Darselect,2,05-04-2022,4.0
+658,7406,9,vegetative bud,other,0,0,0,0,Darselect,3,05-04-2022,4.0
+659,7409,10,branch crown,incomplete,0,0,0,0,Darselect,3,05-04-2022,4.0
+660,7411,11,vegetative bud,other,0,0,0,0,Darselect,4,05-04-2022,4.0
+661,7414,12,vegetative bud,other,0,0,0,0,Darselect,4,05-04-2022,4.0
+662,7417,13,vegetative bud,other,0,0,0,0,Darselect,4,05-04-2022,4.0
+663,7420,14,vegetative bud,other,0,0,0,0,Darselect,4,05-04-2022,4.0
+664,7430,1,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,5.0
+665,7433,2,vegetative bud,other,0,0,0,0,Darselect,0,05-04-2022,5.0
+666,7436,3,branch crown,complete,3,1,2,5,Darselect,0,05-04-2022,5.0
+667,7454,4,branch crown,complete,0,0,0,0,Darselect,0,05-04-2022,5.0
+668,7456,5,vegetative bud,other,0,0,0,0,Darselect,1,05-04-2022,5.0
+669,7459,6,branch crown,complete,0,0,0,0,Darselect,1,05-04-2022,5.0
+670,7461,7,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,5.0
+671,7464,8,vegetative bud,other,0,0,0,0,Darselect,2,05-04-2022,5.0
+672,7467,9,branch crown,incomplete,0,0,0,0,Darselect,2,05-04-2022,5.0
+673,7469,10,vegetative bud,other,0,0,0,0,Darselect,3,05-04-2022,5.0
+674,2439,1,branch crown,complete,3,1,2,10,CF12074,0,25-04-2022,1.0
+675,2481,2,branch crown,complete,0,0,0,0,CF12074,0,25-04-2022,1.0
+676,2483,3,branch crown,complete,3,1,2,9,CF12074,1,25-04-2022,1.0
+677,2522,4,branch crown,complete,3,1,2,7,CF12074,1,25-04-2022,1.0
+678,2549,5,branch crown,complete,3,1,2,7,CF12074,1,25-04-2022,1.0
+679,2576,6,branch crown,complete,2,1,1,5,CF12074,1,25-04-2022,1.0
+680,2597,7,vegetative bud,other,0,0,0,0,CF12074,1,25-04-2022,1.0
+681,2600,8,branch crown,complete,0,0,0,0,CF12074,1,25-04-2022,1.0
+682,2602,9,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,1.0
+683,2605,10,branch crown,complete,0,0,0,0,CF12074,2,25-04-2022,1.0
+684,2607,11,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,1.0
+685,2610,12,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,1.0
+686,2613,13,branch crown,incomplete,0,0,0,0,CF12074,3,25-04-2022,1.0
+687,2615,14,vegetative bud,other,0,0,0,0,CF12074,4,25-04-2022,1.0
+688,2618,15,vegetative bud,other,0,0,0,0,CF12074,4,25-04-2022,1.0
+689,2621,16,-1,other,0,0,0,0,CF12074,4,25-04-2022,1.0
+690,2637,1,branch crown,complete,3,1,2,6,CF12074,0,25-04-2022,2.0
+691,2661,2,branch crown,complete,3,1,2,6,CF12074,0,25-04-2022,2.0
+692,2685,3,branch crown,complete,3,1,2,8,CF12074,0,25-04-2022,2.0
+693,2715,4,branch crown,complete,4,1,3,8,CF12074,0,25-04-2022,2.0
+694,2748,5,branch crown,complete,2,1,1,4,CF12074,0,25-04-2022,2.0
+695,2766,6,branch crown,complete,0,0,0,0,CF12074,0,25-04-2022,2.0
+696,2768,7,vegetative bud,other,0,0,0,0,CF12074,1,25-04-2022,2.0
+697,2771,8,vegetative bud,other,0,0,0,0,CF12074,1,25-04-2022,2.0
+698,2774,9,branch crown,complete,0,0,0,0,CF12074,1,25-04-2022,2.0
+699,2776,10,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,2.0
+700,2779,11,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,2.0
+701,2782,12,branch crown,incomplete,1,1,0,1,CF12074,2,25-04-2022,2.0
+702,2791,13,branch crown,incomplete,0,0,0,0,CF12074,2,25-04-2022,2.0
+703,2793,14,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,2.0
+704,2796,15,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,2.0
+705,2805,1,branch crown,complete,2,1,1,4,CF12074,0,25-04-2022,3.0
+706,2826,2,branch crown,complete,0,0,0,0,CF12074,0,25-04-2022,3.0
+707,2828,3,branch crown,complete,0,0,0,0,CF12074,1,25-04-2022,3.0
+708,2830,4,stolon,other,0,0,0,0,CF12074,2,25-04-2022,3.0
+709,2833,5,branch crown,complete,3,1,2,7,CF12074,2,25-04-2022,3.0
+710,2863,6,branch crown,complete,1,1,0,2,CF12074,2,25-04-2022,3.0
+711,2881,7,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,3.0
+712,2884,8,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,3.0
+713,2887,9,branch crown,complete,2,1,1,4,CF12074,2,25-04-2022,3.0
+714,2908,10,branch crown,complete,0,0,0,0,CF12074,2,25-04-2022,3.0
+715,2910,11,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,3.0
+716,2913,12,branch crown,complete,0,0,0,0,CF12074,3,25-04-2022,3.0
+717,2915,13,vegetative bud,other,0,0,0,0,CF12074,4,25-04-2022,3.0
+718,2918,14,vegetative bud,other,0,0,0,0,CF12074,4,25-04-2022,3.0
+719,2921,15,branch crown,incomplete,0,0,0,0,CF12074,4,25-04-2022,3.0
+720,2923,16,vegetative bud,other,0,0,0,0,CF12074,5,25-04-2022,3.0
+721,2926,17,vegetative bud,other,0,0,0,0,CF12074,5,25-04-2022,3.0
+722,2929,18,vegetative bud,other,0,0,0,0,CF12074,5,25-04-2022,3.0
+723,2932,19,vegetative bud,other,0,0,0,0,CF12074,5,25-04-2022,3.0
+724,2943,1,branch crown,complete,4,2,2,11,CF12074,0,25-04-2022,4.0
+725,2985,2,branch crown,complete,0,0,0,0,CF12074,0,25-04-2022,4.0
+726,2987,3,branch crown,complete,0,0,0,0,CF12074,1,25-04-2022,4.0
+727,2989,4,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,4.0
+728,2992,5,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,4.0
+729,2995,6,branch crown,incomplete,1,1,0,1,CF12074,2,25-04-2022,4.0
+730,3004,7,branch crown,incomplete,0,0,0,0,CF12074,2,25-04-2022,4.0
+731,3006,8,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,4.0
+732,3009,9,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,4.0
+733,3018,1,branch crown,complete,2,1,1,3,CF12074,0,25-04-2022,5.0
+734,3036,2,branch crown,complete,2,1,1,5,CF12074,0,25-04-2022,5.0
+735,3060,3,branch crown,complete,4,2,2,13,CF12074,0,25-04-2022,5.0
+736,3111,4,branch crown,complete,0,0,0,0,CF12074,0,25-04-2022,5.0
+737,3113,5,stolon,other,0,0,0,0,CF12074,1,25-04-2022,5.0
+738,3116,6,branch crown,complete,1,1,0,3,CF12074,1,25-04-2022,5.0
+739,3134,7,branch crown,complete,1,1,0,2,CF12074,1,25-04-2022,5.0
+740,3146,8,vegetative bud,other,0,0,0,0,CF12074,1,25-04-2022,5.0
+741,3149,9,vegetative bud,other,0,0,0,0,CF12074,1,25-04-2022,5.0
+742,3152,10,branch crown,complete,2,1,1,4,CF12074,1,25-04-2022,5.0
+743,3176,11,branch crown,complete,0,0,0,0,CF12074,1,25-04-2022,5.0
+744,3178,12,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,5.0
+745,3181,13,branch crown,incomplete,0,0,0,0,CF12074,2,25-04-2022,5.0
+746,3183,14,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,5.0
+747,3186,15,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,5.0
+748,3189,16,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,5.0
+749,3192,17,vegetative bud,other,0,0,0,0,CF12074,3,25-04-2022,5.0
+750,3201,1,branch crown,complete,4,2,2,14,CF12074,0,25-04-2022,6.0
+751,3252,2,branch crown,complete,4,2,2,12,CF12074,0,25-04-2022,6.0
+752,3294,3,branch crown,complete,4,2,2,12,CF12074,0,25-04-2022,6.0
+753,3336,4,vegetative bud,other,0,0,0,0,CF12074,0,25-04-2022,6.0
+754,3339,5,vegetative bud,other,0,0,0,0,CF12074,0,25-04-2022,6.0
+755,3342,6,branch crown,complete,2,1,1,6,CF12074,0,25-04-2022,6.0
+756,3366,7,branch crown,complete,0,0,0,0,CF12074,0,25-04-2022,6.0
+757,3368,8,vegetative bud,other,0,0,0,0,CF12074,1,25-04-2022,6.0
+758,3371,9,branch crown,incomplete,0,0,0,0,CF12074,1,25-04-2022,6.0
+759,3373,10,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,6.0
+760,3376,11,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,6.0
+761,3379,12,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,6.0
+762,3382,13,vegetative bud,other,0,0,0,0,CF12074,2,25-04-2022,6.0
+763,3,1,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,1.0
+764,6,2,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,1.0
+765,9,3,branch crown,complete,3,1,2,13,Belle_et_Bonne,0,25-04-2022,1.0
+766,66,4,stolon,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,1.0
+767,69,5,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,1.0
+768,72,6,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,1.0
+769,75,7,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,1.0
+770,78,8,branch crown,complete,3,1,2,7,Belle_et_Bonne,0,25-04-2022,1.0
+771,108,9,branch crown,complete,0,0,0,0,Belle_et_Bonne,0,25-04-2022,1.0
+772,110,10,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,1.0
+773,113,11,branch crown,incomplete,1,1,0,4,Belle_et_Bonne,1,25-04-2022,1.0
+774,128,12,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,1.0
+775,131,13,branch crown,complete,0,0,0,0,Belle_et_Bonne,1,25-04-2022,1.0
+776,133,14,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,1.0
+777,136,15,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,1.0
+778,139,16,branch crown,complete,0,0,0,0,Belle_et_Bonne,2,25-04-2022,1.0
+779,141,17,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,1.0
+780,144,18,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,1.0
+781,147,19,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,1.0
+782,150,20,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,1.0
+783,171,1,branch crown,complete,3,1,2,9,Belle_et_Bonne,0,25-04-2022,2.0
+784,204,2,branch crown,complete,3,1,2,7,Belle_et_Bonne,0,25-04-2022,2.0
+785,231,3,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,2.0
+786,234,4,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,2.0
+787,237,5,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,2.0
+788,240,6,branch crown,complete,0,0,0,0,Belle_et_Bonne,0,25-04-2022,2.0
+789,242,7,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,2.0
+790,245,8,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,2.0
+791,248,9,branch crown,complete,0,0,0,0,Belle_et_Bonne,1,25-04-2022,2.0
+792,250,10,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,2.0
+793,253,11,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,2.0
+794,256,12,branch crown,incomplete,0,0,0,0,Belle_et_Bonne,2,25-04-2022,2.0
+795,258,13,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,2.0
+796,261,14,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,2.0
+797,264,15,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,2.0
+798,267,16,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,2.0
+799,276,1,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,3.0
+800,279,2,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,3.0
+801,282,3,branch crown,complete,6,2,4,14,Belle_et_Bonne,0,25-04-2022,3.0
+802,351,4,branch crown,complete,3,1,2,10,Belle_et_Bonne,0,25-04-2022,3.0
+803,402,5,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,3.0
+804,405,6,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,3.0
+805,408,7,branch crown,complete,0,0,0,0,Belle_et_Bonne,0,25-04-2022,3.0
+806,410,8,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,3.0
+807,413,9,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,3.0
+808,416,10,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,3.0
+809,419,11,branch crown,incomplete,0,0,0,0,Belle_et_Bonne,1,25-04-2022,3.0
+810,421,12,branch crown,incomplete,1,1,0,1,Belle_et_Bonne,2,25-04-2022,3.0
+811,439,13,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+812,442,14,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+813,445,15,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+814,448,16,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+815,451,17,-1,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+816,469,18,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+817,472,19,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+818,475,20,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+819,478,21,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+820,481,22,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+821,484,23,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,3.0
+822,492,1,branch crown,complete,5,1,4,12,Belle_et_Bonne,0,25-04-2022,4.0
+823,534,2,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,4.0
+824,537,3,vegetative bud,other,0,0,0,0,Belle_et_Bonne,0,25-04-2022,4.0
+825,540,4,branch crown,incomplete,1,1,0,2,Belle_et_Bonne,0,25-04-2022,4.0
+826,549,5,branch crown,complete,0,0,0,0,Belle_et_Bonne,0,25-04-2022,4.0
+827,551,6,branch crown,incomplete,1,1,0,3,Belle_et_Bonne,1,25-04-2022,4.0
+828,569,7,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,4.0
+829,572,8,branch crown,complete,0,0,0,0,Belle_et_Bonne,1,25-04-2022,4.0
+830,574,9,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,4.0
+831,577,10,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,4.0
+832,580,11,branch crown,incomplete,0,0,0,0,Belle_et_Bonne,2,25-04-2022,4.0
+833,582,12,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,4.0
+834,585,13,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,4.0
+835,588,14,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,4.0
+836,591,15,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,4.0
+837,600,1,branch crown,complete,3,1,2,4,Belle_et_Bonne,0,25-04-2022,5.0
+838,621,2,branch crown,complete,4,1,3,11,Belle_et_Bonne,0,25-04-2022,5.0
+839,660,3,branch crown,complete,3,1,2,8,Belle_et_Bonne,0,25-04-2022,5.0
+840,690,4,branch crown,complete,0,0,0,0,Belle_et_Bonne,0,25-04-2022,5.0
+841,692,5,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,5.0
+842,695,6,vegetative bud,other,0,0,0,0,Belle_et_Bonne,1,25-04-2022,5.0
+843,698,7,branch crown,complete,0,0,0,0,Belle_et_Bonne,1,25-04-2022,5.0
+844,700,8,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,5.0
+845,703,9,vegetative bud,other,0,0,0,0,Belle_et_Bonne,2,25-04-2022,5.0
+846,706,10,branch crown,incomplete,0,0,0,0,Belle_et_Bonne,2,25-04-2022,5.0
+847,708,11,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,5.0
+848,711,12,stolon,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,5.0
+849,714,13,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,5.0
+850,717,14,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,5.0
+851,720,15,vegetative bud,other,0,0,0,0,Belle_et_Bonne,3,25-04-2022,5.0
+852,10610,1,vegetative bud,other,0,0,0,0,Moutot,0,19-04-2022,1.0
+853,10613,2,vegetative bud,other,0,0,0,0,Moutot,0,19-04-2022,1.0
+854,10616,3,branch crown,complete,0,0,0,0,Moutot,0,19-04-2022,1.0
+855,10618,4,vegetative bud,other,0,0,0,0,Moutot,1,19-04-2022,1.0
+856,10621,5,branch crown,complete,0,0,0,0,Moutot,1,19-04-2022,1.0
+857,10623,6,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,1.0
+858,10626,7,branch crown,complete,0,0,0,0,Moutot,2,19-04-2022,1.0
+859,10628,8,vegetative bud,other,0,0,0,0,Moutot,3,19-04-2022,1.0
+860,10631,9,vegetative bud,other,0,0,0,0,Moutot,3,19-04-2022,1.0
+861,10634,10,-1,other,0,0,0,0,Moutot,3,19-04-2022,1.0
+862,10649,1,branch crown,complete,3,1,2,7,Moutot,0,19-04-2022,2.0
+863,10676,2,vegetative bud,other,0,0,0,0,Moutot,0,19-04-2022,2.0
+864,10679,3,vegetative bud,other,0,0,0,0,Moutot,0,19-04-2022,2.0
+865,10682,4,branch crown,complete,0,0,0,0,Moutot,0,19-04-2022,2.0
+866,10684,5,vegetative bud,other,0,0,0,0,Moutot,1,19-04-2022,2.0
+867,10687,6,branch crown,complete,0,0,0,0,Moutot,1,19-04-2022,2.0
+868,10689,7,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,2.0
+869,10692,8,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,2.0
+870,10695,9,branch crown,incomplete,0,0,0,0,Moutot,2,19-04-2022,2.0
+871,10697,10,vegetative bud,other,0,0,0,0,Moutot,3,19-04-2022,2.0
+872,10700,11,vegetative bud,other,0,0,0,0,Moutot,3,19-04-2022,2.0
+873,10709,1,vegetative bud,other,0,0,0,0,Moutot,0,19-04-2022,3.0
+874,10712,2,vegetative bud,other,0,0,0,0,Moutot,0,19-04-2022,3.0
+875,10715,3,branch crown,complete,0,0,0,0,Moutot,0,19-04-2022,3.0
+876,10717,4,vegetative bud,other,0,0,0,0,Moutot,1,19-04-2022,3.0
+877,10720,5,vegetative bud,other,0,0,0,0,Moutot,1,19-04-2022,3.0
+878,10723,6,vegetative bud,other,0,0,0,0,Moutot,1,19-04-2022,3.0
+879,10726,7,vegetative bud,other,0,0,0,0,Moutot,1,19-04-2022,3.0
+880,10729,8,branch crown,incomplete,0,0,0,0,Moutot,1,19-04-2022,3.0
+881,10731,9,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,3.0
+882,10734,10,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,3.0
+883,10737,11,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,3.0
+884,10740,12,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,3.0
+885,10743,13,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,3.0
+886,10751,1,branch crown,complete,0,0,0,0,Moutot,0,19-04-2022,4.0
+887,10753,2,vegetative bud,other,0,0,0,0,Moutot,1,19-04-2022,4.0
+888,10756,3,branch crown,complete,3,1,2,7,Moutot,1,19-04-2022,4.0
+889,10792,4,branch crown,complete,0,0,0,0,Moutot,1,19-04-2022,4.0
+890,10794,5,vegetative bud,other,0,0,0,0,Moutot,2,19-04-2022,4.0
+891,10797,6,branch crown,complete,0,0,0,0,Moutot,2,19-04-2022,4.0
+892,10799,7,vegetative bud,other,0,0,0,0,Moutot,3,19-04-2022,4.0
+893,10802,8,branch crown,complete,0,0,0,0,Moutot,3,19-04-2022,4.0
+894,10804,9,branch crown,incomplete,0,0,0,0,Moutot,4,19-04-2022,4.0
+895,10806,10,vegetative bud,other,0,0,0,0,Moutot,5,19-04-2022,4.0
+896,10809,11,vegetative bud,other,0,0,0,0,Moutot,5,19-04-2022,4.0
+897,10812,12,vegetative bud,other,0,0,0,0,Moutot,5,19-04-2022,4.0
+898,10815,13,vegetative bud,other,0,0,0,0,Moutot,5,19-04-2022,4.0
+899,10818,14,vegetative bud,other,0,0,0,0,Moutot,5,19-04-2022,4.0
+900,10821,15,vegetative bud,other,0,0,0,0,Moutot,5,19-04-2022,4.0
+901,10824,16,vegetative bud,other,0,0,0,0,Moutot,5,19-04-2022,4.0
+902,10835,1,branch crown,complete,3,1,2,4,Osiris,0,11-04-2022,1.0
+903,10853,2,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,1.0
+904,10856,3,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,1.0
+905,10859,4,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,1.0
+906,10862,5,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,1.0
+907,10865,6,branch crown,complete,1,1,0,4,Osiris,0,11-04-2022,1.0
+908,10883,7,branch crown,complete,0,0,0,0,Osiris,0,11-04-2022,1.0
+909,10885,8,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,1.0
+910,10888,9,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,1.0
+911,10891,10,-1,other,0,0,0,0,Osiris,1,11-04-2022,1.0
+912,10901,1,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,2.0
+913,10904,2,branch crown,incomplete,1,1,0,2,Osiris,0,11-04-2022,2.0
+914,10913,3,branch crown,complete,3,1,2,6,Osiris,0,11-04-2022,2.0
+915,10937,4,branch crown,complete,5,2,3,12,Osiris,0,11-04-2022,2.0
+916,10976,5,branch crown,incomplete,1,1,0,2,Osiris,0,11-04-2022,2.0
+917,10985,6,branch crown,complete,2,1,1,5,Osiris,0,11-04-2022,2.0
+918,11003,7,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,2.0
+919,11006,8,branch crown,complete,0,0,0,0,Osiris,0,11-04-2022,2.0
+920,11008,9,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,2.0
+921,11011,10,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,2.0
+922,11014,11,branch crown,incomplete,0,0,0,0,Osiris,1,11-04-2022,2.0
+923,11016,12,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,2.0
+924,11019,13,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,2.0
+925,11027,1,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,3.0
+926,11030,2,branch crown,complete,4,2,2,12,Osiris,0,11-04-2022,3.0
+927,11078,3,branch crown,complete,0,0,0,0,Osiris,0,11-04-2022,3.0
+928,11080,4,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,3.0
+929,11083,5,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,3.0
+930,11086,6,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,3.0
+931,11089,7,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,3.0
+932,11092,8,branch crown,complete,2,1,1,4,Osiris,1,11-04-2022,3.0
+933,11110,9,branch crown,complete,0,0,0,0,Osiris,1,11-04-2022,3.0
+934,11112,10,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,3.0
+935,11115,11,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,3.0
+936,11118,12,branch crown,incomplete,0,0,0,0,Osiris,2,11-04-2022,3.0
+937,11120,13,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,3.0
+938,11123,14,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,3.0
+939,11126,15,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,3.0
+940,11129,16,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,3.0
+941,11138,1,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,4.0
+942,11141,2,branch crown,complete,3,1,2,10,Osiris,0,11-04-2022,4.0
+943,11177,3,branch crown,complete,2,1,1,5,Osiris,0,11-04-2022,4.0
+944,11201,4,branch crown,complete,3,2,1,10,Osiris,0,11-04-2022,4.0
+945,11243,5,branch crown,complete,6,3,3,15,Osiris,0,11-04-2022,4.0
+946,11303,6,branch crown,complete,0,0,0,0,Osiris,0,11-04-2022,4.0
+947,11305,7,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,4.0
+948,11308,8,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,4.0
+949,11311,9,branch crown,complete,0,0,0,0,Osiris,1,11-04-2022,4.0
+950,11313,10,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,4.0
+951,11316,11,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,4.0
+952,11319,12,branch crown,incomplete,0,0,0,0,Osiris,2,11-04-2022,4.0
+953,11321,13,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,4.0
+954,11324,14,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,4.0
+955,11327,15,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,4.0
+956,11336,1,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,5.0
+957,11339,2,branch crown,complete,2,1,1,3,Osiris,0,11-04-2022,5.0
+958,11351,3,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,5.0
+959,11354,4,branch crown,complete,3,2,1,8,Osiris,0,11-04-2022,5.0
+960,11384,5,branch crown,incomplete,1,1,0,1,Osiris,0,11-04-2022,5.0
+961,11390,6,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,5.0
+962,11393,7,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,5.0
+963,11396,8,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,5.0
+964,11399,9,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,5.0
+965,11402,10,branch crown,complete,2,1,1,5,Osiris,0,11-04-2022,5.0
+966,11423,11,vegetative bud,other,0,0,0,0,Osiris,0,11-04-2022,5.0
+967,11426,12,branch crown,complete,0,0,0,0,Osiris,0,11-04-2022,5.0
+968,11428,13,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,5.0
+969,11431,14,vegetative bud,other,0,0,0,0,Osiris,1,11-04-2022,5.0
+970,11434,15,branch crown,incomplete,0,0,0,0,Osiris,1,11-04-2022,5.0
+971,11436,16,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,5.0
+972,11439,17,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,5.0
+973,11442,18,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,5.0
+974,11450,1,branch crown,complete,3,2,1,8,Osiris,0,11-04-2022,6.0
+975,11492,2,branch crown,complete,2,1,1,7,Osiris,0,11-04-2022,6.0
+976,11522,3,branch crown,complete,0,0,0,0,Osiris,0,11-04-2022,6.0
+977,11524,4,branch crown,complete,2,1,1,6,Osiris,1,11-04-2022,6.0
+978,11548,5,branch crown,complete,0,0,0,0,Osiris,1,11-04-2022,6.0
+979,11550,6,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,6.0
+980,11553,7,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,6.0
+981,11556,8,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,6.0
+982,11559,9,vegetative bud,other,0,0,0,0,Osiris,2,11-04-2022,6.0
+983,11562,10,branch crown,complete,2,1,1,4,Osiris,2,11-04-2022,6.0
+984,11583,11,branch crown,complete,0,0,0,0,Osiris,2,11-04-2022,6.0
+985,11585,12,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,6.0
+986,11588,13,vegetative bud,other,0,0,0,0,Osiris,3,11-04-2022,6.0
+987,11591,14,branch crown,incomplete,0,0,0,0,Osiris,3,11-04-2022,6.0
+988,11593,15,vegetative bud,other,0,0,0,0,Osiris,4,11-04-2022,6.0
+989,11596,16,vegetative bud,other,0,0,0,0,Osiris,4,11-04-2022,6.0
+990,11599,17,vegetative bud,other,0,0,0,0,Osiris,4,11-04-2022,6.0
+991,4848,1,branch crown,complete,2,1,1,7,Cigaline,0,19-04-2022,1.0
+992,4881,2,branch crown,complete,2,1,1,8,Cigaline,0,19-04-2022,1.0
+993,4917,3,branch crown,complete,2,1,1,9,Cigaline,0,19-04-2022,1.0
+994,4956,4,branch crown,complete,2,1,1,7,Cigaline,0,19-04-2022,1.0
+995,4989,5,vegetative bud,other,0,0,0,0,Cigaline,0,19-04-2022,1.0
+996,4992,6,vegetative bud,other,0,0,0,0,Cigaline,0,19-04-2022,1.0
+997,4995,7,vegetative bud,other,0,0,0,0,Cigaline,0,19-04-2022,1.0
+998,4998,8,vegetative bud,other,0,0,0,0,Cigaline,0,19-04-2022,1.0
+999,5001,9,branch crown,incomplete,1,1,0,5,Cigaline,0,19-04-2022,1.0
+1000,5025,10,branch crown,complete,0,0,0,0,Cigaline,0,19-04-2022,1.0
+1001,5027,11,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,1.0
+1002,5030,12,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,1.0
+1003,5033,13,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,1.0
+1004,5036,14,branch crown,incomplete,0,0,0,0,Cigaline,1,19-04-2022,1.0
+1005,5038,15,vegetative bud,other,0,0,0,0,Cigaline,2,19-04-2022,1.0
+1006,5041,16,vegetative bud,other,0,0,0,0,Cigaline,2,19-04-2022,1.0
+1007,5044,17,vegetative bud,other,0,0,0,0,Cigaline,2,19-04-2022,1.0
+1008,5052,1,branch crown,complete,3,1,2,7,Cigaline,0,19-04-2022,2.0
+1009,5082,2,branch crown,complete,3,1,2,8,Cigaline,0,19-04-2022,2.0
+1010,5115,3,branch crown,complete,3,1,2,5,Cigaline,0,19-04-2022,2.0
+1011,5136,4,vegetative bud,other,0,0,0,0,Cigaline,0,19-04-2022,2.0
+1012,5139,5,vegetative bud,other,0,0,0,0,Cigaline,0,19-04-2022,2.0
+1013,5142,6,branch crown,complete,2,1,1,4,Cigaline,0,19-04-2022,2.0
+1014,5160,7,branch crown,complete,0,0,0,0,Cigaline,0,19-04-2022,2.0
+1015,5162,8,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,2.0
+1016,5165,9,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,2.0
+1017,5168,10,branch crown,complete,0,0,0,0,Cigaline,1,19-04-2022,2.0
+1018,5170,11,vegetative bud,other,0,0,0,0,Cigaline,2,19-04-2022,2.0
+1019,5173,12,-1,other,0,0,0,0,Cigaline,2,19-04-2022,2.0
+1020,5184,1,branch crown,complete,2,1,1,6,Cigaline,0,19-04-2022,2.0
+1021,5211,2,branch crown,complete,0,0,0,0,Cigaline,0,19-04-2022,2.0
+1022,5213,3,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,2.0
+1023,5216,4,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,2.0
+1024,5219,5,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,2.0
+1025,5222,6,branch crown,complete,1,1,0,3,Cigaline,1,19-04-2022,2.0
+1026,5243,7,branch crown,complete,0,0,0,0,Cigaline,1,19-04-2022,2.0
+1027,5245,8,vegetative bud,other,0,0,0,0,Cigaline,2,19-04-2022,2.0
+1028,5248,9,branch crown,complete,0,0,0,0,Cigaline,2,19-04-2022,2.0
+1029,5250,10,vegetative bud,other,0,0,0,0,Cigaline,3,19-04-2022,2.0
+1030,5253,11,vegetative bud,other,0,0,0,0,Cigaline,3,19-04-2022,2.0
+1031,5256,12,-1,other,0,0,0,0,Cigaline,3,19-04-2022,2.0
+1032,5274,1,branch crown,complete,2,1,1,5,Cigaline,0,19-04-2022,4.0
+1033,5292,2,branch crown,complete,0,0,0,0,Cigaline,0,19-04-2022,4.0
+1034,5294,3,vegetative bud,other,0,0,0,0,Cigaline,1,19-04-2022,4.0
+1035,5297,4,branch crown,complete,0,0,0,0,Cigaline,1,19-04-2022,4.0
+1036,5299,5,vegetative bud,other,0,0,0,0,Cigaline,2,19-04-2022,4.0
+1037,5302,6,vegetative bud,other,0,0,0,0,Cigaline,2,19-04-2022,4.0
+1038,5305,7,branch crown,incomplete,0,0,0,0,Cigaline,2,19-04-2022,4.0
+1039,5307,8,vegetative bud,other,0,0,0,0,Cigaline,3,19-04-2022,4.0
+1040,5310,9,vegetative bud,other,0,0,0,0,Cigaline,3,19-04-2022,4.0
+1041,5313,10,vegetative bud,other,0,0,0,0,Cigaline,3,19-04-2022,4.0
+1042,1194,1,branch crown,complete,2,1,1,5,CF10122,0,11-04-2022,1.0
+1043,1212,2,vegetative bud,other,0,0,0,0,CF10122,0,11-04-2022,1.0
+1044,1215,3,vegetative bud,other,0,0,0,0,CF10122,0,11-04-2022,1.0
+1045,1218,4,vegetative bud,other,0,0,0,0,CF10122,0,11-04-2022,1.0
+1046,1221,5,branch crown,complete,0,0,0,0,CF10122,0,11-04-2022,1.0
+1047,1223,6,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,1.0
+1048,1226,7,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,1.0
+1049,1229,8,branch crown,complete,0,0,0,0,CF10122,1,11-04-2022,1.0
+1050,1231,9,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,1.0
+1051,1234,10,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,1.0
+1052,1237,11,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,1.0
+1053,1240,12,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,1.0
+1054,1248,1,branch crown,complete,4,1,3,9,CF10122,0,11-04-2022,2.0
+1055,1278,2,branch crown,complete,2,1,1,7,CF10122,0,11-04-2022,2.0
+1056,1302,3,branch crown,complete,2,1,1,8,CF10122,0,11-04-2022,2.0
+1057,1329,4,branch crown,complete,0,0,0,0,CF10122,0,11-04-2022,2.0
+1058,1331,5,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,2.0
+1059,1334,6,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,2.0
+1060,1337,7,branch crown,complete,0,0,0,0,CF10122,1,11-04-2022,2.0
+1061,1339,8,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,2.0
+1062,1342,9,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,2.0
+1063,1345,10,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,2.0
+1064,1348,11,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,2.0
+1065,1351,12,branch crown,incomplete,0,0,0,0,CF10122,2,11-04-2022,2.0
+1066,1353,13,vegetative bud,other,0,0,0,0,CF10122,3,11-04-2022,2.0
+1067,1362,1,branch crown,complete,2,1,1,10,CF10122,0,11-04-2022,3.0
+1068,1401,2,branch crown,complete,0,0,0,0,CF10122,0,11-04-2022,3.0
+1069,1403,3,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,3.0
+1070,1406,4,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,3.0
+1071,1409,5,branch crown,complete,0,0,0,0,CF10122,1,11-04-2022,3.0
+1072,1411,6,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,3.0
+1073,1414,7,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,3.0
+1074,1417,8,branch crown,incomplete,0,0,0,0,CF10122,2,11-04-2022,3.0
+1075,1419,9,vegetative bud,other,0,0,0,0,CF10122,3,11-04-2022,3.0
+1076,1422,10,vegetative bud,other,0,0,0,0,CF10122,3,11-04-2022,3.0
+1077,1431,1,branch crown,complete,2,1,1,3,CF10122,0,11-04-2022,4.0
+1078,1443,2,branch crown,complete,3,1,2,6,CF10122,0,11-04-2022,4.0
+1079,1464,3,branch crown,complete,2,1,1,3,CF10122,0,11-04-2022,4.0
+1080,1476,4,branch crown,complete,2,1,1,6,CF10122,0,11-04-2022,4.0
+1081,1497,5,vegetative bud,other,0,0,0,0,CF10122,0,11-04-2022,4.0
+1082,1500,6,vegetative bud,other,0,0,0,0,CF10122,0,11-04-2022,4.0
+1083,1503,7,vegetative bud,other,0,0,0,0,CF10122,0,11-04-2022,4.0
+1084,1506,8,branch crown,complete,0,0,0,0,CF10122,0,11-04-2022,4.0
+1085,1508,9,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,4.0
+1086,1511,10,branch crown,complete,0,0,0,0,CF10122,1,11-04-2022,4.0
+1087,1513,11,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,4.0
+1088,1521,1,branch crown,complete,2,1,1,4,CF10122,0,11-04-2022,5.0
+1089,1536,2,branch crown,complete,4,2,2,8,CF10122,0,11-04-2022,5.0
+1090,1563,3,branch crown,complete,0,0,0,0,CF10122,0,11-04-2022,5.0
+1091,1565,4,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,5.0
+1092,1568,5,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,5.0
+1093,1571,6,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,5.0
+1094,1574,7,branch crown,complete,0,0,0,0,CF10122,1,11-04-2022,5.0
+1095,1576,8,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,5.0
+1096,1579,9,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,5.0
+1097,1582,10,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,5.0
+1098,1585,11,branch crown,complete,0,0,0,0,CF10122,2,11-04-2022,5.0
+1099,1587,12,vegetative bud,other,0,0,0,0,CF10122,3,11-04-2022,5.0
+1100,1596,1,branch crown,complete,2,1,1,4,CF10122,0,11-04-2022,6.0
+1101,1614,2,branch crown,complete,2,1,1,5,CF10122,0,11-04-2022,6.0
+1102,1635,3,vegetative bud,other,0,0,0,0,CF10122,0,11-04-2022,6.0
+1103,1638,4,vegetative bud,other,0,0,0,0,CF10122,0,11-04-2022,6.0
+1104,1641,5,branch crown,complete,0,0,0,0,CF10122,0,11-04-2022,6.0
+1105,1643,6,vegetative bud,other,0,0,0,0,CF10122,1,11-04-2022,6.0
+1106,1646,7,branch crown,complete,0,0,0,0,CF10122,1,11-04-2022,6.0
+1107,1648,8,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,6.0
+1108,1651,9,vegetative bud,other,0,0,0,0,CF10122,2,11-04-2022,6.0
+1109,1654,10,branch crown,complete,0,0,0,0,CF10122,2,11-04-2022,6.0
+1110,1656,11,vegetative bud,other,0,0,0,0,CF10122,3,11-04-2022,6.0
+1111,7478,1,branch crown,complete,3,1,2,8,Dream,0,19-04-2022,1.0
+1112,7505,2,branch crown,complete,0,0,0,0,Dream,0,19-04-2022,1.0
+1113,7507,3,vegetative bud,other,0,0,0,0,Dream,1,19-04-2022,1.0
+1114,7510,4,branch crown,complete,2,1,1,4,Dream,1,19-04-2022,1.0
+1115,7531,5,branch crown,complete,0,0,0,0,Dream,1,19-04-2022,1.0
+1116,7533,6,vegetative bud,other,0,0,0,0,Dream,2,19-04-2022,1.0
+1117,7536,7,vegetative bud,other,0,0,0,0,Dream,2,19-04-2022,1.0
+1118,7539,8,branch crown,complete,0,0,0,0,Dream,2,19-04-2022,1.0
+1119,7541,9,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,1.0
+1120,7544,10,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,1.0
+1121,7547,11,branch crown,complete,0,0,0,0,Dream,3,19-04-2022,1.0
+1122,7549,12,vegetative bud,other,0,0,0,0,Dream,4,19-04-2022,1.0
+1123,7552,13,branch crown,incomplete,1,1,0,1,Dream,4,19-04-2022,1.0
+1124,7558,14,branch crown,incomplete,0,0,0,0,Dream,4,19-04-2022,1.0
+1125,7560,15,vegetative bud,other,0,0,0,0,Dream,5,19-04-2022,1.0
+1126,7563,16,vegetative bud,other,0,0,0,0,Dream,5,19-04-2022,1.0
+1127,7574,1,branch crown,complete,2,1,1,5,Dream,0,19-04-2022,2.0
+1128,7598,2,branch crown,complete,0,0,0,0,Dream,0,19-04-2022,2.0
+1129,7600,3,vegetative bud,other,0,0,0,0,Dream,1,19-04-2022,2.0
+1130,7603,4,branch crown,complete,0,0,0,0,Dream,1,19-04-2022,2.0
+1131,7605,5,branch crown,complete,7,2,5,20,Dream,2,19-04-2022,2.0
+1132,7692,6,branch crown,complete,0,0,0,0,Dream,2,19-04-2022,2.0
+1133,7694,7,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,2.0
+1134,7697,8,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,2.0
+1135,7700,9,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,2.0
+1136,7703,10,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,2.0
+1137,7706,11,branch crown,complete,3,1,2,6,Dream,3,19-04-2022,2.0
+1138,7727,12,branch crown,complete,0,0,0,0,Dream,3,19-04-2022,2.0
+1139,7729,13,vegetative bud,other,0,0,0,0,Dream,4,19-04-2022,2.0
+1140,7732,14,branch crown,complete,0,0,0,0,Dream,4,19-04-2022,2.0
+1141,7734,15,vegetative bud,other,0,0,0,0,Dream,5,19-04-2022,2.0
+1142,7737,16,vegetative bud,other,0,0,0,0,Dream,5,19-04-2022,2.0
+1143,7740,17,branch crown,incomplete,0,0,0,0,Dream,5,19-04-2022,2.0
+1144,7742,18,vegetative bud,other,0,0,0,0,Dream,6,19-04-2022,2.0
+1145,7754,1,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,3.0
+1146,7757,2,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,3.0
+1147,7760,3,branch crown,complete,5,2,3,9,Dream,0,19-04-2022,3.0
+1148,7796,4,branch crown,complete,0,0,0,0,Dream,0,19-04-2022,3.0
+1149,7798,5,vegetative bud,other,0,0,0,0,Dream,1,19-04-2022,3.0
+1150,7801,6,branch crown,complete,0,0,0,0,Dream,1,19-04-2022,3.0
+1151,7803,7,branch crown,complete,0,0,0,0,Dream,2,19-04-2022,3.0
+1152,7805,8,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,3.0
+1153,7808,9,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,3.0
+1154,7811,10,branch crown,incomplete,0,0,0,0,Dream,3,19-04-2022,3.0
+1155,7813,11,vegetative bud,other,0,0,0,0,Dream,4,19-04-2022,3.0
+1156,7816,12,vegetative bud,other,0,0,0,0,Dream,4,19-04-2022,3.0
+1157,7826,1,branch crown,complete,6,2,4,16,Dream,0,19-04-2022,4.0
+1158,7889,2,branch crown,complete,6,2,4,15,Dream,0,19-04-2022,4.0
+1159,7946,3,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,4.0
+1160,7949,4,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,4.0
+1161,7952,5,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,4.0
+1162,7955,6,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,4.0
+1163,7958,7,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,4.0
+1164,7961,8,branch crown,complete,3,1,2,6,Dream,0,19-04-2022,4.0
+1165,7985,9,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,4.0
+1166,7991,1,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,5.0
+1167,7994,2,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,5.0
+1168,7997,3,vegetative bud,other,0,0,0,0,Dream,0,19-04-2022,5.0
+1169,8000,4,branch crown,complete,1,1,0,3,Dream,0,19-04-2022,5.0
+1170,8012,5,branch crown,complete,0,0,0,0,Dream,0,19-04-2022,5.0
+1171,8014,6,branch crown,complete,0,0,0,0,Dream,1,19-04-2022,5.0
+1172,8016,7,vegetative bud,other,0,0,0,0,Dream,2,19-04-2022,5.0
+1173,8019,8,vegetative bud,other,0,0,0,0,Dream,2,19-04-2022,5.0
+1174,8022,9,branch crown,complete,0,0,0,0,Dream,2,19-04-2022,5.0
+1175,8024,10,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,5.0
+1176,8027,11,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,5.0
+1177,8030,12,vegetative bud,other,0,0,0,0,Dream,3,19-04-2022,5.0
+1178,9479,1,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,1.0
+1179,9482,2,branch crown,complete,2,1,1,4,Magnum,0,11-04-2022,1.0
+1180,9500,3,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,1.0
+1181,9503,4,branch crown,complete,2,1,1,4,Magnum,0,11-04-2022,1.0
+1182,9518,5,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,1.0
+1183,9521,6,branch crown,complete,1,1,0,3,Magnum,0,11-04-2022,1.0
+1184,9536,7,branch crown,complete,0,0,0,0,Magnum,0,11-04-2022,1.0
+1185,9538,8,branch crown,complete,0,0,0,0,Magnum,1,11-04-2022,1.0
+1186,9540,9,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,1.0
+1187,9543,10,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,1.0
+1188,9546,11,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,1.0
+1189,9549,12,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,1.0
+1190,9557,1,branch crown,incomplete,1,1,0,6,Magnum,0,11-04-2022,2.0
+1191,9581,2,branch crown,complete,3,2,1,6,Magnum,0,11-04-2022,2.0
+1192,9608,3,branch crown,complete,3,2,1,8,Magnum,0,11-04-2022,2.0
+1193,9650,4,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,2.0
+1194,9653,5,branch crown,complete,0,0,0,0,Magnum,0,11-04-2022,2.0
+1195,9655,6,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,2.0
+1196,9658,7,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,2.0
+1197,9661,8,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,2.0
+1198,9664,9,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,2.0
+1199,9667,10,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,2.0
+1200,9670,11,branch crown,incomplete,1,1,0,4,Magnum,1,11-04-2022,2.0
+1201,9685,12,branch crown,incomplete,0,0,0,0,Magnum,1,11-04-2022,2.0
+1202,9687,13,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,2.0
+1203,9690,14,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,2.0
+1204,9693,15,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,2.0
+1205,9696,16,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,2.0
+1206,9699,17,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,2.0
+1207,9707,1,branch crown,complete,2,1,1,4,Magnum,0,11-04-2022,3.0
+1208,9725,2,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,3.0
+1209,9728,3,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,3.0
+1210,9731,4,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,3.0
+1211,9734,5,branch crown,complete,2,1,1,4,Magnum,0,11-04-2022,3.0
+1212,9752,6,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,3.0
+1213,9755,7,branch crown,complete,0,0,0,0,Magnum,0,11-04-2022,3.0
+1214,9757,8,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,3.0
+1215,9760,9,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,3.0
+1216,9763,10,branch crown,complete,0,0,0,0,Magnum,1,11-04-2022,3.0
+1217,9765,11,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,3.0
+1218,9768,12,-1,other,0,0,0,0,Magnum,2,11-04-2022,3.0
+1219,9779,1,branch crown,complete,2,1,1,7,Magnum,0,11-04-2022,4.0
+1220,9809,2,branch crown,complete,2,1,1,5,Magnum,0,11-04-2022,4.0
+1221,9833,3,branch crown,complete,2,1,1,5,Magnum,0,11-04-2022,4.0
+1222,9857,4,branch crown,complete,0,0,0,0,Magnum,0,11-04-2022,4.0
+1223,9859,5,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,4.0
+1224,9862,6,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,4.0
+1225,9865,7,branch crown,incomplete,1,1,0,3,Magnum,1,11-04-2022,4.0
+1226,9883,8,branch crown,complete,0,0,0,0,Magnum,1,11-04-2022,4.0
+1227,9885,9,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,4.0
+1228,9888,10,branch crown,incomplete,0,0,0,0,Magnum,2,11-04-2022,4.0
+1229,9890,11,vegetative bud,other,0,0,0,0,Magnum,3,11-04-2022,4.0
+1230,9893,12,vegetative bud,other,0,0,0,0,Magnum,3,11-04-2022,4.0
+1231,9896,13,vegetative bud,other,0,0,0,0,Magnum,3,11-04-2022,4.0
+1232,9899,14,vegetative bud,other,0,0,0,0,Magnum,3,11-04-2022,4.0
+1233,9902,15,vegetative bud,other,0,0,0,0,Magnum,3,11-04-2022,4.0
+1234,9911,1,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,5.0
+1235,9914,2,branch crown,incomplete,1,1,0,4,Magnum,0,11-04-2022,5.0
+1236,9929,3,branch crown,complete,2,1,1,2,Magnum,0,11-04-2022,5.0
+1237,9944,4,branch crown,complete,2,1,1,5,Magnum,0,11-04-2022,5.0
+1238,9962,5,branch crown,complete,1,1,0,4,Magnum,0,11-04-2022,5.0
+1239,9977,6,branch crown,complete,0,0,0,0,Magnum,0,11-04-2022,5.0
+1240,9979,7,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,5.0
+1241,9982,8,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,5.0
+1242,9985,9,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,5.0
+1243,9992,1,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,6.0
+1244,9995,2,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,6.0
+1245,9998,3,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,6.0
+1246,10001,4,branch crown,complete,3,1,2,7,Magnum,0,11-04-2022,6.0
+1247,10028,5,branch crown,complete,2,1,1,4,Magnum,0,11-04-2022,6.0
+1248,10049,6,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,6.0
+1249,10052,7,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,6.0
+1250,10055,8,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,6.0
+1251,10058,9,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,6.0
+1252,10061,10,vegetative bud,other,0,0,0,0,Magnum,0,11-04-2022,6.0
+1253,10064,11,branch crown,complete,2,1,1,4,Magnum,0,11-04-2022,6.0
+1254,10082,12,branch crown,complete,0,0,0,0,Magnum,0,11-04-2022,6.0
+1255,10084,13,vegetative bud,other,0,0,0,0,Magnum,1,11-04-2022,6.0
+1256,10087,14,branch crown,incomplete,0,0,0,0,Magnum,1,11-04-2022,6.0
+1257,10089,15,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,6.0
+1258,10092,16,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,6.0
+1259,10095,17,vegetative bud,other,0,0,0,0,Magnum,2,11-04-2022,6.0
+1260,10103,1,branch crown,complete,2,1,1,4,Manon,0,05-04-2022,1.0
+1261,10124,2,branch crown,complete,2,1,1,4,Manon,0,05-04-2022,1.0
+1262,10145,3,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,1.0
+1263,10148,4,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,1.0
+1264,10151,5,branch crown,complete,6,2,4,11,Manon,0,05-04-2022,1.0
+1265,10187,6,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,1.0
+1266,10190,7,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,1.0
+1267,10193,8,branch crown,incomplete,0,0,0,0,Manon,0,05-04-2022,1.0
+1268,10195,9,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,1.0
+1269,10198,10,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,1.0
+1270,10205,1,branch crown,complete,0,0,0,0,Manon,0,05-04-2022,2.0
+1271,10207,2,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,2.0
+1272,10210,3,branch crown,complete,2,1,1,6,Manon,1,05-04-2022,2.0
+1273,10237,4,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,2.0
+1274,10240,5,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,2.0
+1275,10243,6,branch crown,incomplete,1,1,0,3,Manon,1,05-04-2022,2.0
+1276,10261,7,branch crown,complete,0,0,0,0,Manon,1,05-04-2022,2.0
+1277,10263,8,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,2.0
+1278,10266,9,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,2.0
+1279,10269,10,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,2.0
+1280,10272,11,branch crown,incomplete,0,0,0,0,Manon,2,05-04-2022,2.0
+1281,10274,12,vegetative bud,other,0,0,0,0,Manon,3,05-04-2022,2.0
+1282,10277,13,vegetative bud,other,0,0,0,0,Manon,3,05-04-2022,2.0
+1283,10280,14,-1,other,0,0,0,0,Manon,3,05-04-2022,2.0
+1284,10295,1,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,3.0
+1285,10298,2,branch crown,complete,2,1,1,5,Manon,0,05-04-2022,3.0
+1286,10322,3,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,3.0
+1287,10325,4,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,3.0
+1288,10328,5,branch crown,complete,2,1,1,5,Manon,0,05-04-2022,3.0
+1289,10352,6,branch crown,complete,2,1,1,4,Manon,0,05-04-2022,3.0
+1290,10373,7,branch crown,complete,0,0,0,0,Manon,0,05-04-2022,3.0
+1291,10375,8,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,3.0
+1292,10378,9,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,3.0
+1293,10381,10,branch crown,complete,0,0,0,0,Manon,1,05-04-2022,3.0
+1294,10383,11,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,3.0
+1295,10386,12,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,3.0
+1296,10389,13,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,3.0
+1297,10392,14,-1,other,0,0,0,0,Manon,2,05-04-2022,3.0
+1298,10406,1,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,4.0
+1299,10409,2,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,4.0
+1300,10412,3,branch crown,complete,2,1,1,4,Manon,0,05-04-2022,4.0
+1301,10430,4,branch crown,complete,2,1,1,3,Manon,0,05-04-2022,4.0
+1302,10442,5,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,4.0
+1303,10445,6,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,4.0
+1304,10448,7,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,4.0
+1305,10451,8,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,4.0
+1306,10454,9,branch crown,complete,2,1,1,4,Manon,0,05-04-2022,4.0
+1307,10469,10,branch crown,complete,0,0,0,0,Manon,0,05-04-2022,4.0
+1308,10471,11,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,4.0
+1309,10474,12,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,4.0
+1310,10477,13,branch crown,incomplete,0,0,0,0,Manon,1,05-04-2022,4.0
+1311,10479,14,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,4.0
+1312,10482,15,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,4.0
+1313,10485,16,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,4.0
+1314,10493,1,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,5.0
+1315,10496,2,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,5.0
+1316,10499,3,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,5.0
+1317,10502,4,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,5.0
+1318,10505,5,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,5.0
+1319,10508,6,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,5.0
+1320,10511,7,branch crown,complete,2,1,1,5,Manon,0,05-04-2022,5.0
+1321,10532,8,branch crown,complete,0,0,0,0,Manon,0,05-04-2022,5.0
+1322,10534,9,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,5.0
+1323,10537,10,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,5.0
+1324,10540,11,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,5.0
+1325,10543,12,branch crown,incomplete,0,0,0,0,Manon,1,05-04-2022,5.0
+1326,10545,13,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,5.0
+1327,10548,14,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,5.0
+1328,10551,15,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,5.0
+1329,10554,16,vegetative bud,other,0,0,0,0,Manon,2,05-04-2022,5.0
+1330,10562,1,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,6.0
+1331,10565,2,vegetative bud,other,0,0,0,0,Manon,0,05-04-2022,6.0
+1332,10568,3,branch crown,complete,2,1,1,6,Manon,0,05-04-2022,6.0
+1333,10589,4,branch crown,complete,0,0,0,0,Manon,0,05-04-2022,6.0
+1334,10591,5,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,6.0
+1335,10594,6,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,6.0
+1336,10597,7,vegetative bud,other,0,0,0,0,Manon,1,05-04-2022,6.0
+1337,10600,8,-1,other,0,0,0,0,Manon,1,05-04-2022,6.0
+1338,729,1,branch crown,complete,2,1,1,4,Belrubi,0,25-04-2022,1.0
+1339,747,2,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,1.0
+1340,750,3,branch crown,complete,2,1,1,4,Belrubi,0,25-04-2022,1.0
+1341,768,4,branch crown,complete,0,0,0,0,Belrubi,0,25-04-2022,1.0
+1342,770,5,vegetative bud,other,0,0,0,0,Belrubi,1,25-04-2022,1.0
+1343,773,6,branch crown,incomplete,0,0,0,0,Belrubi,1,25-04-2022,1.0
+1344,775,7,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,1.0
+1345,778,8,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,1.0
+1346,781,9,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,1.0
+1347,789,1,branch crown,incomplete,1,1,0,3,Belrubi,0,25-04-2022,2.0
+1348,801,2,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,2.0
+1349,804,3,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,2.0
+1350,807,4,branch crown,complete,2,1,1,5,Belrubi,0,25-04-2022,2.0
+1351,828,5,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,2.0
+1352,831,6,branch crown,complete,0,0,0,0,Belrubi,0,25-04-2022,2.0
+1353,833,7,vegetative bud,other,0,0,0,0,Belrubi,1,25-04-2022,2.0
+1354,836,8,branch crown,complete,0,0,0,0,Belrubi,1,25-04-2022,2.0
+1355,838,9,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,2.0
+1356,841,10,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,2.0
+1357,844,11,branch crown,incomplete,0,0,0,0,Belrubi,2,25-04-2022,2.0
+1358,846,12,vegetative bud,other,0,0,0,0,Belrubi,3,25-04-2022,2.0
+1359,849,13,vegetative bud,other,0,0,0,0,Belrubi,3,25-04-2022,2.0
+1360,858,1,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,3.0
+1361,861,2,branch crown,complete,3,2,1,10,Belrubi,0,25-04-2022,3.0
+1362,909,3,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,3.0
+1363,912,4,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,3.0
+1364,915,5,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,3.0
+1365,918,6,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,3.0
+1366,921,7,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,3.0
+1367,924,8,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,3.0
+1368,927,9,branch crown,complete,2,1,1,6,Belrubi,0,25-04-2022,3.0
+1369,954,10,branch crown,complete,0,0,0,0,Belrubi,0,25-04-2022,3.0
+1370,956,11,vegetative bud,other,0,0,0,0,Belrubi,1,25-04-2022,3.0
+1371,959,12,branch crown,complete,0,0,0,0,Belrubi,1,25-04-2022,3.0
+1372,961,13,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,3.0
+1373,964,14,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,3.0
+1374,967,15,branch crown,incomplete,0,0,0,0,Belrubi,2,25-04-2022,3.0
+1375,969,16,vegetative bud,other,0,0,0,0,Belrubi,3,25-04-2022,3.0
+1376,972,17,vegetative bud,other,0,0,0,0,Belrubi,3,25-04-2022,3.0
+1377,975,18,vegetative bud,other,0,0,0,0,Belrubi,3,25-04-2022,3.0
+1378,984,1,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,4.0
+1379,987,2,branch crown,complete,3,1,2,7,Belrubi,0,25-04-2022,4.0
+1380,1011,3,branch crown,complete,0,0,0,0,Belrubi,0,25-04-2022,4.0
+1381,1013,4,vegetative bud,other,0,0,0,0,Belrubi,1,25-04-2022,4.0
+1382,1016,5,vegetative bud,other,0,0,0,0,Belrubi,1,25-04-2022,4.0
+1383,1019,6,branch crown,complete,0,0,0,0,Belrubi,1,25-04-2022,4.0
+1384,1021,7,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,4.0
+1385,1024,8,-1,other,0,0,0,0,Belrubi,2,25-04-2022,4.0
+1386,1035,1,branch crown,complete,2,1,1,6,Belrubi,0,25-04-2022,5.0
+1387,1062,2,branch crown,complete,3,2,1,8,Belrubi,0,25-04-2022,5.0
+1388,1107,3,vegetative bud,other,0,0,0,0,Belrubi,0,25-04-2022,5.0
+1389,1110,4,branch crown,complete,2,1,1,9,Belrubi,0,25-04-2022,5.0
+1390,1143,5,branch crown,complete,0,0,0,0,Belrubi,0,25-04-2022,5.0
+1391,1145,6,vegetative bud,other,0,0,0,0,Belrubi,1,25-04-2022,5.0
+1392,1148,7,branch crown,complete,3,1,2,7,Belrubi,1,25-04-2022,5.0
+1393,1175,8,branch crown,complete,0,0,0,0,Belrubi,1,25-04-2022,5.0
+1394,1177,9,vegetative bud,other,0,0,0,0,Belrubi,2,25-04-2022,5.0
+1395,1180,10,aborted/dried bud,other,0,0,0,0,Belrubi,2,25-04-2022,5.0
+1396,8039,1,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,1.0
+1397,8042,2,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,1.0
+1398,8045,3,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,1.0
+1399,8048,4,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,1.0
+1400,8051,5,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,1.0
+1401,8054,6,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,1.0
+1402,8057,7,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,1.0
+1403,8060,8,branch crown,complete,2,1,1,7,gariguette,0,05-04-2022,1.0
+1404,8096,9,branch crown,complete,0,0,0,0,gariguette,0,05-04-2022,1.0
+1405,8098,10,vegetative bud,other,0,0,0,0,gariguette,1,05-04-2022,1.0
+1406,8101,11,branch crown,complete,0,0,0,0,gariguette,1,05-04-2022,1.0
+1407,8103,12,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,1.0
+1408,8106,13,-1,other,0,0,0,0,gariguette,2,05-04-2022,1.0
+1409,8123,1,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1410,8126,2,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1411,8129,3,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1412,8132,4,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1413,8135,5,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1414,8138,6,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1415,8141,7,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1416,8144,8,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1417,8147,9,branch crown,complete,2,1,1,7,gariguette,0,05-04-2022,2.0
+1418,8171,10,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1419,8174,11,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,2.0
+1420,8177,12,branch crown,complete,3,1,2,10,gariguette,0,05-04-2022,2.0
+1421,8210,13,branch crown,complete,0,0,0,0,gariguette,0,05-04-2022,2.0
+1422,8212,14,vegetative bud,other,0,0,0,0,gariguette,1,05-04-2022,2.0
+1423,8215,15,vegetative bud,other,0,0,0,0,gariguette,1,05-04-2022,2.0
+1424,8218,16,branch crown,complete,0,0,0,0,gariguette,1,05-04-2022,2.0
+1425,8220,17,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,2.0
+1426,8223,18,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,2.0
+1427,8226,19,-1,other,0,0,0,0,gariguette,2,05-04-2022,2.0
+1428,8249,1,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,3.0
+1429,8252,2,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,3.0
+1430,8255,3,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,3.0
+1431,8258,4,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,3.0
+1432,8261,5,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,3.0
+1433,8264,6,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,3.0
+1434,8267,7,branch crown,complete,2,1,1,3,gariguette,0,05-04-2022,3.0
+1435,8279,8,branch crown,complete,1,1,0,1,gariguette,0,05-04-2022,3.0
+1436,8285,9,branch crown,complete,0,0,0,0,gariguette,0,05-04-2022,3.0
+1437,8287,10,vegetative bud,other,0,0,0,0,gariguette,1,05-04-2022,3.0
+1438,8290,11,branch crown,complete,0,0,0,0,gariguette,1,05-04-2022,3.0
+1439,8292,12,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,3.0
+1440,8295,13,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,3.0
+1441,8298,14,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,3.0
+1442,8301,15,branch crown,incomplete,1,1,0,3,gariguette,2,05-04-2022,3.0
+1443,8313,16,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,3.0
+1444,8321,1,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,4.0
+1445,8324,2,branch crown,complete,3,2,1,7,gariguette,0,05-04-2022,4.0
+1446,8360,3,branch crown,complete,4,2,2,8,gariguette,0,05-04-2022,4.0
+1447,8396,4,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,4.0
+1448,8399,5,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,4.0
+1449,8402,6,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,4.0
+1450,8405,7,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,4.0
+1451,8408,8,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,4.0
+1452,8411,9,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,4.0
+1453,8414,10,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,4.0
+1454,8417,11,branch crown,complete,2,1,1,5,gariguette,0,05-04-2022,4.0
+1455,8438,12,branch crown,complete,0,0,0,0,gariguette,0,05-04-2022,4.0
+1456,8440,13,vegetative bud,other,0,0,0,0,gariguette,1,05-04-2022,4.0
+1457,8443,14,branch crown,incomplete,0,0,0,0,gariguette,1,05-04-2022,4.0
+1458,8445,15,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,4.0
+1459,8448,16,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,4.0
+1460,8451,17,-1,other,0,0,0,0,gariguette,2,05-04-2022,4.0
+1461,8465,1,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,5.0
+1462,8468,2,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,5.0
+1463,8471,3,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,5.0
+1464,8474,4,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,5.0
+1465,8477,5,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,5.0
+1466,8480,6,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,5.0
+1467,8483,7,branch crown,complete,1,1,0,3,gariguette,0,05-04-2022,5.0
+1468,8504,8,branch crown,complete,0,0,0,0,gariguette,0,05-04-2022,5.0
+1469,8506,9,vegetative bud,other,0,0,0,0,gariguette,1,05-04-2022,5.0
+1470,8509,10,branch crown,incomplete,0,0,0,0,gariguette,1,05-04-2022,5.0
+1471,8511,11,vegetative bud,other,0,0,0,0,gariguette,2,05-04-2022,5.0
+1472,8514,12,-1,other,0,0,0,0,gariguette,2,05-04-2022,5.0
+1473,8528,1,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1474,8531,2,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1475,8534,3,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1476,8537,4,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1477,8540,5,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1478,8543,6,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1479,8546,7,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1480,8549,8,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1481,8552,9,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1482,8555,10,branch crown,complete,2,1,1,5,gariguette,0,05-04-2022,6.0
+1483,8573,11,branch crown,complete,2,1,1,5,gariguette,0,05-04-2022,6.0
+1484,8600,12,branch crown,complete,1,1,0,2,gariguette,0,05-04-2022,6.0
+1485,8609,13,branch crown,complete,1,1,0,2,gariguette,0,05-04-2022,6.0
+1486,8618,14,vegetative bud,other,0,0,0,0,gariguette,0,05-04-2022,6.0
+1487,6573,1,branch crown,complete,2,1,1,4,Clery,0,05-04-2022,1.0
+1488,6597,2,branch crown,complete,3,1,2,9,Clery,0,05-04-2022,1.0
+1489,6633,3,branch crown,complete,0,0,0,0,Clery,0,05-04-2022,1.0
+1490,6635,4,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,1.0
+1491,6638,5,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,1.0
+1492,6641,6,branch crown,complete,0,0,0,0,Clery,1,05-04-2022,1.0
+1493,6643,7,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,1.0
+1494,6646,8,branch crown,complete,0,0,0,0,Clery,2,05-04-2022,1.0
+1495,6648,9,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,1.0
+1496,6651,10,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,1.0
+1497,6654,11,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,1.0
+1498,6657,12,branch crown,incomplete,0,0,0,0,Clery,3,05-04-2022,1.0
+1499,6659,13,vegetative bud,other,0,0,0,0,Clery,4,05-04-2022,1.0
+1500,6662,14,vegetative bud,other,0,0,0,0,Clery,4,05-04-2022,1.0
+1501,6665,15,vegetative bud,other,0,0,0,0,Clery,4,05-04-2022,1.0
+1502,6668,16,vegetative bud,other,0,0,0,0,Clery,4,05-04-2022,1.0
+1503,6678,1,branch crown,complete,3,1,2,9,Clery,0,05-04-2022,2.0
+1504,6714,2,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,2.0
+1505,6717,3,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,2.0
+1506,6720,4,branch crown,complete,0,0,0,0,Clery,0,05-04-2022,2.0
+1507,6722,5,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,2.0
+1508,6725,6,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,2.0
+1509,6728,7,branch crown,complete,0,0,0,0,Clery,1,05-04-2022,2.0
+1510,6730,8,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,2.0
+1511,6733,9,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,2.0
+1512,6736,10,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,2.0
+1513,6739,11,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,2.0
+1514,6742,12,-1,other,0,0,0,0,Clery,2,05-04-2022,2.0
+1515,6753,1,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,3.0
+1516,6756,2,branch crown,complete,2,1,1,4,Clery,0,05-04-2022,3.0
+1517,6777,3,branch crown,complete,2,1,1,7,Clery,0,05-04-2022,3.0
+1518,6810,4,branch crown,complete,0,0,0,0,Clery,0,05-04-2022,3.0
+1519,6812,5,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,3.0
+1520,6815,6,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,3.0
+1521,6818,7,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,3.0
+1522,6821,8,branch crown,complete,0,0,0,0,Clery,1,05-04-2022,3.0
+1523,6823,9,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,3.0
+1524,6826,10,branch crown,incomplete,0,0,0,0,Clery,2,05-04-2022,3.0
+1525,6828,11,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,3.0
+1526,6831,12,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,3.0
+1527,6834,13,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,3.0
+1528,6837,14,-1,other,0,0,0,0,Clery,3,05-04-2022,3.0
+1529,6852,1,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,4.0
+1530,6855,2,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,4.0
+1531,6858,3,branch crown,complete,1,1,0,1,Clery,0,05-04-2022,4.0
+1532,6862,4,,other,0,0,0,0,Clery,0,05-04-2022,4.0
+1533,6863,5,branch crown,complete,0,0,0,0,Clery,0,05-04-2022,4.0
+1534,6865,6,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,4.0
+1535,6868,7,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,4.0
+1536,6871,8,branch crown,complete,0,0,0,0,Clery,1,05-04-2022,4.0
+1537,6873,9,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,4.0
+1538,6876,10,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,4.0
+1539,6879,11,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,4.0
+1540,6890,1,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,5.0
+1541,6893,2,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,5.0
+1542,6896,3,branch crown,complete,2,1,1,5,Clery,0,05-04-2022,5.0
+1543,6923,4,branch crown,complete,5,2,3,13,Clery,0,05-04-2022,5.0
+1544,6977,5,branch crown,complete,0,0,0,0,Clery,0,05-04-2022,5.0
+1545,6979,6,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,5.0
+1546,6982,7,vegetative bud,other,0,0,0,0,Clery,1,05-04-2022,5.0
+1547,6985,8,branch crown,complete,1,1,0,3,Clery,1,05-04-2022,5.0
+1548,7003,9,branch crown,complete,0,0,0,0,Clery,1,05-04-2022,5.0
+1549,7005,10,branch crown,incomplete,1,1,0,3,Clery,2,05-04-2022,5.0
+1550,7020,11,branch crown,incomplete,0,0,0,0,Clery,2,05-04-2022,5.0
+1551,7022,12,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,5.0
+1552,7025,13,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,5.0
+1553,7028,14,-1,other,0,0,0,0,Clery,3,05-04-2022,5.0
+1554,7046,1,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,1.0
+1555,7049,2,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,1.0
+1556,7052,3,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,1.0
+1557,7055,4,branch crown,complete,2,1,1,3,Clery,0,05-04-2022,1.0
+1558,7070,5,branch crown,complete,1,1,0,2,Clery,0,05-04-2022,1.0
+1559,7079,6,branch crown,complete,1,1,0,1,Clery,0,05-04-2022,1.0
+1560,7088,7,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,1.0
+1561,7091,8,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,1.0
+1562,7094,9,vegetative bud,other,0,0,0,0,Clery,0,05-04-2022,1.0
+1563,7097,10,branch crown,complete,0,0,0,0,Clery,0,05-04-2022,1.0
+1564,7099,11,branch crown,complete,0,0,0,0,Clery,1,05-04-2022,1.0
+1565,7101,12,vegetative bud,other,0,0,0,0,Clery,2,05-04-2022,1.0
+1566,7104,13,branch crown,incomplete,0,0,0,0,Clery,2,05-04-2022,1.0
+1567,7106,14,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,1.0
+1568,7109,15,vegetative bud,other,0,0,0,0,Clery,3,05-04-2022,1.0
+1569,7112,16,-1,other,0,0,0,0,Clery,3,05-04-2022,1.0
+1570,5322,1,stolon,other,0,0,0,0,Cireine,0,25-04-2022,1.0
+1571,5325,2,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,1.0
+1572,5328,3,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,1.0
+1573,5331,4,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,1.0
+1574,5334,5,branch crown,complete,2,1,1,7,Cireine,0,25-04-2022,1.0
+1575,5367,6,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,1.0
+1576,5370,7,branch crown,complete,0,0,0,0,Cireine,0,25-04-2022,1.0
+1577,5372,8,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,1.0
+1578,5375,9,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,1.0
+1579,5378,10,branch crown,complete,0,0,0,0,Cireine,1,25-04-2022,1.0
+1580,5380,11,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,1.0
+1581,5383,12,branch crown,incomplete,0,0,0,0,Cireine,2,25-04-2022,1.0
+1582,5385,13,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,1.0
+1583,5388,14,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,1.0
+1584,5391,15,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,1.0
+1585,5394,16,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,1.0
+1586,5397,17,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,1.0
+1587,5406,1,branch crown,complete,3,1,2,7,Cireine,0,25-04-2022,2.0
+1588,5430,2,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,2.0
+1589,5433,3,branch crown,complete,0,0,0,0,Cireine,0,25-04-2022,2.0
+1590,5435,4,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,2.0
+1591,5438,5,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,2.0
+1592,5441,6,branch crown,complete,0,0,0,0,Cireine,1,25-04-2022,2.0
+1593,5443,7,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,2.0
+1594,5446,8,branch crown,incomplete,0,0,0,0,Cireine,2,25-04-2022,2.0
+1595,5448,9,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,2.0
+1596,5451,10,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,2.0
+1597,5454,11,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,2.0
+1598,5463,1,branch crown,complete,4,1,3,8,Cireine,0,25-04-2022,3.0
+1599,5490,2,branch crown,complete,2,1,1,4,Cireine,0,25-04-2022,3.0
+1600,5505,3,branch crown,complete,3,1,2,6,Cireine,0,25-04-2022,3.0
+1601,5529,4,branch crown,complete,0,0,0,0,Cireine,0,25-04-2022,3.0
+1602,5531,5,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,3.0
+1603,5534,6,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,3.0
+1604,5537,7,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,3.0
+1605,5540,8,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,3.0
+1606,5543,9,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,3.0
+1607,5546,10,branch crown,incomplete,0,0,0,0,Cireine,1,25-04-2022,3.0
+1608,5548,11,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,3.0
+1609,5551,12,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,3.0
+1610,5554,13,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,3.0
+1611,5557,14,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,3.0
+1612,5565,1,branch crown,complete,2,1,1,10,Cireine,0,25-04-2022,4.0
+1613,5598,2,branch crown,complete,2,1,1,9,Cireine,0,25-04-2022,4.0
+1614,5628,3,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,4.0
+1615,5631,4,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,4.0
+1616,5634,5,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,4.0
+1617,5637,6,branch crown,complete,0,0,0,0,Cireine,0,25-04-2022,4.0
+1618,5639,7,branch crown,complete,2,1,1,7,Cireine,1,25-04-2022,4.0
+1619,5663,8,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,4.0
+1620,5666,9,branch crown,complete,0,0,0,0,Cireine,1,25-04-2022,4.0
+1621,5668,10,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,4.0
+1622,5671,11,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,4.0
+1623,5674,12,branch crown,incomplete,0,0,0,0,Cireine,2,25-04-2022,4.0
+1624,5676,13,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,4.0
+1625,5679,14,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,4.0
+1626,5682,15,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,4.0
+1627,5685,16,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,4.0
+1628,5694,1,stolon,other,0,0,0,0,Cireine,0,25-04-2022,5.0
+1629,5697,2,stolon,other,0,0,0,0,Cireine,0,25-04-2022,5.0
+1630,5700,3,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,5.0
+1631,5703,4,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,5.0
+1632,5706,5,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,5.0
+1633,5709,6,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,5.0
+1634,5712,7,branch crown,complete,2,1,1,11,Cireine,0,25-04-2022,5.0
+1635,5760,8,branch crown,complete,0,0,0,0,Cireine,0,25-04-2022,5.0
+1636,5762,9,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,5.0
+1637,5765,10,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,5.0
+1638,5768,11,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,5.0
+1639,5771,12,branch crown,incomplete,0,0,0,0,Cireine,1,25-04-2022,5.0
+1640,5773,13,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1641,5776,14,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1642,5779,15,stolon,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1643,5782,16,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1644,5785,17,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1645,5788,18,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1646,5791,19,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1647,5794,20,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1648,5797,21,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1649,5800,22,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,5.0
+1650,5808,1,branch crown,complete,2,1,1,5,Cireine,0,25-04-2022,6.0
+1651,5826,2,branch crown,incomplete,1,1,0,2,Cireine,0,25-04-2022,6.0
+1652,5835,3,vegetative bud,other,0,0,0,0,Cireine,0,25-04-2022,6.0
+1653,5838,4,branch crown,complete,0,0,0,0,Cireine,0,25-04-2022,6.0
+1654,5840,5,vegetative bud,other,0,0,0,0,Cireine,1,25-04-2022,6.0
+1655,5843,6,branch crown,complete,0,0,0,0,Cireine,1,25-04-2022,6.0
+1656,5845,7,vegetative bud,other,0,0,0,0,Cireine,2,25-04-2022,6.0
+1657,5848,8,branch crown,incomplete,0,0,0,0,Cireine,2,25-04-2022,6.0
+1658,5850,9,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,6.0
+1659,5853,10,vegetative bud,other,0,0,0,0,Cireine,3,25-04-2022,6.0

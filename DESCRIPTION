@@ -1,0 +1,12 @@
+Package: StrawArchitecturalAnalysis
+Title: Strawberry Architecture analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Marc", "Labadie", , "marc.labadie@cirad.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9923-881"))
+Description: Strawberry Architectural analysis data from openalea.strawberry python library <https://github.com/openalea/strawberry>.
+License: use_gpl3_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: ggplot2, dplyr, agricolae, rstatix, stringr, scales

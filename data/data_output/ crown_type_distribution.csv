@@ -1,0 +1,181 @@
+"Genotype","order","type_of_crown","n","prob"
+"Belle_et_Bonne",0,"Main",5,1
+"Belle_et_Bonne",1,"Branch",11,0.6875
+"Belle_et_Bonne",1,"Extension",5,0.3125
+"Belle_et_Bonne",2,"Branch",3,0.166666666666667
+"Belle_et_Bonne",2,"Extension",15,0.833333333333333
+"Belle_et_Bonne",3,"Branch",1,0.0625
+"Belle_et_Bonne",3,"Extension",15,0.9375
+"Belle_et_Bonne",4,"Extension",3,1
+"Belle_et_Bonne",5,"Extension",1,1
+"Belrubi",0,"Main",5,1
+"Belrubi",1,"Branch",10,0.666666666666667
+"Belrubi",1,"Extension",5,0.333333333333333
+"Belrubi",2,"Branch",3,0.176470588235294
+"Belrubi",2,"Extension",14,0.823529411764706
+"Belrubi",3,"Extension",4,1
+"Belrubi",4,"Extension",1,1
+"CF10122",0,"Main",6,1
+"CF10122",1,"Branch",13,0.684210526315789
+"CF10122",1,"Extension",6,0.315789473684211
+"CF10122",2,"Branch",1,0.05
+"CF10122",2,"Extension",19,0.95
+"CF10122",3,"Extension",7,1
+"CF10122",4,"Extension",1,1
+"CF10277",0,"Main",6,1
+"CF10277",1,"Branch",25,0.806451612903226
+"CF10277",1,"Extension",6,0.193548387096774
+"CF10277",2,"Branch",4,0.125
+"CF10277",2,"Extension",28,0.875
+"CF10277",3,"Extension",14,1
+"CF12074",0,"Main",6,1
+"CF12074",1,"Branch",15,0.714285714285714
+"CF12074",1,"Extension",6,0.285714285714286
+"CF12074",2,"Branch",12,0.363636363636364
+"CF12074",2,"Extension",21,0.636363636363636
+"CF12074",3,"Branch",5,0.2
+"CF12074",3,"Extension",20,0.8
+"CF12074",4,"Extension",8,1
+"CF12074",5,"Extension",2,1
+"CF9416",0,"Main",5,1
+"CF9416",1,"Branch",16,0.761904761904762
+"CF9416",1,"Extension",5,0.238095238095238
+"CF9416",2,"Branch",2,0.1
+"CF9416",2,"Extension",18,0.9
+"CF9416",3,"Branch",4,0.266666666666667
+"CF9416",3,"Extension",11,0.733333333333333
+"CF9416",4,"Extension",4,1
+"Ciflorette",0,"Main",6,1
+"Ciflorette",1,"Branch",13,0.722222222222222
+"Ciflorette",1,"Extension",5,0.277777777777778
+"Ciflorette",2,"Branch",10,0.384615384615385
+"Ciflorette",2,"Extension",16,0.615384615384615
+"Ciflorette",3,"Extension",11,1
+"Ciflorette",4,"Branch",1,0.25
+"Ciflorette",4,"Extension",3,0.75
+"Ciflorette",5,"Extension",1,1
+"Ciflorette",6,"Extension",1,1
+"Cigaline",0,"Main",4,1
+"Cigaline",1,"Branch",11,0.733333333333333
+"Cigaline",1,"Extension",4,0.266666666666667
+"Cigaline",2,"Branch",1,0.0666666666666667
+"Cigaline",2,"Extension",14,0.933333333333333
+"Cigaline",3,"Extension",5,1
+"CIR107",0,"Main",6,1
+"CIR107",1,"Branch",17,0.739130434782609
+"CIR107",1,"Extension",6,0.260869565217391
+"CIR107",2,"Branch",4,0.16
+"CIR107",2,"Extension",21,0.84
+"CIR107",3,"Branch",1,0.0625
+"CIR107",3,"Extension",15,0.9375
+"CIR107",4,"Extension",3,1
+"Cireine",0,"Main",6,1
+"Cireine",1,"Branch",10,0.625
+"Cireine",1,"Extension",6,0.375
+"Cireine",2,"Branch",1,0.0625
+"Cireine",2,"Extension",15,0.9375
+"Cireine",3,"Extension",8,1
+"Cireine",4,"Extension",1,1
+"Clery",0,"Main",6,1
+"Clery",1,"Branch",11,0.647058823529412
+"Clery",1,"Extension",6,0.352941176470588
+"Clery",2,"Branch",2,0.125
+"Clery",2,"Extension",14,0.875
+"Clery",3,"Branch",1,0.111111111111111
+"Clery",3,"Extension",8,0.888888888888889
+"Clery",4,"Extension",1,1
+"Darselect",0,"Main",5,1
+"Darselect",1,"Branch",7,0.583333333333333
+"Darselect",1,"Extension",5,0.416666666666667
+"Darselect",2,"Branch",2,0.153846153846154
+"Darselect",2,"Extension",11,0.846153846153846
+"Darselect",3,"Branch",1,0.111111111111111
+"Darselect",3,"Extension",8,0.888888888888889
+"Darselect",4,"Extension",4,1
+"Dream",0,"Main",5,1
+"Dream",1,"Branch",7,0.636363636363636
+"Dream",1,"Extension",4,0.363636363636364
+"Dream",2,"Branch",4,0.285714285714286
+"Dream",2,"Extension",10,0.714285714285714
+"Dream",3,"Branch",1,0.0769230769230769
+"Dream",3,"Extension",12,0.923076923076923
+"Dream",4,"Branch",2,0.222222222222222
+"Dream",4,"Extension",7,0.777777777777778
+"Dream",5,"Branch",1,0.166666666666667
+"Dream",5,"Extension",5,0.833333333333333
+"Dream",6,"Extension",4,1
+"gariguette",0,"Main",6,1
+"gariguette",1,"Branch",13,0.722222222222222
+"gariguette",1,"Extension",5,0.277777777777778
+"gariguette",2,"Branch",2,0.133333333333333
+"gariguette",2,"Extension",13,0.866666666666667
+"gariguette",3,"Branch",1,0.25
+"gariguette",3,"Extension",3,0.75
+"Leroy Ladurie",0,"Main",6,1
+"Leroy Ladurie",1,"Branch",12,0.666666666666667
+"Leroy Ladurie",1,"Extension",6,0.333333333333333
+"Leroy Ladurie",2,"Branch",1,0.0666666666666667
+"Leroy Ladurie",2,"Extension",14,0.933333333333333
+"Leroy Ladurie",3,"Extension",3,1
+"Leroy Ladurie",4,"Branch",1,0.5
+"Leroy Ladurie",4,"Extension",1,0.5
+"Leroy Ladurie",5,"Extension",1,1
+"Magnum",0,"Main",6,1
+"Magnum",1,"Branch",18,0.75
+"Magnum",1,"Extension",6,0.25
+"Magnum",2,"Branch",4,0.173913043478261
+"Magnum",2,"Extension",19,0.826086956521739
+"Magnum",3,"Extension",2,1
+"Manon",0,"Main",6,1
+"Manon",1,"Branch",11,0.647058823529412
+"Manon",1,"Extension",6,0.352941176470588
+"Manon",2,"Branch",2,0.117647058823529
+"Manon",2,"Extension",15,0.882352941176471
+"Manon",3,"Branch",1,0.25
+"Manon",3,"Extension",3,0.75
+"Manon",4,"Extension",1,1
+"Manon",5,"Extension",1,1
+"Moutot",0,"Main",4,1
+"Moutot",1,"Branch",1,0.2
+"Moutot",1,"Extension",4,0.8
+"Moutot",2,"Branch",1,0.166666666666667
+"Moutot",2,"Extension",5,0.833333333333333
+"Moutot",3,"Extension",5,1
+"Moutot",4,"Extension",2,1
+"Moutot",5,"Extension",1,1
+"Osiris",0,"Main",6,1
+"Osiris",1,"Branch",18,0.75
+"Osiris",1,"Extension",6,0.25
+"Osiris",2,"Branch",9,0.321428571428571
+"Osiris",2,"Extension",19,0.678571428571429
+"Osiris",3,"Branch",1,0.0714285714285714
+"Osiris",3,"Extension",13,0.928571428571429
+"Osiris",4,"Extension",2,1
+"Rubis",0,"Main",4,1
+"Rubis",1,"Extension",4,1
+"Rubis",2,"Extension",4,1
+"Rubis",3,"Branch",1,0.25
+"Rubis",3,"Extension",3,0.75
+"Rubis",4,"Extension",2,1
+"Rubis",5,"Branch",1,0.5
+"Rubis",5,"Extension",1,0.5
+"Rubis",6,"Extension",2,1
+"Sanié",0,"Main",6,1
+"Sanié",1,"Branch",8,0.571428571428571
+"Sanié",1,"Extension",6,0.428571428571429
+"Sanié",2,"Branch",1,0.0666666666666667
+"Sanié",2,"Extension",14,0.933333333333333
+"Sanié",3,"Branch",2,0.153846153846154
+"Sanié",3,"Extension",11,0.846153846153846
+"Sanié",4,"Branch",1,0.111111111111111
+"Sanié",4,"Extension",8,0.888888888888889
+"Sanié",5,"Extension",5,1
+"Sanié",6,"Extension",1,1
+"Sans rivale",0,"Main",3,1
+"Sans rivale",1,"Branch",13,0.8125
+"Sans rivale",1,"Extension",3,0.1875
+"Sans rivale",2,"Branch",3,0.1875
+"Sans rivale",2,"Extension",13,0.8125
+"Sans rivale",3,"Branch",1,0.0909090909090909
+"Sans rivale",3,"Extension",10,0.909090909090909
+"Sans rivale",4,"Extension",5,1

@@ -1,0 +1,1084 @@
+"rank","Genotype","order","branching_type","n","total","prob"
+1,"Belle_et_Bonne",0,"branch crown",3,5,0.6
+1,"Belle_et_Bonne",0,"vegetative bud",2,5,0.4
+1,"Belrubi",0,"branch crown",3,5,0.6
+1,"Belrubi",0,"vegetative bud",2,5,0.4
+1,"CF10122",0,"branch crown",6,6,1
+1,"CF10277",0,"branch crown",6,6,1
+1,"CF12074",0,"branch crown",6,6,1
+1,"CF9416",0,"branch crown",3,5,0.6
+1,"CF9416",0,"vegetative bud",2,5,0.4
+1,"Ciflorette",0,"branch crown",3,6,0.5
+1,"Ciflorette",0,"vegetative bud",3,6,0.5
+1,"Cigaline",0,"branch crown",4,4,1
+1,"CIR107",0,"branch crown",4,6,0.666666666666667
+1,"CIR107",0,"vegetative bud",2,6,0.333333333333333
+1,"Cireine",0,"branch crown",4,6,0.666666666666667
+1,"Cireine",0,"stolon",2,6,0.333333333333333
+1,"Clery",0,"branch crown",2,6,0.333333333333333
+1,"Clery",0,"vegetative bud",4,6,0.666666666666667
+1,"Darselect",0,"branch crown",1,5,0.2
+1,"Darselect",0,"vegetative bud",4,5,0.8
+1,"Dream",0,"branch crown",3,5,0.6
+1,"Dream",0,"vegetative bud",2,5,0.4
+1,"gariguette",0,"vegetative bud",6,6,1
+1,"Leroy Ladurie",0,"branch crown",6,6,1
+1,"Magnum",0,"branch crown",3,6,0.5
+1,"Magnum",0,"vegetative bud",3,6,0.5
+1,"Manon",0,"branch crown",2,6,0.333333333333333
+1,"Manon",0,"vegetative bud",4,6,0.666666666666667
+1,"Moutot",0,"branch crown",2,4,0.5
+1,"Moutot",0,"vegetative bud",2,4,0.5
+1,"Osiris",0,"branch crown",2,6,0.333333333333333
+1,"Osiris",0,"vegetative bud",4,6,0.666666666666667
+1,"Rubis",0,"branch crown",1,4,0.25
+1,"Rubis",0,"vegetative bud",3,4,0.75
+1,"Sanié",0,"branch crown",4,6,0.666666666666667
+1,"Sanié",0,"vegetative bud",2,6,0.333333333333333
+1,"Sans rivale",0,"branch crown",1,3,0.333333333333333
+1,"Sans rivale",0,"vegetative bud",2,3,0.666666666666667
+2,"Belle_et_Bonne",0,"branch crown",2,5,0.4
+2,"Belle_et_Bonne",0,"vegetative bud",3,5,0.6
+2,"Belrubi",0,"branch crown",3,5,0.6
+2,"Belrubi",0,"vegetative bud",2,5,0.4
+2,"CF10122",0,"branch crown",5,6,0.833333333333333
+2,"CF10122",0,"vegetative bud",1,6,0.166666666666667
+2,"CF10277",0,"branch crown",4,6,0.666666666666667
+2,"CF10277",0,"vegetative bud",2,6,0.333333333333333
+2,"CF12074",0,"branch crown",6,6,1
+2,"CF9416",0,"branch crown",2,5,0.4
+2,"CF9416",0,"stolon",1,5,0.2
+2,"CF9416",0,"vegetative bud",2,5,0.4
+2,"Ciflorette",0,"branch crown",4,5,0.8
+2,"Ciflorette",0,"vegetative bud",1,5,0.2
+2,"Ciflorette",1,"vegetative bud",1,1,1
+2,"Cigaline",0,"branch crown",4,4,1
+2,"CIR107",0,"branch crown",5,6,0.833333333333333
+2,"CIR107",0,"vegetative bud",1,6,0.166666666666667
+2,"Cireine",0,"branch crown",3,6,0.5
+2,"Cireine",0,"stolon",1,6,0.166666666666667
+2,"Cireine",0,"vegetative bud",2,6,0.333333333333333
+2,"Clery",0,"branch crown",2,6,0.333333333333333
+2,"Clery",0,"vegetative bud",4,6,0.666666666666667
+2,"Darselect",0,"branch crown",3,5,0.6
+2,"Darselect",0,"vegetative bud",2,5,0.4
+2,"Dream",0,"branch crown",3,5,0.6
+2,"Dream",0,"vegetative bud",2,5,0.4
+2,"gariguette",0,"branch crown",1,6,0.166666666666667
+2,"gariguette",0,"vegetative bud",5,6,0.833333333333333
+2,"Leroy Ladurie",0,"branch crown",2,4,0.5
+2,"Leroy Ladurie",0,"stolon",2,4,0.5
+2,"Leroy Ladurie",1,"branch crown",1,2,0.5
+2,"Leroy Ladurie",1,"vegetative bud",1,2,0.5
+2,"Magnum",0,"branch crown",4,6,0.666666666666667
+2,"Magnum",0,"vegetative bud",2,6,0.333333333333333
+2,"Manon",0,"branch crown",2,5,0.4
+2,"Manon",0,"vegetative bud",3,5,0.6
+2,"Manon",1,"vegetative bud",1,1,1
+2,"Moutot",0,"vegetative bud",3,3,1
+2,"Moutot",1,"vegetative bud",1,1,1
+2,"Osiris",0,"branch crown",5,6,0.833333333333333
+2,"Osiris",0,"vegetative bud",1,6,0.166666666666667
+2,"Rubis",0,"branch crown",1,3,0.333333333333333
+2,"Rubis",0,"vegetative bud",2,3,0.666666666666667
+2,"Rubis",1,"branch crown",1,1,1
+2,"Sanié",0,"branch crown",4,4,1
+2,"Sanié",1,"branch crown",2,2,1
+2,"Sans rivale",0,"branch crown",2,3,0.666666666666667
+2,"Sans rivale",0,"vegetative bud",1,3,0.333333333333333
+3,"Belle_et_Bonne",0,"branch crown",3,5,0.6
+3,"Belle_et_Bonne",0,"vegetative bud",2,5,0.4
+3,"Belrubi",0,"branch crown",2,5,0.4
+3,"Belrubi",0,"vegetative bud",3,5,0.6
+3,"CF10122",0,"branch crown",3,5,0.6
+3,"CF10122",0,"vegetative bud",2,5,0.4
+3,"CF10122",1,"vegetative bud",1,1,1
+3,"CF10277",0,"branch crown",5,6,0.833333333333333
+3,"CF10277",0,"vegetative bud",1,6,0.166666666666667
+3,"CF12074",0,"branch crown",3,3,1
+3,"CF12074",1,"branch crown",3,3,1
+3,"CF9416",0,"branch crown",3,5,0.6
+3,"CF9416",0,"stolon",1,5,0.2
+3,"CF9416",0,"vegetative bud",1,5,0.2
+3,"Ciflorette",0,"branch crown",4,5,0.8
+3,"Ciflorette",0,"vegetative bud",1,5,0.2
+3,"Ciflorette",1,"vegetative bud",1,1,1
+3,"Cigaline",0,"branch crown",2,2,1
+3,"Cigaline",1,"vegetative bud",2,2,1
+3,"CIR107",0,"branch crown",4,5,0.8
+3,"CIR107",0,"vegetative bud",1,5,0.2
+3,"CIR107",1,"branch crown",1,1,1
+3,"Cireine",0,"branch crown",2,6,0.333333333333333
+3,"Cireine",0,"vegetative bud",4,6,0.666666666666667
+3,"Clery",0,"branch crown",4,6,0.666666666666667
+3,"Clery",0,"vegetative bud",2,6,0.333333333333333
+3,"Darselect",0,"branch crown",3,5,0.6
+3,"Darselect",0,"vegetative bud",2,5,0.4
+3,"Dream",0,"branch crown",1,3,0.333333333333333
+3,"Dream",0,"vegetative bud",2,3,0.666666666666667
+3,"Dream",1,"vegetative bud",2,2,1
+3,"gariguette",0,"branch crown",1,6,0.166666666666667
+3,"gariguette",0,"vegetative bud",5,6,0.833333333333333
+3,"Leroy Ladurie",0,"stolon",4,4,1
+3,"Leroy Ladurie",1,"vegetative bud",1,1,1
+3,"Leroy Ladurie",2,"branch crown",1,1,1
+3,"Magnum",0,"branch crown",3,6,0.5
+3,"Magnum",0,"vegetative bud",3,6,0.5
+3,"Manon",0,"branch crown",2,5,0.4
+3,"Manon",0,"vegetative bud",3,5,0.6
+3,"Manon",1,"branch crown",1,1,1
+3,"Moutot",0,"branch crown",2,3,0.666666666666667
+3,"Moutot",0,"vegetative bud",1,3,0.333333333333333
+3,"Moutot",1,"branch crown",1,1,1
+3,"Osiris",0,"branch crown",4,6,0.666666666666667
+3,"Osiris",0,"vegetative bud",2,6,0.333333333333333
+3,"Rubis",0,"branch crown",1,2,0.5
+3,"Rubis",0,"vegetative bud",1,2,0.5
+3,"Rubis",1,"vegetative bud",1,1,1
+3,"Rubis",2,"branch crown",1,1,1
+3,"Sanié",0,"branch crown",2,3,0.666666666666667
+3,"Sanié",0,"vegetative bud",1,3,0.333333333333333
+3,"Sanié",1,"vegetative bud",1,1,1
+3,"Sanié",2,"branch crown",2,2,1
+3,"Sans rivale",0,"branch crown",3,3,1
+4,"Belle_et_Bonne",0,"branch crown",3,5,0.6
+4,"Belle_et_Bonne",0,"stolon",1,5,0.2
+4,"Belle_et_Bonne",0,"vegetative bud",1,5,0.2
+4,"Belrubi",0,"branch crown",3,4,0.75
+4,"Belrubi",0,"vegetative bud",1,4,0.25
+4,"Belrubi",1,"vegetative bud",1,1,1
+4,"CF10122",0,"branch crown",2,4,0.5
+4,"CF10122",0,"vegetative bud",2,4,0.5
+4,"CF10122",1,"vegetative bud",2,2,1
+4,"CF10277",0,"branch crown",5,6,0.833333333333333
+4,"CF10277",0,"vegetative bud",1,6,0.166666666666667
+4,"CF12074",0,"branch crown",2,3,0.666666666666667
+4,"CF12074",0,"vegetative bud",1,3,0.333333333333333
+4,"CF12074",1,"branch crown",1,1,1
+4,"CF12074",2,"stolon",1,2,0.5
+4,"CF12074",2,"vegetative bud",1,2,0.5
+4,"CF9416",0,"branch crown",2,5,0.4
+4,"CF9416",0,"stolon",1,5,0.2
+4,"CF9416",0,"vegetative bud",2,5,0.4
+4,"Ciflorette",0,"branch crown",3,5,0.6
+4,"Ciflorette",0,"vegetative bud",2,5,0.4
+4,"Ciflorette",1,"vegetative bud",1,1,1
+4,"Cigaline",0,"branch crown",1,2,0.5
+4,"Cigaline",0,"vegetative bud",1,2,0.5
+4,"Cigaline",1,"branch crown",1,2,0.5
+4,"Cigaline",1,"vegetative bud",1,2,0.5
+4,"CIR107",0,"branch crown",5,5,1
+4,"CIR107",1,"vegetative bud",1,1,1
+4,"Cireine",0,"branch crown",2,5,0.4
+4,"Cireine",0,"vegetative bud",3,5,0.6
+4,"Cireine",1,"vegetative bud",1,1,1
+4,"Clery",0,"",1,5,0.2
+4,"Clery",0,"branch crown",4,5,0.8
+4,"Clery",1,"vegetative bud",1,1,1
+4,"Darselect",0,"branch crown",3,4,0.75
+4,"Darselect",0,"vegetative bud",1,4,0.25
+4,"Darselect",1,"branch crown",1,1,1
+4,"Dream",0,"branch crown",2,3,0.666666666666667
+4,"Dream",0,"vegetative bud",1,3,0.333333333333333
+4,"Dream",1,"branch crown",2,2,1
+4,"gariguette",0,"vegetative bud",6,6,1
+4,"Leroy Ladurie",0,"stolon",3,4,0.75
+4,"Leroy Ladurie",0,"vegetative bud",1,4,0.25
+4,"Leroy Ladurie",1,"vegetative bud",1,1,1
+4,"Leroy Ladurie",3,"vegetative bud",1,1,1
+4,"Magnum",0,"branch crown",4,6,0.666666666666667
+4,"Magnum",0,"vegetative bud",2,6,0.333333333333333
+4,"Manon",0,"branch crown",2,5,0.4
+4,"Manon",0,"vegetative bud",3,5,0.6
+4,"Manon",1,"vegetative bud",1,1,1
+4,"Moutot",0,"branch crown",1,1,1
+4,"Moutot",1,"branch crown",1,3,0.333333333333333
+4,"Moutot",1,"vegetative bud",2,3,0.666666666666667
+4,"Osiris",0,"branch crown",3,4,0.75
+4,"Osiris",0,"vegetative bud",1,4,0.25
+4,"Osiris",1,"branch crown",1,2,0.5
+4,"Osiris",1,"vegetative bud",1,2,0.5
+4,"Rubis",0,"vegetative bud",1,1,1
+4,"Rubis",1,"vegetative bud",2,2,1
+4,"Rubis",3,"vegetative bud",1,1,1
+4,"Sanié",0,"branch crown",1,2,0.5
+4,"Sanié",0,"vegetative bud",1,2,0.5
+4,"Sanié",1,"branch crown",1,2,0.5
+4,"Sanié",1,"vegetative bud",1,2,0.5
+4,"Sanié",2,"branch crown",1,1,1
+4,"Sanié",3,"vegetative bud",1,1,1
+4,"Sans rivale",0,"branch crown",3,3,1
+5,"Belle_et_Bonne",0,"branch crown",1,4,0.25
+5,"Belle_et_Bonne",0,"vegetative bud",3,4,0.75
+5,"Belle_et_Bonne",1,"vegetative bud",1,1,1
+5,"Belrubi",0,"branch crown",1,3,0.333333333333333
+5,"Belrubi",0,"vegetative bud",2,3,0.666666666666667
+5,"Belrubi",1,"vegetative bud",2,2,1
+5,"CF10122",0,"branch crown",2,3,0.666666666666667
+5,"CF10122",0,"vegetative bud",1,3,0.333333333333333
+5,"CF10122",1,"branch crown",1,3,0.333333333333333
+5,"CF10122",1,"vegetative bud",2,3,0.666666666666667
+5,"CF10277",0,"branch crown",2,5,0.4
+5,"CF10277",0,"vegetative bud",3,5,0.6
+5,"CF10277",1,"vegetative bud",1,1,1
+5,"CF12074",0,"branch crown",1,2,0.5
+5,"CF12074",0,"vegetative bud",1,2,0.5
+5,"CF12074",1,"branch crown",1,2,0.5
+5,"CF12074",1,"stolon",1,2,0.5
+5,"CF12074",2,"branch crown",1,2,0.5
+5,"CF12074",2,"vegetative bud",1,2,0.5
+5,"CF9416",0,"branch crown",3,5,0.6
+5,"CF9416",0,"vegetative bud",2,5,0.4
+5,"Ciflorette",0,"branch crown",1,4,0.25
+5,"Ciflorette",0,"vegetative bud",3,4,0.75
+5,"Ciflorette",1,"branch crown",1,2,0.5
+5,"Ciflorette",1,"vegetative bud",1,2,0.5
+5,"Cigaline",0,"vegetative bud",2,2,1
+5,"Cigaline",1,"vegetative bud",1,1,1
+5,"Cigaline",2,"vegetative bud",1,1,1
+5,"CIR107",0,"branch crown",3,3,1
+5,"CIR107",1,"vegetative bud",3,3,1
+5,"Cireine",0,"branch crown",1,3,0.333333333333333
+5,"Cireine",0,"vegetative bud",2,3,0.666666666666667
+5,"Cireine",1,"vegetative bud",3,3,1
+5,"Clery",0,"branch crown",3,3,1
+5,"Clery",1,"vegetative bud",3,3,1
+5,"Darselect",0,"vegetative bud",1,1,1
+5,"Darselect",1,"branch crown",2,4,0.5
+5,"Darselect",1,"vegetative bud",2,4,0.5
+5,"Dream",0,"branch crown",1,2,0.5
+5,"Dream",0,"vegetative bud",1,2,0.5
+5,"Dream",1,"branch crown",1,2,0.5
+5,"Dream",1,"vegetative bud",1,2,0.5
+5,"Dream",2,"branch crown",1,1,1
+5,"gariguette",0,"vegetative bud",6,6,1
+5,"Leroy Ladurie",0,"branch crown",1,4,0.25
+5,"Leroy Ladurie",0,"stolon",2,4,0.5
+5,"Leroy Ladurie",0,"vegetative bud",1,4,0.25
+5,"Leroy Ladurie",1,"branch crown",1,1,1
+5,"Leroy Ladurie",3,"vegetative bud",1,1,1
+5,"Magnum",0,"branch crown",4,5,0.8
+5,"Magnum",0,"vegetative bud",1,5,0.2
+5,"Magnum",1,"vegetative bud",1,1,1
+5,"Manon",0,"branch crown",2,4,0.5
+5,"Manon",0,"vegetative bud",2,4,0.5
+5,"Manon",1,"vegetative bud",2,2,1
+5,"Moutot",1,"branch crown",1,3,0.333333333333333
+5,"Moutot",1,"vegetative bud",2,3,0.666666666666667
+5,"Moutot",2,"vegetative bud",1,1,1
+5,"Osiris",0,"branch crown",3,4,0.75
+5,"Osiris",0,"vegetative bud",1,4,0.25
+5,"Osiris",1,"branch crown",1,2,0.5
+5,"Osiris",1,"vegetative bud",1,2,0.5
+5,"Rubis",0,"vegetative bud",1,1,1
+5,"Rubis",1,"branch crown",1,2,0.5
+5,"Rubis",1,"vegetative bud",1,2,0.5
+5,"Rubis",3,"branch crown",1,1,1
+5,"Sanié",0,"branch crown",1,1,1
+5,"Sanié",1,"vegetative bud",2,2,1
+5,"Sanié",2,"branch crown",1,2,0.5
+5,"Sanié",2,"vegetative bud",1,2,0.5
+5,"Sanié",3,"vegetative bud",1,1,1
+5,"Sans rivale",0,"branch crown",1,3,0.333333333333333
+5,"Sans rivale",0,"vegetative bud",2,3,0.666666666666667
+6,"Belle_et_Bonne",0,"branch crown",1,3,0.333333333333333
+6,"Belle_et_Bonne",0,"vegetative bud",2,3,0.666666666666667
+6,"Belle_et_Bonne",1,"branch crown",1,2,0.5
+6,"Belle_et_Bonne",1,"vegetative bud",1,2,0.5
+6,"Belrubi",0,"branch crown",1,2,0.5
+6,"Belrubi",0,"vegetative bud",1,2,0.5
+6,"Belrubi",1,"branch crown",2,3,0.666666666666667
+6,"Belrubi",1,"vegetative bud",1,3,0.333333333333333
+6,"CF10122",0,"vegetative bud",1,1,1
+6,"CF10122",1,"vegetative bud",4,4,1
+6,"CF10122",2,"vegetative bud",1,1,1
+6,"CF10277",0,"branch crown",3,4,0.75
+6,"CF10277",0,"vegetative bud",1,4,0.25
+6,"CF10277",1,"branch crown",2,2,1
+6,"CF12074",0,"branch crown",2,2,1
+6,"CF12074",1,"branch crown",2,2,1
+6,"CF12074",2,"branch crown",2,2,1
+6,"CF9416",0,"branch crown",5,5,1
+6,"Ciflorette",0,"branch crown",3,3,1
+6,"Ciflorette",1,"-1",1,2,0.5
+6,"Ciflorette",1,"branch crown",1,2,0.5
+6,"Cigaline",0,"branch crown",1,2,0.5
+6,"Cigaline",0,"vegetative bud",1,2,0.5
+6,"Cigaline",1,"branch crown",1,1,1
+6,"Cigaline",2,"vegetative bud",1,1,1
+6,"CIR107",0,"vegetative bud",1,1,1
+6,"CIR107",1,"branch crown",1,5,0.2
+6,"CIR107",1,"vegetative bud",4,5,0.8
+6,"Cireine",0,"branch crown",1,3,0.333333333333333
+6,"Cireine",0,"vegetative bud",2,3,0.666666666666667
+6,"Cireine",1,"branch crown",2,3,0.666666666666667
+6,"Cireine",1,"vegetative bud",1,3,0.333333333333333
+6,"Clery",0,"branch crown",1,1,1
+6,"Clery",1,"branch crown",1,5,0.2
+6,"Clery",1,"vegetative bud",4,5,0.8
+6,"Darselect",0,"branch crown",1,1,1
+6,"Darselect",1,"branch crown",2,2,1
+6,"Darselect",2,"vegetative bud",2,2,1
+6,"Dream",0,"vegetative bud",1,1,1
+6,"Dream",1,"branch crown",2,2,1
+6,"Dream",2,"branch crown",1,2,0.5
+6,"Dream",2,"vegetative bud",1,2,0.5
+6,"gariguette",0,"vegetative bud",6,6,1
+6,"Leroy Ladurie",0,"branch crown",1,4,0.25
+6,"Leroy Ladurie",0,"vegetative bud",3,4,0.75
+6,"Leroy Ladurie",1,"branch crown",1,1,1
+6,"Leroy Ladurie",3,"vegetative bud",1,1,1
+6,"Magnum",0,"branch crown",2,4,0.5
+6,"Magnum",0,"vegetative bud",2,4,0.5
+6,"Magnum",1,"vegetative bud",2,2,1
+6,"Manon",0,"branch crown",1,4,0.25
+6,"Manon",0,"vegetative bud",3,4,0.75
+6,"Manon",1,"branch crown",1,2,0.5
+6,"Manon",1,"vegetative bud",1,2,0.5
+6,"Moutot",1,"branch crown",1,2,0.5
+6,"Moutot",1,"vegetative bud",1,2,0.5
+6,"Moutot",2,"branch crown",1,2,0.5
+6,"Moutot",2,"vegetative bud",1,2,0.5
+6,"Osiris",0,"branch crown",3,4,0.75
+6,"Osiris",0,"vegetative bud",1,4,0.25
+6,"Osiris",1,"vegetative bud",1,1,1
+6,"Osiris",2,"vegetative bud",1,1,1
+6,"Rubis",0,"vegetative bud",1,1,1
+6,"Rubis",1,"stolon",1,1,1
+6,"Rubis",2,"vegetative bud",1,1,1
+6,"Rubis",4,"vegetative bud",1,1,1
+6,"Sanié",0,"branch crown",1,1,1
+6,"Sanié",1,"-1",1,2,0.5
+6,"Sanié",1,"vegetative bud",1,2,0.5
+6,"Sanié",2,"vegetative bud",1,1,1
+6,"Sanié",3,"vegetative bud",2,2,1
+6,"Sans rivale",0,"branch crown",2,3,0.666666666666667
+6,"Sans rivale",0,"vegetative bud",1,3,0.333333333333333
+7,"Belle_et_Bonne",0,"branch crown",1,2,0.5
+7,"Belle_et_Bonne",0,"vegetative bud",1,2,0.5
+7,"Belle_et_Bonne",1,"branch crown",1,3,0.333333333333333
+7,"Belle_et_Bonne",1,"vegetative bud",2,3,0.666666666666667
+7,"Belrubi",0,"vegetative bud",1,1,1
+7,"Belrubi",1,"branch crown",1,2,0.5
+7,"Belrubi",1,"vegetative bud",1,2,0.5
+7,"Belrubi",2,"vegetative bud",2,2,1
+7,"CF10122",0,"vegetative bud",1,1,1
+7,"CF10122",1,"branch crown",3,4,0.75
+7,"CF10122",1,"vegetative bud",1,4,0.25
+7,"CF10122",2,"vegetative bud",1,1,1
+7,"CF10277",0,"branch crown",2,3,0.666666666666667
+7,"CF10277",0,"vegetative bud",1,3,0.333333333333333
+7,"CF10277",1,"branch crown",2,3,0.666666666666667
+7,"CF10277",1,"vegetative bud",1,3,0.333333333333333
+7,"CF12074",0,"branch crown",1,1,1
+7,"CF12074",1,"branch crown",1,3,0.333333333333333
+7,"CF12074",1,"vegetative bud",2,3,0.666666666666667
+7,"CF12074",2,"branch crown",1,2,0.5
+7,"CF12074",2,"vegetative bud",1,2,0.5
+7,"CF9416",0,"branch crown",2,3,0.666666666666667
+7,"CF9416",0,"vegetative bud",1,3,0.333333333333333
+7,"CF9416",1,"vegetative bud",2,2,1
+7,"Ciflorette",1,"branch crown",2,4,0.5
+7,"Ciflorette",1,"vegetative bud",2,4,0.5
+7,"Ciflorette",2,"vegetative bud",1,1,1
+7,"Cigaline",0,"branch crown",1,2,0.5
+7,"Cigaline",0,"vegetative bud",1,2,0.5
+7,"Cigaline",1,"branch crown",1,1,1
+7,"Cigaline",2,"branch crown",1,1,1
+7,"CIR107",0,"branch crown",1,1,1
+7,"CIR107",1,"branch crown",2,4,0.5
+7,"CIR107",1,"vegetative bud",2,4,0.5
+7,"CIR107",2,"vegetative bud",1,1,1
+7,"Cireine",0,"branch crown",2,2,1
+7,"Cireine",1,"branch crown",1,2,0.5
+7,"Cireine",1,"vegetative bud",1,2,0.5
+7,"Cireine",2,"vegetative bud",2,2,1
+7,"Clery",0,"vegetative bud",1,1,1
+7,"Clery",1,"branch crown",1,4,0.25
+7,"Clery",1,"vegetative bud",3,4,0.75
+7,"Clery",2,"vegetative bud",1,1,1
+7,"Darselect",0,"branch crown",1,1,1
+7,"Darselect",2,"vegetative bud",4,4,1
+7,"Dream",0,"vegetative bud",1,1,1
+7,"Dream",2,"branch crown",1,3,0.333333333333333
+7,"Dream",2,"vegetative bud",2,3,0.666666666666667
+7,"Dream",3,"vegetative bud",1,1,1
+7,"gariguette",0,"branch crown",2,6,0.333333333333333
+7,"gariguette",0,"vegetative bud",4,6,0.666666666666667
+7,"Leroy Ladurie",0,"branch crown",1,4,0.25
+7,"Leroy Ladurie",0,"vegetative bud",3,4,0.75
+7,"Leroy Ladurie",2,"vegetative bud",1,1,1
+7,"Leroy Ladurie",3,"branch crown",1,1,1
+7,"Magnum",0,"branch crown",2,3,0.666666666666667
+7,"Magnum",0,"vegetative bud",1,3,0.333333333333333
+7,"Magnum",1,"branch crown",1,3,0.333333333333333
+7,"Magnum",1,"vegetative bud",2,3,0.666666666666667
+7,"Manon",0,"branch crown",2,4,0.5
+7,"Manon",0,"vegetative bud",2,4,0.5
+7,"Manon",1,"branch crown",1,2,0.5
+7,"Manon",1,"vegetative bud",1,2,0.5
+7,"Moutot",1,"vegetative bud",1,1,1
+7,"Moutot",2,"branch crown",1,2,0.5
+7,"Moutot",2,"vegetative bud",1,2,0.5
+7,"Moutot",3,"vegetative bud",1,1,1
+7,"Osiris",0,"branch crown",1,3,0.333333333333333
+7,"Osiris",0,"vegetative bud",2,3,0.666666666666667
+7,"Osiris",1,"vegetative bud",2,2,1
+7,"Osiris",2,"vegetative bud",1,1,1
+7,"Rubis",0,"branch crown",1,1,1
+7,"Rubis",1,"branch crown",1,1,1
+7,"Rubis",2,"vegetative bud",1,1,1
+7,"Rubis",4,"vegetative bud",1,1,1
+7,"Sanié",0,"vegetative bud",1,1,1
+7,"Sanié",1,"branch crown",1,2,0.5
+7,"Sanié",1,"vegetative bud",1,2,0.5
+7,"Sanié",2,"vegetative bud",1,1,1
+7,"Sanié",3,"branch crown",1,2,0.5
+7,"Sanié",3,"vegetative bud",1,2,0.5
+7,"Sans rivale",0,"vegetative bud",2,2,1
+7,"Sans rivale",1,"vegetative bud",1,1,1
+8,"Belle_et_Bonne",0,"branch crown",1,1,1
+8,"Belle_et_Bonne",1,"branch crown",1,3,0.333333333333333
+8,"Belle_et_Bonne",1,"vegetative bud",2,3,0.666666666666667
+8,"Belle_et_Bonne",2,"vegetative bud",1,1,1
+8,"Belrubi",0,"vegetative bud",1,1,1
+8,"Belrubi",1,"branch crown",2,2,1
+8,"Belrubi",2,"-1",1,2,0.5
+8,"Belrubi",2,"vegetative bud",1,2,0.5
+8,"CF10122",0,"branch crown",1,1,1
+8,"CF10122",1,"branch crown",1,1,1
+8,"CF10122",2,"branch crown",1,4,0.25
+8,"CF10122",2,"vegetative bud",3,4,0.75
+8,"CF10277",0,"branch crown",3,3,1
+8,"CF10277",1,"branch crown",1,1,1
+8,"CF10277",2,"vegetative bud",2,2,1
+8,"CF12074",1,"branch crown",1,4,0.25
+8,"CF12074",1,"vegetative bud",3,4,0.75
+8,"CF12074",2,"vegetative bud",1,1,1
+8,"CF12074",3,"vegetative bud",1,1,1
+8,"CF9416",0,"vegetative bud",1,1,1
+8,"CF9416",1,"vegetative bud",4,4,1
+8,"Ciflorette",1,"branch crown",2,3,0.666666666666667
+8,"Ciflorette",1,"vegetative bud",1,3,0.333333333333333
+8,"Ciflorette",2,"vegetative bud",2,2,1
+8,"Cigaline",0,"vegetative bud",1,1,1
+8,"Cigaline",1,"vegetative bud",1,1,1
+8,"Cigaline",2,"vegetative bud",1,1,1
+8,"Cigaline",3,"vegetative bud",1,1,1
+8,"CIR107",0,"branch crown",1,1,1
+8,"CIR107",1,"branch crown",1,3,0.333333333333333
+8,"CIR107",1,"vegetative bud",2,3,0.666666666666667
+8,"CIR107",2,"vegetative bud",2,2,1
+8,"Cireine",0,"branch crown",1,1,1
+8,"Cireine",1,"vegetative bud",3,3,1
+8,"Cireine",2,"branch crown",2,2,1
+8,"Clery",0,"vegetative bud",1,1,1
+8,"Clery",1,"branch crown",3,3,1
+8,"Clery",2,"branch crown",1,2,0.5
+8,"Clery",2,"vegetative bud",1,2,0.5
+8,"Darselect",1,"vegetative bud",1,1,1
+8,"Darselect",2,"branch crown",2,4,0.5
+8,"Darselect",2,"vegetative bud",2,4,0.5
+8,"Dream",0,"branch crown",1,1,1
+8,"Dream",2,"branch crown",1,2,0.5
+8,"Dream",2,"vegetative bud",1,2,0.5
+8,"Dream",3,"vegetative bud",2,2,1
+8,"gariguette",0,"branch crown",3,6,0.5
+8,"gariguette",0,"vegetative bud",3,6,0.5
+8,"Leroy Ladurie",0,"branch crown",1,3,0.333333333333333
+8,"Leroy Ladurie",0,"vegetative bud",2,3,0.666666666666667
+8,"Leroy Ladurie",1,"vegetative bud",1,1,1
+8,"Leroy Ladurie",2,"stolon",1,1,1
+8,"Leroy Ladurie",3,"branch crown",1,1,1
+8,"Magnum",0,"vegetative bud",1,1,1
+8,"Magnum",1,"branch crown",2,5,0.4
+8,"Magnum",1,"vegetative bud",3,5,0.6
+8,"Manon",0,"branch crown",2,3,0.666666666666667
+8,"Manon",0,"vegetative bud",1,3,0.333333333333333
+8,"Manon",1,"-1",1,2,0.5
+8,"Manon",1,"vegetative bud",1,2,0.5
+8,"Manon",2,"vegetative bud",1,1,1
+8,"Moutot",1,"branch crown",1,1,1
+8,"Moutot",2,"vegetative bud",1,1,1
+8,"Moutot",3,"branch crown",1,2,0.5
+8,"Moutot",3,"vegetative bud",1,2,0.5
+8,"Osiris",0,"branch crown",1,2,0.5
+8,"Osiris",0,"vegetative bud",1,2,0.5
+8,"Osiris",1,"branch crown",1,3,0.333333333333333
+8,"Osiris",1,"vegetative bud",2,3,0.666666666666667
+8,"Osiris",2,"vegetative bud",1,1,1
+8,"Rubis",1,"branch crown",1,1,1
+8,"Rubis",2,"branch crown",1,2,0.5
+8,"Rubis",2,"vegetative bud",1,2,0.5
+8,"Rubis",4,"vegetative bud",1,1,1
+8,"Sanié",0,"branch crown",1,1,1
+8,"Sanié",1,"branch crown",1,1,1
+8,"Sanié",2,"vegetative bud",1,1,1
+8,"Sanié",3,"branch crown",1,2,0.5
+8,"Sanié",3,"vegetative bud",1,2,0.5
+8,"Sans rivale",0,"vegetative bud",2,2,1
+8,"Sans rivale",1,"vegetative bud",1,1,1
+9,"Belle_et_Bonne",0,"branch crown",1,1,1
+9,"Belle_et_Bonne",1,"branch crown",1,2,0.5
+9,"Belle_et_Bonne",1,"vegetative bud",1,2,0.5
+9,"Belle_et_Bonne",2,"vegetative bud",2,2,1
+9,"Belrubi",0,"branch crown",1,1,1
+9,"Belrubi",2,"vegetative bud",3,3,1
+9,"CF10122",1,"vegetative bud",1,1,1
+9,"CF10122",2,"vegetative bud",4,4,1
+9,"CF10122",3,"vegetative bud",1,1,1
+9,"CF10277",0,"branch crown",1,1,1
+9,"CF10277",1,"vegetative bud",2,2,1
+9,"CF10277",2,"branch crown",1,3,0.333333333333333
+9,"CF10277",2,"vegetative bud",2,3,0.666666666666667
+9,"CF12074",1,"branch crown",2,3,0.666666666666667
+9,"CF12074",1,"vegetative bud",1,3,0.333333333333333
+9,"CF12074",2,"branch crown",1,2,0.5
+9,"CF12074",2,"vegetative bud",1,2,0.5
+9,"CF12074",3,"vegetative bud",1,1,1
+9,"CF9416",0,"vegetative bud",1,1,1
+9,"CF9416",1,"branch crown",2,4,0.5
+9,"CF9416",1,"vegetative bud",2,4,0.5
+9,"Ciflorette",1,"branch crown",1,2,0.5
+9,"Ciflorette",1,"vegetative bud",1,2,0.5
+9,"Ciflorette",2,"",1,3,0.333333333333333
+9,"Ciflorette",2,"vegetative bud",2,3,0.666666666666667
+9,"Cigaline",0,"branch crown",1,1,1
+9,"Cigaline",1,"vegetative bud",1,1,1
+9,"Cigaline",2,"branch crown",1,1,1
+9,"Cigaline",3,"vegetative bud",1,1,1
+9,"CIR107",1,"vegetative bud",3,3,1
+9,"CIR107",2,"vegetative bud",3,3,1
+9,"Cireine",1,"branch crown",1,4,0.25
+9,"Cireine",1,"vegetative bud",3,4,0.75
+9,"Cireine",3,"vegetative bud",2,2,1
+9,"Clery",0,"vegetative bud",1,1,1
+9,"Clery",1,"branch crown",1,1,1
+9,"Clery",2,"vegetative bud",3,3,1
+9,"Clery",3,"vegetative bud",1,1,1
+9,"Darselect",1,"branch crown",1,1,1
+9,"Darselect",2,"-1",1,2,0.5
+9,"Darselect",2,"branch crown",1,2,0.5
+9,"Darselect",3,"vegetative bud",2,2,1
+9,"Dream",0,"vegetative bud",1,1,1
+9,"Dream",2,"branch crown",1,1,1
+9,"Dream",3,"vegetative bud",3,3,1
+9,"gariguette",0,"branch crown",3,5,0.6
+9,"gariguette",0,"vegetative bud",2,5,0.4
+9,"gariguette",1,"vegetative bud",1,1,1
+9,"Leroy Ladurie",0,"branch crown",2,3,0.666666666666667
+9,"Leroy Ladurie",0,"vegetative bud",1,3,0.333333333333333
+9,"Leroy Ladurie",1,"vegetative bud",1,1,1
+9,"Leroy Ladurie",2,"stolon",1,1,1
+9,"Leroy Ladurie",4,"vegetative bud",1,1,1
+9,"Magnum",0,"vegetative bud",1,1,1
+9,"Magnum",1,"vegetative bud",3,3,1
+9,"Magnum",2,"vegetative bud",2,2,1
+9,"Manon",0,"branch crown",1,1,1
+9,"Manon",1,"vegetative bud",3,3,1
+9,"Manon",2,"vegetative bud",1,1,1
+9,"Moutot",2,"branch crown",1,2,0.5
+9,"Moutot",2,"vegetative bud",1,2,0.5
+9,"Moutot",3,"vegetative bud",1,1,1
+9,"Moutot",4,"branch crown",1,1,1
+9,"Osiris",0,"vegetative bud",1,1,1
+9,"Osiris",1,"branch crown",2,4,0.5
+9,"Osiris",1,"vegetative bud",2,4,0.5
+9,"Osiris",2,"vegetative bud",1,1,1
+9,"Rubis",2,"branch crown",1,2,0.5
+9,"Rubis",2,"vegetative bud",1,2,0.5
+9,"Rubis",3,"vegetative bud",1,1,1
+9,"Rubis",4,"vegetative bud",1,1,1
+9,"Sanié",1,"vegetative bud",1,1,1
+9,"Sanié",2,"-1",1,2,0.5
+9,"Sanié",2,"vegetative bud",1,2,0.5
+9,"Sanié",3,"branch crown",1,1,1
+9,"Sanié",4,"vegetative bud",1,1,1
+9,"Sans rivale",0,"branch crown",2,2,1
+9,"Sans rivale",1,"-1",1,1,1
+10,"Belle_et_Bonne",1,"vegetative bud",2,2,1
+10,"Belle_et_Bonne",2,"branch crown",1,3,0.333333333333333
+10,"Belle_et_Bonne",2,"vegetative bud",2,3,0.666666666666667
+10,"Belrubi",0,"branch crown",1,1,1
+10,"Belrubi",2,"aborted/dried bud",1,2,0.5
+10,"Belrubi",2,"vegetative bud",1,2,0.5
+10,"CF10122",1,"branch crown",1,1,1
+10,"CF10122",2,"branch crown",1,4,0.25
+10,"CF10122",2,"vegetative bud",3,4,0.75
+10,"CF10122",3,"vegetative bud",1,1,1
+10,"CF10277",1,"branch crown",2,3,0.666666666666667
+10,"CF10277",1,"vegetative bud",1,3,0.333333333333333
+10,"CF10277",2,"vegetative bud",2,2,1
+10,"CF10277",3,"vegetative bud",1,1,1
+10,"CF12074",1,"branch crown",1,1,1
+10,"CF12074",2,"branch crown",2,4,0.5
+10,"CF12074",2,"vegetative bud",2,4,0.5
+10,"CF9416",0,"vegetative bud",1,1,1
+10,"CF9416",1,"branch crown",1,2,0.5
+10,"CF9416",1,"vegetative bud",1,2,0.5
+10,"CF9416",2,"vegetative bud",2,2,1
+10,"Ciflorette",2,"",1,4,0.25
+10,"Ciflorette",2,"vegetative bud",3,4,0.75
+10,"Cigaline",0,"branch crown",1,1,1
+10,"Cigaline",1,"branch crown",1,1,1
+10,"Cigaline",3,"vegetative bud",2,2,1
+10,"CIR107",1,"branch crown",1,3,0.333333333333333
+10,"CIR107",1,"vegetative bud",2,3,0.666666666666667
+10,"CIR107",2,"branch crown",2,3,0.666666666666667
+10,"CIR107",2,"vegetative bud",1,3,0.333333333333333
+10,"Cireine",1,"branch crown",2,3,0.666666666666667
+10,"Cireine",1,"vegetative bud",1,3,0.333333333333333
+10,"Cireine",2,"vegetative bud",1,1,1
+10,"Cireine",3,"vegetative bud",2,2,1
+10,"Clery",0,"branch crown",1,1,1
+10,"Clery",2,"branch crown",2,4,0.5
+10,"Clery",2,"vegetative bud",2,4,0.5
+10,"Clery",3,"vegetative bud",1,1,1
+10,"Darselect",1,"branch crown",1,1,1
+10,"Darselect",3,"-1",1,3,0.333333333333333
+10,"Darselect",3,"branch crown",1,3,0.333333333333333
+10,"Darselect",3,"vegetative bud",1,3,0.333333333333333
+10,"Dream",3,"branch crown",1,4,0.25
+10,"Dream",3,"vegetative bud",3,4,0.75
+10,"gariguette",0,"branch crown",1,3,0.333333333333333
+10,"gariguette",0,"vegetative bud",2,3,0.666666666666667
+10,"gariguette",1,"branch crown",1,3,0.333333333333333
+10,"gariguette",1,"vegetative bud",2,3,0.666666666666667
+10,"Leroy Ladurie",0,"branch crown",1,2,0.5
+10,"Leroy Ladurie",0,"vegetative bud",1,2,0.5
+10,"Leroy Ladurie",1,"stolon",1,2,0.5
+10,"Leroy Ladurie",1,"vegetative bud",1,2,0.5
+10,"Leroy Ladurie",2,"branch crown",1,1,1
+10,"Leroy Ladurie",4,"vegetative bud",1,1,1
+10,"Magnum",0,"vegetative bud",1,1,1
+10,"Magnum",1,"branch crown",1,2,0.5
+10,"Magnum",1,"vegetative bud",1,2,0.5
+10,"Magnum",2,"branch crown",1,2,0.5
+10,"Magnum",2,"vegetative bud",1,2,0.5
+10,"Manon",0,"branch crown",1,1,1
+10,"Manon",1,"branch crown",1,3,0.333333333333333
+10,"Manon",1,"vegetative bud",2,3,0.666666666666667
+10,"Manon",2,"vegetative bud",1,1,1
+10,"Moutot",2,"vegetative bud",1,1,1
+10,"Moutot",3,"-1",1,2,0.5
+10,"Moutot",3,"vegetative bud",1,2,0.5
+10,"Moutot",5,"vegetative bud",1,1,1
+10,"Osiris",0,"branch crown",1,1,1
+10,"Osiris",1,"-1",1,2,0.5
+10,"Osiris",1,"vegetative bud",1,2,0.5
+10,"Osiris",2,"branch crown",1,3,0.333333333333333
+10,"Osiris",2,"vegetative bud",2,3,0.666666666666667
+10,"Rubis",2,"branch crown",1,2,0.5
+10,"Rubis",2,"vegetative bud",1,2,0.5
+10,"Rubis",3,"vegetative bud",1,1,1
+10,"Rubis",4,"branch crown",1,1,1
+10,"Sanié",1,"vegetative bud",1,1,1
+10,"Sanié",2,"branch crown",1,2,0.5
+10,"Sanié",2,"vegetative bud",1,2,0.5
+10,"Sanié",4,"vegetative bud",2,2,1
+10,"Sans rivale",0,"branch crown",2,2,1
+11,"Belle_et_Bonne",1,"branch crown",2,2,1
+11,"Belle_et_Bonne",2,"branch crown",1,2,0.5
+11,"Belle_et_Bonne",2,"vegetative bud",1,2,0.5
+11,"Belle_et_Bonne",3,"vegetative bud",1,1,1
+11,"Belrubi",1,"vegetative bud",1,1,1
+11,"Belrubi",2,"branch crown",1,1,1
+11,"CF10122",2,"branch crown",1,4,0.25
+11,"CF10122",2,"vegetative bud",3,4,0.75
+11,"CF10122",3,"vegetative bud",1,1,1
+11,"CF10277",1,"branch crown",1,1,1
+11,"CF10277",2,"vegetative bud",3,3,1
+11,"CF10277",3,"-1",1,1,1
+11,"CF12074",1,"branch crown",1,1,1
+11,"CF12074",2,"vegetative bud",2,2,1
+11,"CF12074",3,"vegetative bud",2,2,1
+11,"CF9416",0,"vegetative bud",1,1,1
+11,"CF9416",1,"branch crown",1,1,1
+11,"CF9416",2,"branch crown",2,3,0.666666666666667
+11,"CF9416",2,"vegetative bud",1,3,0.333333333333333
+11,"Ciflorette",2,"-1",1,4,0.25
+11,"Ciflorette",2,"branch crown",1,4,0.25
+11,"Ciflorette",2,"vegetative bud",2,4,0.5
+11,"Cigaline",1,"vegetative bud",1,1,1
+11,"Cigaline",2,"vegetative bud",1,1,1
+11,"Cigaline",3,"vegetative bud",1,1,1
+11,"CIR107",1,"branch crown",2,2,1
+11,"CIR107",2,"vegetative bud",2,2,1
+11,"CIR107",3,"branch crown",1,2,0.5
+11,"CIR107",3,"vegetative bud",1,2,0.5
+11,"Cireine",1,"vegetative bud",1,1,1
+11,"Cireine",2,"vegetative bud",3,3,1
+11,"Cireine",3,"vegetative bud",1,1,1
+11,"Clery",1,"branch crown",1,1,1
+11,"Clery",2,"branch crown",1,3,0.333333333333333
+11,"Clery",2,"vegetative bud",2,3,0.666666666666667
+11,"Clery",3,"vegetative bud",2,2,1
+11,"Darselect",2,"vegetative bud",1,1,1
+11,"Darselect",4,"vegetative bud",1,1,1
+11,"Dream",3,"branch crown",2,3,0.666666666666667
+11,"Dream",3,"vegetative bud",1,3,0.333333333333333
+11,"Dream",4,"vegetative bud",1,1,1
+11,"gariguette",0,"branch crown",2,3,0.666666666666667
+11,"gariguette",0,"vegetative bud",1,3,0.333333333333333
+11,"gariguette",1,"branch crown",2,2,1
+11,"gariguette",2,"vegetative bud",1,1,1
+11,"Leroy Ladurie",0,"branch crown",2,2,1
+11,"Leroy Ladurie",1,"branch crown",1,2,0.5
+11,"Leroy Ladurie",1,"stolon",1,2,0.5
+11,"Leroy Ladurie",3,"vegetative bud",1,1,1
+11,"Leroy Ladurie",4,"branch crown",1,1,1
+11,"Magnum",0,"branch crown",1,1,1
+11,"Magnum",1,"branch crown",1,1,1
+11,"Magnum",2,"vegetative bud",2,2,1
+11,"Magnum",3,"vegetative bud",1,1,1
+11,"Manon",1,"vegetative bud",2,2,1
+11,"Manon",2,"branch crown",1,2,0.5
+11,"Manon",2,"vegetative bud",1,2,0.5
+11,"Moutot",2,"vegetative bud",1,1,1
+11,"Moutot",3,"vegetative bud",1,1,1
+11,"Moutot",5,"vegetative bud",1,1,1
+11,"Osiris",0,"vegetative bud",1,1,1
+11,"Osiris",1,"branch crown",1,1,1
+11,"Osiris",2,"branch crown",1,3,0.333333333333333
+11,"Osiris",2,"vegetative bud",2,3,0.666666666666667
+11,"Rubis",2,"vegetative bud",1,1,1
+11,"Rubis",3,"branch crown",1,2,0.5
+11,"Rubis",3,"vegetative bud",1,2,0.5
+11,"Rubis",4,"branch crown",1,1,1
+11,"Sanié",1,"vegetative bud",1,1,1
+11,"Sanié",2,"branch crown",1,1,1
+11,"Sanié",3,"vegetative bud",1,1,1
+11,"Sanié",4,"branch crown",1,2,0.5
+11,"Sanié",4,"vegetative bud",1,2,0.5
+11,"Sans rivale",1,"vegetative bud",2,2,1
+12,"Belle_et_Bonne",1,"vegetative bud",1,1,1
+12,"Belle_et_Bonne",2,"branch crown",2,2,1
+12,"Belle_et_Bonne",3,"stolon",1,2,0.5
+12,"Belle_et_Bonne",3,"vegetative bud",1,2,0.5
+12,"Belrubi",1,"branch crown",1,1,1
+12,"Belrubi",3,"vegetative bud",1,1,1
+12,"CF10122",2,"branch crown",1,2,0.5
+12,"CF10122",2,"vegetative bud",1,2,0.5
+12,"CF10122",3,"vegetative bud",1,1,1
+12,"CF10277",2,"vegetative bud",3,3,1
+12,"CF12074",2,"branch crown",1,3,0.333333333333333
+12,"CF12074",2,"vegetative bud",2,3,0.666666666666667
+12,"CF12074",3,"branch crown",1,2,0.5
+12,"CF12074",3,"vegetative bud",1,2,0.5
+12,"CF9416",0,"branch crown",1,1,1
+12,"CF9416",1,"branch crown",1,1,1
+12,"CF9416",2,"vegetative bud",1,1,1
+12,"CF9416",3,"vegetative bud",2,2,1
+12,"Ciflorette",2,"vegetative bud",1,1,1
+12,"Ciflorette",3,"",1,1,1
+12,"Cigaline",1,"vegetative bud",1,1,1
+12,"Cigaline",2,"-1",1,1,1
+12,"Cigaline",3,"-1",1,1,1
+12,"CIR107",1,"branch crown",1,1,1
+12,"CIR107",2,"vegetative bud",2,2,1
+12,"CIR107",3,"vegetative bud",1,1,1
+12,"CIR107",4,"vegetative bud",1,1,1
+12,"Cireine",1,"branch crown",1,1,1
+12,"Cireine",2,"branch crown",2,3,0.666666666666667
+12,"Cireine",2,"vegetative bud",1,3,0.333333333333333
+12,"Clery",2,"-1",1,2,0.5
+12,"Clery",2,"vegetative bud",1,2,0.5
+12,"Clery",3,"branch crown",1,3,0.333333333333333
+12,"Clery",3,"vegetative bud",2,3,0.666666666666667
+12,"Darselect",2,"vegetative bud",1,1,1
+12,"Darselect",4,"vegetative bud",1,1,1
+12,"Dream",3,"branch crown",1,2,0.5
+12,"Dream",3,"vegetative bud",1,2,0.5
+12,"Dream",4,"vegetative bud",2,2,1
+12,"gariguette",0,"branch crown",3,3,1
+12,"gariguette",2,"-1",1,3,0.333333333333333
+12,"gariguette",2,"vegetative bud",2,3,0.666666666666667
+12,"Leroy Ladurie",0,"branch crown",1,1,1
+12,"Leroy Ladurie",1,"vegetative bud",2,2,1
+12,"Leroy Ladurie",2,"stolon",1,1,1
+12,"Leroy Ladurie",3,"vegetative bud",1,1,1
+12,"Leroy Ladurie",5,"stolon",1,1,1
+12,"Magnum",0,"branch crown",1,1,1
+12,"Magnum",1,"branch crown",1,1,1
+12,"Magnum",2,"-1",1,2,0.5
+12,"Magnum",2,"vegetative bud",1,2,0.5
+12,"Magnum",3,"vegetative bud",1,1,1
+12,"Manon",1,"branch crown",1,2,0.5
+12,"Manon",1,"vegetative bud",1,2,0.5
+12,"Manon",2,"vegetative bud",1,1,1
+12,"Manon",3,"vegetative bud",1,1,1
+12,"Moutot",2,"vegetative bud",1,1,1
+12,"Moutot",5,"vegetative bud",1,1,1
+12,"Osiris",0,"branch crown",1,1,1
+12,"Osiris",2,"branch crown",2,3,0.666666666666667
+12,"Osiris",2,"vegetative bud",1,3,0.333333333333333
+12,"Osiris",3,"vegetative bud",1,1,1
+12,"Rubis",2,"vegetative bud",1,1,1
+12,"Rubis",4,"vegetative bud",1,1,1
+12,"Rubis",5,"vegetative bud",1,1,1
+12,"Sanié",1,"branch crown",1,1,1
+12,"Sanié",3,"vegetative bud",2,2,1
+12,"Sanié",4,"branch crown",1,1,1
+12,"Sanié",5,"vegetative bud",1,1,1
+12,"Sans rivale",1,"branch crown",1,2,0.5
+12,"Sans rivale",1,"vegetative bud",1,2,0.5
+13,"Belle_et_Bonne",1,"branch crown",1,1,1
+13,"Belle_et_Bonne",2,"vegetative bud",1,1,1
+13,"Belle_et_Bonne",3,"vegetative bud",3,3,1
+13,"Belrubi",2,"vegetative bud",1,1,1
+13,"Belrubi",3,"vegetative bud",1,1,1
+13,"CF10122",3,"vegetative bud",1,1,1
+13,"CF10277",2,"branch crown",1,3,0.333333333333333
+13,"CF10277",2,"vegetative bud",2,3,0.666666666666667
+13,"CF12074",2,"branch crown",2,3,0.666666666666667
+13,"CF12074",2,"vegetative bud",1,3,0.333333333333333
+13,"CF12074",3,"branch crown",1,1,1
+13,"CF12074",4,"vegetative bud",1,1,1
+13,"CF9416",1,"vegetative bud",1,1,1
+13,"CF9416",2,"vegetative bud",2,2,1
+13,"CF9416",3,"branch crown",1,2,0.5
+13,"CF9416",3,"vegetative bud",1,2,0.5
+13,"Ciflorette",3,"",1,1,1
+13,"Cigaline",1,"vegetative bud",1,1,1
+13,"CIR107",2,"vegetative bud",3,3,1
+13,"CIR107",3,"vegetative bud",1,1,1
+13,"CIR107",4,"vegetative bud",1,1,1
+13,"Cireine",2,"vegetative bud",2,2,1
+13,"Cireine",3,"vegetative bud",2,2,1
+13,"Clery",2,"branch crown",1,1,1
+13,"Clery",3,"vegetative bud",2,2,1
+13,"Clery",4,"vegetative bud",1,1,1
+13,"Darselect",4,"vegetative bud",1,1,1
+13,"Dream",4,"branch crown",1,2,0.5
+13,"Dream",4,"vegetative bud",1,2,0.5
+13,"gariguette",0,"branch crown",2,2,1
+13,"gariguette",1,"vegetative bud",1,1,1
+13,"gariguette",2,"-1",1,2,0.5
+13,"gariguette",2,"vegetative bud",1,2,0.5
+13,"Leroy Ladurie",1,"branch crown",1,3,0.333333333333333
+13,"Leroy Ladurie",1,"vegetative bud",2,3,0.666666666666667
+13,"Leroy Ladurie",2,"vegetative bud",1,1,1
+13,"Leroy Ladurie",3,"stolon",1,1,1
+13,"Leroy Ladurie",5,"stolon",1,1,1
+13,"Magnum",1,"vegetative bud",1,1,1
+13,"Magnum",2,"vegetative bud",1,1,1
+13,"Magnum",3,"vegetative bud",1,1,1
+13,"Manon",1,"branch crown",1,1,1
+13,"Manon",2,"vegetative bud",2,2,1
+13,"Manon",3,"vegetative bud",1,1,1
+13,"Moutot",2,"vegetative bud",1,1,1
+13,"Moutot",5,"vegetative bud",1,1,1
+13,"Osiris",1,"vegetative bud",1,1,1
+13,"Osiris",2,"vegetative bud",1,1,1
+13,"Osiris",3,"vegetative bud",3,3,1
+13,"Rubis",2,"stolon",1,1,1
+13,"Rubis",4,"vegetative bud",1,1,1
+13,"Rubis",5,"vegetative bud",1,1,1
+13,"Sanié",2,"vegetative bud",1,1,1
+13,"Sanié",3,"-1",1,2,0.5
+13,"Sanié",3,"vegetative bud",1,2,0.5
+13,"Sanié",5,"vegetative bud",2,2,1
+13,"Sans rivale",1,"branch crown",1,1,1
+13,"Sans rivale",2,"vegetative bud",1,1,1
+14,"Belle_et_Bonne",2,"vegetative bud",2,2,1
+14,"Belle_et_Bonne",3,"vegetative bud",3,3,1
+14,"Belrubi",2,"vegetative bud",1,1,1
+14,"CF10277",2,"-1",1,2,0.5
+14,"CF10277",2,"vegetative bud",1,2,0.5
+14,"CF10277",3,"vegetative bud",1,1,1
+14,"CF12074",3,"vegetative bud",2,2,1
+14,"CF12074",4,"vegetative bud",2,2,1
+14,"CF9416",1,"branch crown",1,1,1
+14,"CF9416",2,"-1",1,2,0.5
+14,"CF9416",2,"vegetative bud",1,2,0.5
+14,"CF9416",4,"vegetative bud",1,1,1
+14,"Ciflorette",3,"vegetative bud",1,1,1
+14,"Cigaline",1,"branch crown",1,1,1
+14,"CIR107",2,"branch crown",2,3,0.666666666666667
+14,"CIR107",2,"vegetative bud",1,3,0.333333333333333
+14,"CIR107",4,"vegetative bud",1,1,1
+14,"Cireine",2,"vegetative bud",2,2,1
+14,"Cireine",3,"vegetative bud",2,2,1
+14,"Clery",3,"-1",2,3,0.666666666666667
+14,"Clery",3,"vegetative bud",1,3,0.333333333333333
+14,"Clery",4,"vegetative bud",1,1,1
+14,"Darselect",4,"vegetative bud",1,1,1
+14,"Dream",4,"branch crown",2,2,1
+14,"gariguette",0,"vegetative bud",1,1,1
+14,"gariguette",1,"branch crown",1,2,0.5
+14,"gariguette",1,"vegetative bud",1,2,0.5
+14,"gariguette",2,"vegetative bud",1,1,1
+14,"Leroy Ladurie",1,"vegetative bud",2,2,1
+14,"Leroy Ladurie",2,"vegetative bud",2,2,1
+14,"Leroy Ladurie",3,"stolon",1,1,1
+14,"Leroy Ladurie",5,"stolon",1,1,1
+14,"Magnum",1,"branch crown",1,1,1
+14,"Magnum",2,"vegetative bud",1,1,1
+14,"Magnum",3,"vegetative bud",1,1,1
+14,"Manon",2,"-1",1,3,0.333333333333333
+14,"Manon",2,"vegetative bud",2,3,0.666666666666667
+14,"Manon",3,"-1",1,1,1
+14,"Moutot",5,"vegetative bud",1,1,1
+14,"Osiris",1,"vegetative bud",1,1,1
+14,"Osiris",3,"branch crown",1,3,0.333333333333333
+14,"Osiris",3,"vegetative bud",2,3,0.666666666666667
+14,"Rubis",2,"vegetative bud",1,1,1
+14,"Rubis",4,"-1",1,1,1
+14,"Rubis",5,"vegetative bud",1,1,1
+14,"Sanié",2,"vegetative bud",1,1,1
+14,"Sanié",3,"vegetative bud",1,1,1
+14,"Sanié",5,"branch crown",1,2,0.5
+14,"Sanié",5,"vegetative bud",1,2,0.5
+14,"Sans rivale",2,"vegetative bud",2,2,1
+15,"Belle_et_Bonne",2,"vegetative bud",2,2,1
+15,"Belle_et_Bonne",3,"vegetative bud",3,3,1
+15,"Belrubi",2,"branch crown",1,1,1
+15,"CF10277",3,"vegetative bud",1,1,1
+15,"CF12074",3,"vegetative bud",2,2,1
+15,"CF12074",4,"branch crown",1,2,0.5
+15,"CF12074",4,"vegetative bud",1,2,0.5
+15,"CF9416",2,"branch crown",1,2,0.5
+15,"CF9416",2,"vegetative bud",1,2,0.5
+15,"CF9416",4,"vegetative bud",1,1,1
+15,"Cigaline",2,"vegetative bud",1,1,1
+15,"CIR107",2,"branch crown",1,1,1
+15,"CIR107",3,"vegetative bud",2,2,1
+15,"Cireine",2,"stolon",1,1,1
+15,"Cireine",3,"vegetative bud",2,2,1
+15,"Clery",3,"vegetative bud",1,1,1
+15,"Clery",4,"vegetative bud",1,1,1
+15,"Dream",5,"vegetative bud",2,2,1
+15,"gariguette",1,"vegetative bud",1,1,1
+15,"gariguette",2,"branch crown",1,2,0.5
+15,"gariguette",2,"vegetative bud",1,2,0.5
+15,"Leroy Ladurie",1,"stolon",1,2,0.5
+15,"Leroy Ladurie",1,"vegetative bud",1,2,0.5
+15,"Leroy Ladurie",2,"vegetative bud",2,2,1
+15,"Leroy Ladurie",3,"vegetative bud",1,1,1
+15,"Leroy Ladurie",5,"vegetative bud",1,1,1
+15,"Magnum",2,"vegetative bud",2,2,1
+15,"Magnum",3,"vegetative bud",1,1,1
+15,"Manon",2,"vegetative bud",2,2,1
+15,"Moutot",5,"vegetative bud",1,1,1
+15,"Osiris",1,"branch crown",1,1,1
+15,"Osiris",3,"vegetative bud",2,2,1
+15,"Osiris",4,"vegetative bud",1,1,1
+15,"Rubis",2,"vegetative bud",1,1,1
+15,"Rubis",4,"stolon",1,1,1
+15,"Rubis",5,"branch crown",1,1,1
+15,"Sanié",5,"vegetative bud",1,1,1
+15,"Sanié",6,"vegetative bud",1,1,1
+15,"Sans rivale",2,"branch crown",1,2,0.5
+15,"Sans rivale",2,"vegetative bud",1,2,0.5
+16,"Belle_et_Bonne",2,"branch crown",1,2,0.5
+16,"Belle_et_Bonne",2,"vegetative bud",1,2,0.5
+16,"Belle_et_Bonne",3,"vegetative bud",1,1,1
+16,"Belrubi",3,"vegetative bud",1,1,1
+16,"CF10277",3,"-1",1,1,1
+16,"CF12074",3,"vegetative bud",1,1,1
+16,"CF12074",4,"-1",1,1,1
+16,"CF12074",5,"vegetative bud",1,1,1
+16,"CF9416",2,"branch crown",1,2,0.5
+16,"CF9416",2,"vegetative bud",1,2,0.5
+16,"CF9416",4,"vegetative bud",1,1,1
+16,"Cigaline",2,"vegetative bud",1,1,1
+16,"CIR107",2,"branch crown",1,1,1
+16,"CIR107",3,"vegetative bud",1,1,1
+16,"Cireine",2,"vegetative bud",1,1,1
+16,"Cireine",3,"vegetative bud",2,2,1
+16,"Clery",3,"-1",1,1,1
+16,"Clery",4,"vegetative bud",1,1,1
+16,"Dream",5,"vegetative bud",2,2,1
+16,"gariguette",1,"branch crown",1,1,1
+16,"gariguette",2,"vegetative bud",2,2,1
+16,"Leroy Ladurie",1,"-1",1,2,0.5
+16,"Leroy Ladurie",1,"branch crown",1,2,0.5
+16,"Leroy Ladurie",2,"vegetative bud",2,2,1
+16,"Leroy Ladurie",3,"vegetative bud",1,1,1
+16,"Leroy Ladurie",5,"vegetative bud",1,1,1
+16,"Magnum",2,"vegetative bud",2,2,1
+16,"Manon",2,"vegetative bud",2,2,1
+16,"Moutot",5,"vegetative bud",1,1,1
+16,"Osiris",2,"vegetative bud",1,1,1
+16,"Osiris",3,"vegetative bud",1,1,1
+16,"Osiris",4,"vegetative bud",1,1,1
+16,"Rubis",2,"vegetative bud",1,1,1
+16,"Rubis",4,"vegetative bud",1,1,1
+16,"Rubis",6,"vegetative bud",1,1,1
+16,"Sanié",6,"vegetative bud",1,1,1
+16,"Sans rivale",3,"vegetative bud",1,1,1
+17,"Belle_et_Bonne",2,"-1",1,1,1
+17,"Belle_et_Bonne",3,"vegetative bud",1,1,1
+17,"Belrubi",3,"vegetative bud",1,1,1
+17,"CF12074",3,"vegetative bud",1,1,1
+17,"CF12074",5,"vegetative bud",1,1,1
+17,"CF9416",2,"vegetative bud",1,1,1
+17,"CF9416",3,"vegetative bud",1,1,1
+17,"Cigaline",2,"vegetative bud",1,1,1
+17,"CIR107",3,"-1",1,2,0.5
+17,"CIR107",3,"vegetative bud",1,2,0.5
+17,"Cireine",2,"vegetative bud",1,1,1
+17,"Cireine",3,"vegetative bud",1,1,1
+17,"Dream",5,"branch crown",1,1,1
+17,"gariguette",2,"-1",1,2,0.5
+17,"gariguette",2,"vegetative bud",1,2,0.5
+17,"Leroy Ladurie",1,"branch crown",1,1,1
+17,"Leroy Ladurie",2,"vegetative bud",3,3,1
+17,"Leroy Ladurie",3,"vegetative bud",1,1,1
+17,"Leroy Ladurie",5,"vegetative bud",1,1,1
+17,"Magnum",2,"vegetative bud",2,2,1
+17,"Osiris",2,"vegetative bud",1,1,1
+17,"Osiris",4,"vegetative bud",1,1,1
+17,"Rubis",2,"vegetative bud",1,1,1
+17,"Rubis",4,"vegetative bud",1,1,1
+17,"Rubis",6,"vegetative bud",1,1,1
+17,"Sanié",6,"vegetative bud",1,1,1
+17,"Sans rivale",3,"-1",1,1,1
+18,"Belle_et_Bonne",2,"vegetative bud",1,1,1
+18,"Belle_et_Bonne",3,"vegetative bud",1,1,1
+18,"Belrubi",3,"vegetative bud",1,1,1
+18,"CF12074",5,"vegetative bud",1,1,1
+18,"CF9416",2,"-1",1,1,1
+18,"CF9416",3,"vegetative bud",1,1,1
+18,"CIR107",3,"vegetative bud",1,1,1
+18,"Cireine",2,"vegetative bud",1,1,1
+18,"Dream",6,"vegetative bud",1,1,1
+18,"gariguette",2,"vegetative bud",1,1,1
+18,"Leroy Ladurie",2,"stolon",1,3,0.333333333333333
+18,"Leroy Ladurie",2,"vegetative bud",2,3,0.666666666666667
+18,"Leroy Ladurie",3,"vegetative bud",1,1,1
+18,"Leroy Ladurie",5,"vegetative bud",1,1,1
+18,"Osiris",2,"vegetative bud",1,1,1
+18,"Rubis",2,"vegetative bud",1,1,1
+18,"Rubis",6,"vegetative bud",1,1,1
+19,"Belle_et_Bonne",2,"vegetative bud",1,1,1
+19,"Belle_et_Bonne",3,"vegetative bud",1,1,1
+19,"CF12074",5,"vegetative bud",1,1,1
+19,"CF9416",3,"vegetative bud",1,1,1
+19,"CIR107",3,"vegetative bud",1,1,1
+19,"Cireine",2,"vegetative bud",1,1,1
+19,"gariguette",2,"-1",1,1,1
+19,"Leroy Ladurie",2,"stolon",1,3,0.333333333333333
+19,"Leroy Ladurie",2,"vegetative bud",2,3,0.666666666666667
+19,"Leroy Ladurie",3,"vegetative bud",1,1,1
+19,"Rubis",2,"vegetative bud",1,1,1
+19,"Rubis",6,"vegetative bud",1,1,1
+20,"Belle_et_Bonne",2,"vegetative bud",1,1,1
+20,"Belle_et_Bonne",3,"vegetative bud",1,1,1
+20,"Cireine",2,"vegetative bud",1,1,1
+20,"Leroy Ladurie",2,"vegetative bud",2,2,1
+20,"Leroy Ladurie",3,"vegetative bud",1,1,1
+20,"Rubis",2,"vegetative bud",1,1,1
+20,"Rubis",6,"vegetative bud",1,1,1
+21,"Belle_et_Bonne",2,"vegetative bud",1,1,1
+21,"Cireine",2,"vegetative bud",1,1,1
+21,"Leroy Ladurie",2,"stolon",1,2,0.5
+21,"Leroy Ladurie",2,"vegetative bud",1,2,0.5
+21,"Rubis",6,"vegetative bud",1,1,1
+22,"Belle_et_Bonne",2,"vegetative bud",1,1,1
+22,"Cireine",2,"vegetative bud",1,1,1
+22,"Leroy Ladurie",2,"vegetative bud",2,2,1
+22,"Rubis",6,"vegetative bud",1,1,1
+23,"Belle_et_Bonne",2,"vegetative bud",1,1,1
+23,"Leroy Ladurie",2,"vegetative bud",2,2,1
+24,"Leroy Ladurie",2,"vegetative bud",1,1,1

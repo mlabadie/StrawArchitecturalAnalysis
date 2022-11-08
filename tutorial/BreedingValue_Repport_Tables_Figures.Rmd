@@ -1,0 +1,818 @@
+---
+title: "BreedingValue Tables and Figures"
+author: "Marc LABADIE"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  word_document: 
+    toc: yes
+    fig_width: 10
+    fig_height: 10
+    fig_caption: yes
+    toc_depth: 5
+  html_document: 
+    fig_width: 10
+    fig_height: 10
+    fig_caption: yes
+    df_print: kable
+    toc: yes
+    number_sections: yes
+    toc_depth: 5
+  pdf_document: 
+    toc: yes
+    fig_width: 10
+    fig_height: 10
+    fig_caption: yes
+    number_sections: yes
+    toc_depth: 5
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+```{r Graphical parameter}
+library(RColorBrewer)
+# Graphical parameter
+mycolors<- c(brewer.pal(n=11,name = "PRGn"), brewer.pal(n=11,"RdYlBu"))
+
+```
+
+# Import packages and path
+
+```{r import packages and pathdata}
+library(ggplot2)
+library(RColorBrewer)
+library(ggpubr)
+
+#install.packages("https://github/StrawArchitecturalAnalysis")
+library(StrawArchitecturalAnalysis)
+data_path <- "D:/Mes Donnees/BreedingValue/R/RStrawberryAnalysis/data/raw/"
+data_output_path <- "D:/Mes Donnees/BreedingValue/R/RStrawberryAnalysis/data/data_output/"
+plot_output_path <- "D:/Mes Donnees/BreedingValue/R/RStrawberryAnalysis/data/plot_output/"
+
+files <- list.files(data_path,full.names = TRUE)
+```
+
+# Import data
+
+## Table 1: Plant scale data
+
+```{r import plant scale data }
+plant_data <- csv_reader(filepath = files[3],
+                         sep = ",",
+                         variable.characters = c('Genotype', "modality"),
+                         variable.date = c('date'),
+                         variable.integer = c("plant",
+                                              "no_visible_leaves",
+                                              "no_foliar_primodium",
+                                              "no_total_leaves",
+                                              "no_open_flowers",
+                                              "no_aborted_flowers",
+                                              "no_closed_flowers",
+                                              "no_total_flowers",
+                                              "no_fruits",
+                                              "no_stolons",
+                                              "no_vegetative_bud",
+                                              "no_initiated_bud",
+                                              "no_floral_bud",
+                                              "no_inflorescences",
+                                              "no_branch_crown",
+                                              "no_extension_crown",
+                                              "no_ramifications",
+                                              "order_max",
+                                              "vid"),
+                         date_format = "%d-%m-%Y",
+                         timezone = "UTC")
+
+knitr::kable(x = plant_data, 
+             align = "c",
+             caption = "Table of plant scale data extraction")
+```
+
+## Table 2: Module scale data
+
+```{r import module data}
+module_data <- csv_reader(filepath = files[1],
+                          sep = ",",
+                          variable.characters = c("Genotype",
+                                                  "modality",
+                                                  "type_of_crown",
+                                                  "crown_status",
+                                                  "stage",
+                                                  "complete_module"),
+                          variable.date = c('date'),
+                          variable.integer = c("plant",
+                                               "order",
+                                               "no_visible_leaves",
+                                               "no_foliar_primordia",
+                                               "no_total_leaves",
+                                               "no_open_flowers",
+                                               "no_aborted_flowers",
+                                               "no_total_flowers",
+                                               "no_fruits",
+                                               "no_stolons",
+                                               "no_vegetative_bud",
+                                               "no_initiated_bud",
+                                               "no_floral_bud",
+                                               "vid",
+                                               "plant_vid"),
+                          date_format = "%d-%m-%Y",
+                          timezone = "UTC")
+
+
+knitr::kable(x = module_data, 
+             align = "c",
+             caption = "Table of module scale data extraction")
+```
+
+## Table 3: node scale data
+
+```{r import node data}
+node_data <- csv_reader(filepath = files[2],
+                        sep=",",
+                        variable.characters = c("branching_type",
+                                                "complete",
+                                                "Genotype"),
+                        variable.integer = c("node_id",
+                                             "rank",
+                                             "no_modules_branching",
+                                             "no_branch_crown_branching",
+                                             "no_extension_crown_branching",
+                                             "branching_length",
+                                             "order",
+                                             "plant"),
+                        variable.date = c("date"),
+                        date_format = "%d-%m-%Y",
+                        timezone = "UTC")
+
+knitr::kable(x = module_data, 
+             align = "c",
+             caption = "Table of node scale data extraction")
+
+```
+
+```{r global parameters}
+
+genotypes<-unique(plant_data[, "Genotype"])
+
+```
+
+# Results
+
+## Plant Scale analysis
+
+### Mean and standard deviation for each variable
+
+#### Table 4: Table of Mean and standard deviation of variable in plant scale data
+
+```{r plant_summarize}
+plant_variables <- c("no_visible_leaves",
+                     "no_foliar_primodium",
+                     "no_total_leaves",
+                     "no_open_flowers",
+                     "no_aborted_flowers",
+                     "no_closed_flowers",
+                     "no_total_flowers",
+                     "no_fruits",
+                     "no_stolons",
+                     "no_vegetative_bud",
+                     "no_initiated_bud",
+                     "no_floral_bud",
+                     "no_inflorescences",
+                     "no_branch_crown",
+                     "no_extension_crown",
+                     "no_ramifications",
+                     "order_max")
+
+plant_summarize <- summarize_extract_plant(plant_data,variables = plant_variables)
+
+knitr::kable(x = plant_summarize, 
+             align = "c",
+             caption = "Table of Mean and standard deviation of variable in plant scale data",
+             digits = 2)
+
+write.csv(plant_summarize,paste(data_output_path,"plant_summarize.csv"), row.names = FALSE)
+```
+
+#### Figure 1: Pointwise mean for each variable according date at plant scale
+
+```{r Figure 1, fig.cap="Figure 1: PointWise mean at plant scale", fig.height=8, fig.width=8}
+
+plot_variables <- c("no_total_leaves","no_stolons","no_total_flowers","no_fruits") 
+plots <- list()
+
+
+for(plot_variable in plot_variables){
+  message(plot_variable)
+  
+  plots[[plot_variable]]<- local({
+    plot_pointwisemean(data = plant_summarize, scale = "plant", variable = plot_variable,display_sd = FALSE)+
+      scale_colour_manual(values = mycolors)
+  })
+}
+
+
+figure_1<- ggarrange(plots$no_total_leaves + theme(legend.position="none") + labs(title = NULL),
+                   plots$no_stolons + theme(legend.position="none") + labs(title = NULL),
+                   plots$no_total_flowers + theme(legend.position="none") + labs(title = NULL),
+                   plots$no_fruits + theme(legend.position="none") + labs(title = NULL),
+                   common.legend = TRUE, 
+                   legend="bottom",
+                   labels = c("A","B","C","D"),
+                   ncol = 2, nrow = 2)
+
+annotate_figure(p = figure_1,
+                top = text_grob(label = " ",just = "centre", size = 25),
+                fig.lab = "Figure 1: Pointwise mean number", fig.lab.face = "bold",fig.lab.size = 14)
+
+ggsave(paste(plot_output_path,"Fig1.png"), units="in", width=8, height=8, dpi=800)
+
+```
+
+### Stage distributions
+
+#### Table 5: Table of stage distribution at plant scale
+
+```{r stage distribution at plant scale}
+dist <- distribution.stage(data = module_data)
+
+knitr::kable(x = dist,
+             digits = 2,
+             caption = "Table of stage distribution at plant scale")
+
+write.csv(plant_summarize,paste(data_output_path,"stage_distribution_plant_scale.csv"), row.names = FALSE)
+
+```
+
+#### Figure 2: Pie chart of stage repartition for all genotypes
+
+```{r Pie Chart representation, fig.cap="Figure 2: Pie chart representation at Plant scale",fig.height=10,fig.width=10  }
+
+pieplots <- list()
+
+for (genotype in genotypes){
+  date <-unique(dist[dist[, "Genotype"]==genotype,"date"])
+  pieplots[[genotype]] <- local({
+    plot_pie.stage(data = dist, genotype = genotype, date = date)+
+      scale_fill_manual(values = mycolors)
+  })
+}
+
+figure_2<- ggarrange(pieplots$Belle_et_Bonne + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$Belrubi + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$CF10122 + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$CF10277 + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$CF12074 + 
+                       theme(legend.position="none") +
+                       labs(title = NULL),
+                     pieplots$CF9416 + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$Ciflorette + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$Cigaline + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$CIR107 + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$Cireine + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$Clery + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$Darselect +
+                       theme(legend.position="none") +
+                       labs(title = NULL),
+                     pieplots$Dream + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$gariguette + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$`Leroy Ladurie` +
+                       theme(legend.position="none") +
+                       labs(title = NULL),
+                     pieplots$Magnum +
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$Manon + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     pieplots$Moutot +
+                       theme(legend.position="none") +
+                       labs(title = NULL),
+                     pieplots$Osiris + 
+                       theme(legend.position="none") +
+                       labs(title = NULL),
+                     pieplots$Rubis +
+                       theme(legend.position="none") +
+                       labs(title = NULL),
+                     pieplots$Sanié +
+                       theme(legend.position="none") +
+                       labs(title = NULL),
+                     pieplots$`Sans rivale` +
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     legend = "right",
+                     common.legend = TRUE,
+                    labels = "AUTO",
+                    ncol = 5, nrow = 5)
+
+annotate_figure(p = figure_2,
+                top = text_grob(label = " "),
+                fig.lab = "Figure 2: Pie chart of stage repartition for all genotypes", 
+                fig.lab.face = "bold",
+                fig.lab.size = 14)
+
+ggsave(paste(plot_output_path,"Fig2.png"), units="in", width=10, height=10, 
+       dpi=800)
+
+```
+
+## Module scale anlysis
+
+### Mean and standard deviation at module scale
+
+#### Table 6: Table of Mean and standard deviation of variable in module scale data
+
+```{r summarize module data}
+module_variables <- c("no_visible_leaves",
+                      "no_foliar_primordia",
+                      "no_total_leaves",
+                      "no_open_flowers",
+                      "no_aborted_flowers",
+                      "no_total_flowers",
+                      "no_fruits",
+                      "no_stolons",
+                      "no_vegetative_bud",
+                      "no_initiated_bud",
+                      "no_floral_bud")
+
+module_summarize <- summarize_extract_module(module_data, variables = module_variables)
+
+knitr::kable(x = module_summarize, 
+             align = "c",
+             caption = "Table of Mean and standard deviation of variable in plant scale data",
+             digits = 2)
+
+write.csv(plant_summarize,paste(data_output_path,"module_summarize.csv"), row.names = FALSE)
+```
+
+#### Figure 3: Pointwise mean according to module order for all genotypes
+
+```{r pointwise mean for each variable by genotype and order}
+
+plot_variables <- c("no_total_leaves","no_stolons","no_total_flowers","no_fruits") 
+
+ 
+
+plot_lists <-list()
+
+for(plot_variable in plot_variables){
+    message(plot_variable)
+    plot_lists[[plot_variable]] <- local({
+      plot_pointwisemean(data = module_summarize, scale = "module", variable = plot_variable,display_sd = FALSE)+
+        scale_colour_manual(values = mycolors)
+    })
+  }
+
+
+figure_3<- ggarrange(plot_lists$no_total_leaves+ 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     plot_lists$no_stolons + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     plot_lists$no_total_flowers + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                     plot_lists$no_fruits + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL),
+                   common.legend = TRUE, 
+                   legend="right",
+                   labels = c("A","B","C","D"),
+                   ncol = 2, nrow = 2)
+
+annotate_figure(p = figure_3,
+                top = text_grob(label = " ",just = "centre", size = 25),
+                fig.lab = "Figure 3: Pointwise mean according to module order for all genotypes", 
+                fig.lab.face = "bold",
+                fig.lab.size = 12)
+
+ggsave(paste(plot_output_path,"Fig3.png"), units="in", width=8, height=8, dpi=800)
+
+
+```
+
+#### Statistical test: Comparison between genotype and order
+
+```{r kruska wallis test}
+k_test_table<- list()
+
+for (module_variable in module_variables){
+  
+  k_test_table[[module_variable]]<- local({
+    test.kruskal(data = module_data, 
+                 variable = "no_total_leaves", 
+                 letter = TRUE, 
+                 trt = interaction(module_data[, "Genotype"], 
+                                   module_data[, "order"]),
+                 display = FALSE, 
+                 )
+    
+    }
+    )
+}
+
+kruskal_ouput<-list()
+for (module_variable in module_variables){
+  kruskal_ouput[[module_variable]]<-local({
+    merge(k_test_table[[module_variable]]$means,
+          k_test_table[[module_variable]]$groups,
+          by='row.names')
+  }) 
+}
+
+```
+
+##### Table 7: ANOVA on the rank (kuskal wallis) for no. total leaves
+
+```{r output kruskal no total of leaves}
+
+knitr::kable(x = kruskal_ouput$no_total_leaves[,-c(11)],
+             digits = 2,
+             caption = "ANOVA on the rank (kuskal wallis) for no. total leaves")
+
+write.csv(kruskal_ouput$no_total_leaves[,-c(11)],
+          paste(data_output_path,"kruskal_no.leaves.csv"), row.names = FALSE)
+```
+
+##### Table 8: ANOVA on the rank (kuskal wallis) for no. total flowers
+
+```{r output test kruskal no total of total flowers}
+knitr::kable(x = kruskal_ouput$no_total_flowers[,-c(11)],
+             digits = 2,
+             caption = "ANOVA on the rank (kuskal wallis) for no. total flowers")
+
+write.csv(kruskal_ouput$no_total_flowers[,-c(11)],
+          paste(data_output_path,"kruskal_no.total_flowers.csv"), row.names = FALSE)
+```
+
+##### Table 9: ANOVA on the rank (kuskal wallis) for no. total flowers
+
+```{r output test kruskal no stolons}
+knitr::kable(x = kruskal_ouput$no_stolons[,-c(11)],
+             digits = 2,
+             caption = "ANOVA on the rank (kuskal wallis) for no. stolons")
+
+write.csv(kruskal_ouput$no_stolons[,-c(11)],
+          paste(data_output_path,"kruskal_no.stolons.csv"), row.names = FALSE)
+```
+
+##### Table 10: ANOVA on the rank (kuskal wallis) for no. total flowers
+
+```{r output test kruskal no total of fruits}
+knitr::kable(x = kruskal_ouput$no_fruits[,-c(11)],
+             digits = 2,
+             caption = "ANOVA on the rank (kuskal wallis) for no. fruits")
+
+write.csv(kruskal_ouput$no_fruits[,-c(11)],
+          paste(data_output_path,"kruskal_no.fruits.csv"), row.names = FALSE)
+```
+
+### crown type distribution
+
+#### Table 11: Crown type distribution data
+
+```{r crown type distribution data}
+crown_type_distribution <- distribution.crown_type(data = module_data)
+knitr::kable(x = crown_type_distribution,
+             digits = 2,
+             caption = "Crown_type distribution",
+             align = "c")
+
+write.csv(crown_type_distribution,
+          paste(data_output_path,"crown_type_distribution.csv"), row.names = FALSE)
+```
+
+#### Figure 4: Frequency distribution of branch crown
+
+```{r frequency distribution of branch crown, fig.cap="frequency distribution of branch crown", fig.height=8, fig.width=8}
+
+figure_4 <- plot_distribution.crown_type(data = crown_type_distribution,
+                                         crown_type = "Branch",
+                                         variable = "freq") +
+                labs(title = " ") + 
+                scale_colour_manual(values = mycolors)
+
+annotate_figure(p = figure_4,
+                top = text_grob(label = " ",just = "centre", size = 25),
+                fig.lab = "Figure 4:Frequency distribution of branch crown for all genotypes", 
+                fig.lab.face = "bold",
+                fig.lab.size = 12)
+
+ggsave(paste(plot_output_path,"Fig4.png"), units="in", width=8, height=8, dpi=800)
+
+
+```
+
+#### Figure 5: Relative frequency of branch crown
+
+```{r Relative frequency distribution of branch crown,fig.cap="Relative frequency distribution of branch crown", fig.height=8, fig.width=8}
+
+figure_5 <- plot_distribution.crown_type(data = crown_type_distribution,
+                                         crown_type = "Branch",
+                                         variable = "prob") +
+                labs(title = " ") + 
+                scale_colour_manual(values = mycolors)
+
+annotate_figure(p = figure_4,
+                top = text_grob(label = " ",just = "centre", size = 25),
+                fig.lab = "Figure 5:Relative frequency distribution of branch crown for all genotypes", 
+                fig.lab.face = "bold",
+                fig.lab.size = 12)
+
+ggsave(paste(plot_output_path,"Fig5.png"), units="in", width=8, height=8, dpi=800)
+
+
+```
+
+## Node scale analysis
+
+### Mean and standard deviation at node scale
+
+```{r node summarize}
+variables <- c("no_modules_branching",
+               "no_branch_crown_branching",
+               "no_extension_crown_branching",
+               "branching_length")
+
+node_summarize <- summarize_extract_node(data = node_data, variables = variables)
+
+knitr::kable(x = node_summarize,
+             digits = 3,
+             caption = "Table of Mean and standard deviation of variable at node scale",
+             align = "c")
+
+
+write.csv(node_summarize,
+          paste(data_output_path,"node_summarize.csv"), row.names = FALSE)
+```
+
+### Axillary production distribution
+
+#### Table 12: Table of axillary production distribution
+
+```{r Table of axillary production distribution}
+axillary_production <- distribution.axillary_production(node_data)
+knitr::kable(x = axillary_production,
+             digits = 2,
+             align = "c",
+             caption = "Table of axillary production distribution")
+
+write.csv(axillary_production,
+          paste(data_output_path,"axillary_production.csv"), row.names = FALSE)
+```
+
+#### Figure 6 : Axillary production plot according to rank node frequency
+
+```{r plot axillary production distribution, fig.height=10, fig.width=10}
+
+plots_axillary_production<- list()
+for (genotype in genotypes){
+  plots_axillary_production[[genotype]] <- local({
+    plot_axillary_production(data = axillary_production,
+                         genotype = genotype,
+                         variable = "n")
+  })
+}
+
+figure_6<- ggarrange(plots_axillary_production$Belle_et_Bonne + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Belrubi +
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CF10122 +
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CF10277 + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CF12074 +
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CF9416 + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Ciflorette + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Cigaline + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CIR107 + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Cireine + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Clery + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Darselect + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Dream + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$gariguette + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$`Leroy Ladurie` + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Magnum + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Manon + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Moutot + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Osiris + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Rubis +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Sanié + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$`Sans rivale` + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     legend = "right",
+                     common.legend = TRUE,
+                     labels = "AUTO",
+                      ncol = 5, nrow = 5)
+
+annotate_figure(p = figure_6,
+                top = text_grob(label = " "),
+                fig.lab = "Figure 6: Axillary production repartition for all genotypes at order0", 
+                fig.lab.face = "bold",
+                fig.lab.size = 14)
+
+ggsave(paste(plot_output_path,"Fig6.png"), units="in", width=10, height=10, dpi=800)
+
+```
+
+#### Figure 7: Relative frequency axillary production
+
+```{r plot prob axillary production distribution, fig.height=10, fig.width=10}
+plots_axillary_production<- list()
+for (genotype in genotypes){
+  plots_axillary_production[[genotype]] <- local({
+    plot_axillary_production(data = axillary_production,
+                         genotype = genotype,
+                         variable = "prob")
+  })
+}
+
+figure_7<- ggarrange(plots_axillary_production$Belle_et_Bonne +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Belrubi +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CF10122 +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CF10277 +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CF12074 +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CF9416 +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Ciflorette +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Cigaline +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$CIR107 +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Cireine +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Clery +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Darselect +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Dream +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$gariguette +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$`Leroy Ladurie` +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Magnum +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Manon +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Moutot +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Osiris +
+                       theme(legend.position="none") +
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Rubis +
+                       theme(legend.position="none") +
+                      labs(title = NULL)+
+                      scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$Sanié +
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     plots_axillary_production$`Sans rivale` + 
+                       theme(legend.position="none") + 
+                       labs(title = NULL)+
+                       scale_colour_brewer(type = "qual",palette = 6),
+                     legend = "bottom",
+                     common.legend = TRUE,
+                     labels = "AUTO",
+                      ncol = 5, nrow = 5)
+
+annotate_figure(p = figure_7,
+                top = text_grob(label = " "),
+                fig.lab = "Figure 7: Axillary production repartition for all genotypes at order0", 
+                fig.lab.face = "bold",
+                fig.lab.size = 14)
+
+ggsave(paste(plot_output_path,"Fig7.png"), units="in", width=10, height=10, dpi=800)
+
+```
